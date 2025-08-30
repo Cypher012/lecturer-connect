@@ -1,0 +1,165 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Updated color palette to match enhanced design brief with orange primary and warm neutrals */
+  --background: #ffffff; /* Main background color */
+  --foreground: #4b5563; /* Text color for body */
+  --card: #fffbeb; /* Card background with warm tint */
+  --card-foreground: #4b5563; /* Text color for card */
+  --popover: #ffffff; /* Popover background */
+  --popover-foreground: #4b5563; /* Text color for popover */
+  --primary: #ea580c; /* Orange primary actions */
+  --primary-foreground: #ffffff; /* Text color for primary actions */
+  --secondary: #f97316; /* Orange secondary accents */
+  --secondary-foreground: #ffffff; /* Text color for secondary actions */
+  --muted: #fefce8; /* Light yellow muted backgrounds */
+  --muted-foreground: #4b5563; /* Text color for muted elements */
+  --accent: #f97316; /* Orange accent color */
+  --accent-foreground: #ffffff; /* Text color for accents */
+  --destructive: #be123c; /* Destructive actions */
+  --destructive-foreground: #ffffff; /* Text color for destructive actions */
+  --border: #e5e7eb; /* Border color */
+  --input: #ffffff; /* Input background */
+  --ring: rgba(234, 88, 12, 0.5); /* Orange focus ring */
+  --chart-1: #f97316; /* Chart color 1 */
+  --chart-2: #ea580c; /* Chart color 2 */
+  --chart-3: #fffbeb; /* Chart color 3 */
+  --chart-4: #fefce8; /* Chart color 4 */
+  --chart-5: #4b5563; /* Chart color 5 */
+  --radius: 1rem; /* Enhanced border radius */
+  --sidebar: #ffffff; /* Sidebar background */
+  --sidebar-foreground: #4b5563; /* Sidebar text color */
+  --sidebar-primary: #ea580c; /* Sidebar primary color */
+  --sidebar-primary-foreground: #ffffff; /* Sidebar primary text color */
+  --sidebar-accent: #f97316; /* Sidebar accent color */
+  --sidebar-accent-foreground: #ffffff; /* Sidebar accent text color */
+  --sidebar-border: #e5e7eb; /* Sidebar border color */
+  --sidebar-ring: rgba(234, 88, 12, 0.5); /* Sidebar focus ring */
+}
+
+.dark {
+  --background: #0f172a; /* Dark background */
+  --foreground: #f1f5f9; /* Light text */
+  --card: #1e293b; /* Dark card background */
+  --card-foreground: #f1f5f9; /* Light card text */
+  --popover: #1e293b; /* Dark popover */
+  --popover-foreground: #f1f5f9; /* Light popover text */
+  --primary: #f97316; /* Brighter orange for dark mode */
+  --primary-foreground: #ffffff; /* White text on primary */
+  --secondary: #ea580c; /* Secondary orange */
+  --secondary-foreground: #ffffff; /* Light secondary text */
+  --muted: #334155; /* Dark muted */
+  --muted-foreground: #94a3b8; /* Medium muted text */
+  --accent: #f97316; /* Orange accent */
+  --accent-foreground: #ffffff; /* White accent text */
+  --destructive: #ef4444; /* Red destructive */
+  --destructive-foreground: #ffffff; /* White destructive text */
+  --border: #334155; /* Dark border */
+  --input: #334155; /* Dark input */
+  --ring: rgba(249, 115, 22, 0.5); /* Orange focus ring */
+  --chart-1: #f97316;
+  --chart-2: #ea580c;
+  --chart-3: #fed7aa;
+  --chart-4: #ffedd5;
+  --chart-5: #94a3b8;
+  --sidebar: #1e293b;
+  --sidebar-foreground: #f1f5f9;
+  --sidebar-primary: #f97316;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #334155;
+  --sidebar-accent-foreground: #f1f5f9;
+  --sidebar-border: #334155;
+  --sidebar-ring: rgba(249, 115, 22, 0.5);
+}
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Added custom gradient and animation utilities for enhanced card designs */
+@layer utilities {
+  .card-gradient {
+    background: linear-gradient(135deg, hsl(var(--card)) 0%, hsl(var(--background)) 100%);
+  }
+
+  .card-texture {
+    background-image: radial-gradient(circle at 1px 1px, rgba(255, 255, 255, 0.15) 1px, transparent 0);
+    background-size: 20px 20px;
+  }
+
+  .hover-lift {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .hover-lift:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  }
+
+  .profile-ring {
+    box-shadow: 0 0 0 3px hsl(var(--accent));
+  }
+
+  .shimmer {
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+    animation: shimmer 2s infinite;
+  }
+
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+}
