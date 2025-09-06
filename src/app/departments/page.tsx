@@ -1,18 +1,28 @@
+"use client"
+
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { DepartmentCard } from "@/components/department-card"
-import { departments ,getLecturersByDepartment, lecturers } from "@/lib/mock-data"
+import { getLecturersByDepartment, lecturers } from "@/lib/mock-data"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import Link from "next/link"
 import { Building2, Users, ArrowRight, BookOpen, GraduationCap } from "lucide-react"
+import {useDepartments} from "~/src/components/department-provider"
 
 
 export default function DepartmentsPage() {
   const totalLecturers = lecturers.length
+  const departments = useDepartments()
   const totalDepartments = departments.length
 
+  function truncateAtWord(str: string, maxLength:number) {
+    if (str.length <= maxLength) return str; // no need to truncate
+    const truncated = str.slice(0, maxLength);
+    const lastSpace = truncated.lastIndexOf(' '); // find last space
+    return truncated.slice(0, lastSpace) + '...';
+  }
+
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background container mx-auto">
       {/* Header Section */}
       <section className="bg-muted/30 py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -56,13 +66,17 @@ export default function DepartmentsPage() {
                         <Building2 className="h-6 w-6 text-primary" />
                       </div>
                       <div>
-                        <CardTitle className="text-xl text-balance">{department.name}</CardTitle>
+                          <CardTitle className="text-xl text-balance hover:text-accent duration-300">
+                            <Link href={`/departments/${department.id}`}>
+                                {department.name}
+                            </Link>
+                          </CardTitle>
                       </div>
                     </div>
                   </div>
                 </CardHeader>
                 <CardContent className="space-y-4">
-                  <p className="text-muted-foreground text-pretty">{department.description}</p>
+                  <p className="text-muted-foreground text-pretty">{truncateAtWord(department.description, 200)}</p>
 
                   {/* Stats */}
                   <div className="flex items-center justify-between">

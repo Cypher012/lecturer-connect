@@ -28,7 +28,6 @@ export interface Department {
   id: string
   name: string
   description: string
-  lecturer_count: number
 }
 
 export const departments: Department[] = [
@@ -36,31 +35,26 @@ export const departments: Department[] = [
     id: "cse",
     name: "Computer Science and Engineering",
     description: "Core computer science, algorithms, and software engineering",
-    lecturer_count: 12,
   },
   {
-    id: "cybersecurity",
+    id: "cyb",
     name: "Cybersecurity",
     description: "Information security, network security, and digital forensics",
-    lecturer_count: 8,
   },
   {
-    id: "ai",
-    name: "Artificial Intelligence",
-    description: "Machine learning, deep learning, and intelligent systems",
-    lecturer_count: 10,
+    id: "is",
+    name: "Information Systems",
+    description: "Focuses on the design, development, and management of information systems to support business processes",
   },
   {
-    id: "data-science",
-    name: "Data Science",
-    description: "Big data analytics, data mining, and statistical computing",
-    lecturer_count: 7,
+    id: "ict",
+    name: "Information and Communication Technology",
+    description: "Covers the integration of communication technologies and IT infrastructure, including networking, cloud computing, digital communication systems, and their application across industries.",
   },
   {
-    id: "software-eng",
+    id: "se",
     name: "Software Engineering",
     description: "Software development methodologies and project management",
-    lecturer_count: 9,
   },
 ]
 

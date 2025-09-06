@@ -1,19 +1,17 @@
+'use client'
+
 import { notFound } from "next/navigation"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { LecturerCard } from "@/components/lecturer-card"
-import { departments, getLecturersByDepartment } from "@/lib/mock-data"
+import {  getLecturersByDepartment } from "@/lib/mock-data"
 import { ArrowLeft, Users, BookOpen, Mail } from "lucide-react"
 import Link from "next/link"
+import {useDepartments} from "~/src/components/department-provider"
 
-interface DepartmentPageProps {
-  params: {
-    id: string
-  }
-}
 
-export default function DepartmentPage({ params }: DepartmentPageProps) {
-  const department = departments.find((dept) => dept.id === params.id)
+export default function DepartmentPage({ params: id }: {params: string}) {
+  const department = useDepartments().find((dept) => dept.id === id)
 
   if (!department) {
     notFound()
@@ -52,11 +50,11 @@ export default function DepartmentPage({ params }: DepartmentPageProps) {
             {/* Department Stats */}
             <div className="flex justify-center space-x-8 mb-8">
               <div className="text-center">
-                <div className="text-3xl font-bold text-accent">{departmentLecturers.length}</div>
+                <div className="text-3xl font-bold text-accent">{department.lecturers.length}</div>
                 <div className="text-sm text-muted-foreground">Faculty Members</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-accent">{courses.length}</div>
+                <div className="text-3xl font-bold text-accent">{department.courses.length}</div>
                 <div className="text-sm text-muted-foreground">Courses Offered</div>
               </div>
               <div className="text-center">

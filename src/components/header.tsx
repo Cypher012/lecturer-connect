@@ -1,7 +1,5 @@
 "use client"
 
-import type React from "react"
-
 import Link from "next/link"
 import { useState } from "react"
 import { Button } from "@/components/ui/button"
@@ -14,13 +12,15 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
-import { departments } from "@/lib/mock-data"
 import { useAuth } from "@/lib/auth"
+import type {DepartmentWithRelations as Department} from "@/lib/actions/departments"
 
-export function Header() {
+
+export function Header({departments}: {departments: Department[]}) {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [searchQuery, setSearchQuery] = useState("")
   const { user, logout, isAuthenticated } = useAuth()
+
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault()

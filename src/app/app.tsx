@@ -9,10 +9,16 @@ import { Badge } from "@/components/ui/badge"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Search, Users, BookOpen, MessageCircle, GraduationCap, ArrowRight, Building2  } from "lucide-react"
 import Link from "next/link"
-import { departments, getLecturersByDepartment, lecturers } from "@/lib/mock-data"
+import { getLecturersByDepartment, lecturers } from "@/lib/mock-data"
+import { DepartmentWithRelations} from "@/lib/actions/departments"
 
-export default function HomePage() {
+
+export default function HomePage({departments}: {departments: DepartmentWithRelations[]}) {
   const [searchQuery, setSearchQuery] = useState("")
+
+  const totalLecturers = departments.reduce((sum, department) => sum + department.lecturers.length, 0)
+  const totalDepartments = departments.length
+
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault()
@@ -21,8 +27,14 @@ export default function HomePage() {
     }
   }
 
-  const totalLecturers = lecturers.length
-  const totalDepartments = departments.length
+
+  function truncateAtWord(str: string, maxLength:number) {
+    if (str.length <= maxLength) return str; // no need to truncate
+    const truncated = str.slice(0, maxLength);
+    const lastSpace = truncated.lastIndexOf(' '); // find last space
+    return truncated.slice(0, lastSpace) + '...';
+  }
+
 
   return (
     <div className="min-h-screen bg-background">
@@ -159,92 +171,110 @@ export default function HomePage() {
           </div>
           {/* Departmental Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-          {departments.slice(0, 6).map((department) => {
-            const departmentLecturers = getLecturersByDepartment(department.name)
-            const lecturerCount = departmentLecturers.length
+            {departments.map((department) => {
+              const departmentLecturers = getLecturersByDepartment(department.name);
+              const lecturerCount = departmentLecturers.length;
 
-            return (
-              <Card key={department.id} className="hover:shadow-lg transition-shadow duration-200 group">
-                <CardHeader>
-                  <div className="flex items-start justify-between">
-                    <div className="flex items-center space-x-3">
-                      <div className="p-2 bg-primary/10 rounded-lg group-hover:bg-primary/20 transition-colors">
-                        <Building2 className="h-6 w-6 text-primary" />
-                      </div>
-                      <div>
-                        <CardTitle className="text-xl text-balance">{department.name}</CardTitle>
+              return (
+                <Card
+                  key={department.id}
+                  className="hover:shadow-lg transition-shadow duration-200 group"
+                >
+                  <CardHeader>
+                    <div className="flex items-start justify-between">
+                      <div className="flex items-center space-x-3">
+                        <div className="p-2 bg-primary/10 rounded-lg group-hover:bg-primary/20 transition-colors">
+                          <Building2 className="h-6 w-6 text-primary" />
+                        </div>
+                        <div>
+                          <CardTitle className="text-xl text-balance hover:text-accent duration-300">
+                            <Link href={`/departments/${department.id}`}>
+                                {department.name}
+                            </Link>
+                          </CardTitle>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                </CardHeader>
-                <CardContent className="space-y-4">
-                  <p className="text-muted-foreground text-pretty">{department.description}</p>
+                  </CardHeader>
 
-                  {/* Stats */}
-                  <div className="flex items-center justify-between">
-                    <div className="flex items-center space-x-2">
-                      <Users className="h-4 w-4 text-muted-foreground" />
-                      <span className="text-sm text-muted-foreground">
-                        {lecturerCount} {lecturerCount === 1 ? "Lecturer" : "Lecturers"}
-                      </span>
+                  <CardContent className="space-y-4">
+                    <p className="text-muted-foreground text-pretty">
+                      {truncateAtWord(department.description, 250)}
+                    </p>
+
+                    {/* Stats */}
+                    <div className="flex items-center justify-between">
+                      <div className="flex items-center space-x-2">
+                        <Users className="h-4 w-4 text-muted-foreground" />
+                        <span className="text-sm text-muted-foreground">
+                          {lecturerCount} {lecturerCount === 1 ? "Lecturer" : "Lecturers"}
+                        </span>
+                      </div>
+                      <Badge variant="secondary" className="text-xs">
+                        {department.id.toUpperCase()}
+                      </Badge>
                     </div>
-                    <Badge variant="secondary" className="text-xs">
-                      {department.id.toUpperCase()}
-                    </Badge>
-                  </div>
 
-                  {/* Research Areas Preview */}
-                  <div className="space-y-2">
-                    <h4 className="text-sm font-medium text-foreground flex items-center gap-2">
-                      <BookOpen className="h-3 w-3" />
-                      Key Research Areas
-                    </h4>
-                    <div className="flex flex-wrap gap-1">
-                      {departmentLecturers
-                        .flatMap((lecturer) => lecturer.research_areas)
-                        .filter((area, index, self) => self.indexOf(area) === index)
-                        .slice(0, 3)
-                        .map((area) => (
-                          <Badge key={area} variant="outline" className="text-xs">
-                            {area}
+                    {/* Research Areas Preview */}
+                    <div className="space-y-2">
+                      <h4 className="text-sm font-medium text-foreground flex items-center gap-2">
+                        <BookOpen className="h-3 w-3" />
+                        Key Research Areas
+                      </h4>
+                      <div className="flex flex-wrap gap-1">
+                        {departmentLecturers
+                          .flatMap((lecturer) => lecturer.research_areas)
+                          .filter((area, index, self) => self.indexOf(area) === index)
+                          .slice(0, 3)
+                          .map((area) => (
+                            <Badge key={area} variant="outline" className="text-xs">
+                              {area}
+                            </Badge>
+                          ))}
+
+                        {departmentLecturers
+                          .flatMap((lecturer) => lecturer.research_areas)
+                          .filter((area, index, self) => self.indexOf(area) === index)
+                          .length > 3 && (
+                          <Badge variant="outline" className="text-xs">
+                            +
+                            {departmentLecturers
+                              .flatMap((lecturer) => lecturer.research_areas)
+                              .filter(
+                                (area, index, self) => self.indexOf(area) === index
+                              ).length - 3}{" "}
+                            more
                           </Badge>
-                        ))}
-                      {departmentLecturers
-                        .flatMap((lecturer) => lecturer.research_areas)
-                        .filter((area, index, self) => self.indexOf(area) === index).length > 3 && (
-                        <Badge variant="outline" className="text-xs">
-                          +
-                          {departmentLecturers
-                            .flatMap((lecturer) => lecturer.research_areas)
-                            .filter((area, index, self) => self.indexOf(area) === index).length - 3}{" "}
-                          more
-                        </Badge>
-                      )}
+                        )}
+                      </div>
                     </div>
-                  </div>
 
-                  {/* Action Buttons */}
-                  <div className="flex gap-2 pt-2">
-                    <Button asChild className="flex-1">
-                      <Link href={`/lecturers?department=${encodeURIComponent(department.name)}`}>
-                        View Lecturers
-                        <ArrowRight className="ml-2 h-4 w-4" />
-                      </Link>
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
-            )
-          })}
-        </div>
+                    {/* Action Buttons */}
+                    <div className="flex gap-2 pt-2">
+                      <Button asChild className="flex-1">
+                        <Link
+                          href={`/lecturers?department=${encodeURIComponent(
+                            department.name
+                          )}`}
+                        >
+                          View Lecturers
+                          <ArrowRight className="ml-2 h-4 w-4" />
+                        </Link>
+                      </Button>
+                    </div>
+                  </CardContent>
+                </Card>
+              );
+            })}
+          </div>
 
-          <div className="text-center mt-8">
+          {/* <div className="text-center mt-8">
             <Link href="/departments">
               <Button variant="outline" size="lg">
                 View All Departments
               </Button>
             </Link>
-          </div>
+          </div> */}
         </div>
       </section>
 

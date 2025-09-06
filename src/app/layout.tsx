@@ -7,7 +7,10 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { AuthProvider } from "@/lib/auth"
 import { Suspense } from "react"
+import {DepartmentsProvider} from "~/src/components/department-provider"
+
 import "./globals.css"
+import { getDepartments } from "../lib/actions/departments"
 
 export const metadata: Metadata = {
   title: "Lecturer Connect - Faculty of Computing",
@@ -16,18 +19,21 @@ export const metadata: Metadata = {
   generator: "v0.app",
 }
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode
 }>) {
+  const departments = await getDepartments()
   return (
     <html lang="en">
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} min-h-screen flex flex-col`}>
         <AuthProvider>
           <Suspense fallback={<div>Loading...</div>}>
-            <Header />
+          <DepartmentsProvider departments={departments}>
+            <Header departments={departments} />
             <main className="flex-1">{children}</main>
+        </DepartmentsProvider>
             <Footer />
           </Suspense>
         </AuthProvider>

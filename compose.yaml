@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:16
+    container_name: lecturer_connect
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: cipher
+      POSTGRES_PASSWORD: cipher123
+      POSTGRES_DB: lecturer_connect
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
