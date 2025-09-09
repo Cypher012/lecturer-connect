@@ -4,26 +4,50 @@ import { notFound } from "next/navigation"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { LecturerCard } from "@/components/lecturer-card"
-import {  getLecturersByDepartment } from "@/lib/mock-data"
 import { ArrowLeft, Users, BookOpen, Mail } from "lucide-react"
 import Link from "next/link"
 import {useDepartments} from "~/src/components/department-provider"
+import { getLecturersByDepartment } from "~/src/components/Department/DepartmentPage"
+import { DepartmentWithRelations } from "~/src/lib/actions/departments"
+import { Course } from "~/generated/prisma"
+import { LecturerWithRelations } from "~/src/lib/actions/lecturers"
 
 
-export default function DepartmentPage({ params: id }: {params: string}) {
+function getCoursesByDepartment( departmentId: string, departments: DepartmentWithRelations[]): Course[] {
+  // Find the department
+  const dept = departments.find((d) => d.id === departmentId);
+  if (!dept) return []; // no department found
+
+  // Optionally limit to 10 courses
+  return dept.courses
+}
+
+
+interface DepartmentPageProps {
+  id: string,
+  lecturers: LecturerWithRelations[]
+}
+export default function DepartmentPage({ id, lecturers }: DepartmentPageProps) {
+  const departments = useDepartments()
   const department = useDepartments().find((dept) => dept.id === id)
+
+  console.log("department", department)
+
+
 
   if (!department) {
     notFound()
   }
 
-  const departmentLecturers = getLecturersByDepartment(department.name)
+  const departmentLecturers = getLecturersByDepartment(department.id, departments)
+  const departmentCourses = getCoursesByDepartment(department.id, departments)
+  
 
   // Get unique research areas from department lecturers
-  const researchAreas = Array.from(new Set(departmentLecturers.flatMap((lecturer) => lecturer.research_areas))).sort()
+  const researchAreas = Array.from(new Set(departmentLecturers.flatMap((lecturer) => lecturer.researchAreas))).sort()
 
   // Get unique courses from department lecturers
-  const courses = Array.from(new Set(departmentLecturers.flatMap((lecturer) => lecturer.courses_taught))).sort()
+  const courses = departmentCourses
 
   return (
     <div className="min-h-screen bg-background">
@@ -80,7 +104,7 @@ export default function DepartmentPage({ params: id }: {params: string}) {
               </CardHeader>
               <CardContent>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                  {researchAreas.map((area) => (
+                  {researchAreas.slice(0, 10).map((area) => (
                     <div key={area} className="p-3 bg-muted/50 rounded-lg text-sm">
                       {area}
                     </div>
@@ -100,8 +124,8 @@ export default function DepartmentPage({ params: id }: {params: string}) {
               <CardContent>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
                   {courses.slice(0, 8).map((course) => (
-                    <div key={course} className="p-3 bg-muted/50 rounded-lg text-sm">
-                      {course}
+                    <div key={course.course_code} className="p-3 bg-muted/50 rounded-lg text-sm">
+                      {course.course_code}
                     </div>
                   ))}
                   {courses.length > 8 && (
@@ -142,7 +166,7 @@ export default function DepartmentPage({ params: id }: {params: string}) {
             </Card>
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-              {departmentLecturers.map((lecturer) => (
+              {lecturers.map((lecturer) => (
                 <LecturerCard key={lecturer.id} lecturer={lecturer} variant="grid" />
               ))}
             </div>

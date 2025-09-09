@@ -1,0 +1,27 @@
+ [
+  {
+    "id": "cse",
+    "name": "Computer Science and Engineering",
+    "description": "Core computer science, algorithms, and software engineering"
+  },
+  {
+    "id": "cyb",
+    "name": "Cybersecurity",
+    "description": "Information security, network security, and digital forensics"
+  },
+  {
+    "id": "is",
+    "name": "Information Systems",
+    "description": "Focuses on the design, development, and management of information systems to support business processes"
+  },
+  {
+    "id": "ict",
+    "name": "Information and Communication Technology",
+    "description": "Covers the integration of communication technologies and IT infrastructure, including networking, cloud computing, digital communication systems, and their application across industries."
+  },
+  {
+    "id": "se",
+    "name": "Software Engineering",
+    "description": "Software development methodologies and project management"
+  }
+]

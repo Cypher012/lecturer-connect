@@ -3,7 +3,7 @@
 import { db } from "@/server/db";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
- 
+import { cache } from "react";
 
 import type { Department as $Department, Course, Lecturer } from "~/generated/prisma";
 
@@ -38,12 +38,14 @@ export async function createDepartment(formData: FormData) {
 }
 
 // READ
-export async function getDepartments() {
+export  async function getDepartments() {
   return db.department.findMany({
     orderBy: { createdAt: "desc" },
     include: { courses: true, lecturers: true },
   });
 }
+
+export const getDepartmentsCached = cache(getDepartments);
 
 export async function getDepartment(id: string){
   return db.department.findUnique({

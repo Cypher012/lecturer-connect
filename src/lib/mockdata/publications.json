@@ -1,0 +1,106 @@
+[
+  {
+    "title": "A Real-Time Nature-Inspired Intrusion Detection in Virtual Environments",
+    "type": "Journal article",
+    "year": 2024,
+    "doi": "10.14569/IJACSA.2024.0151266",
+    "link": "https://doi.org/10.14569/IJACSA.2024.0151266",
+    "lecturers": ["temitope.ajayi@oauife.edu.ng", "rotimi.gbadebo@university.local"]
+  },
+  {
+    "title": "Towards a Bio-inspired Real-Time Intrusion Detection in the Smart Grid",
+    "type": "Conference paper",
+    "year": 2024,
+    "doi": "10.1007/978-981-97-5799-2_26",
+    "link": "https://doi.org/10.1007/978-981-97-5799-2_26",
+    "lecturers": ["temitope.ajayi@oauife.edu.ng"]
+  },
+  {
+    "title": "An Enhanced Cluster-Based Routing Model for Energy-Efficient Wireless Sensor Networks",
+    "type": "Journal article",
+    "year": 2023,
+    "doi": "10.52549/ijeei.v11i2.4566",
+    "link": "https://doi.org/10.52549/ijeei.v11i2.4566",
+    "lecturers": ["temitope.ajayi@oauife.edu.ng", "rotimi.gbadebo@university.local"]
+  },
+  {
+    "title": "Refining Blockchain-Powered Industrial Internet-of-Things Architecture for Improved Performance",
+    "type": "Conference paper",
+    "year": 2023,
+    "doi": "10.1109/BCCA58897.2023.10338910",
+    "link": "https://doi.org/10.1109/BCCA58897.2023.10338910",
+    "lecturers": ["temitope.ajayi@oauife.edu.ng"]
+  },
+  {
+    "title": "Realistic Looking Interfaces: Ergonomic Metaphors for Remote and Virtual Laboratory Interfaces",
+    "type": "Conference paper",
+    "year": 2008,
+    "doi": null,
+    "link": null,
+    "lecturers": ["temitope.ajayi@oauife.edu.ng"]
+  },
+  {
+    "title": "An Overview of Deep Learning Techniques for Short-Term Electricity Load Forecasting",
+    "type": "Journal article",
+    "year": 2019,
+    "doi": null,
+    "link": null,
+    "lecturers": ["tessydunbi@oauife.edu.ng"]
+  },
+  {
+    "title": "Palm Vein Recognition System Based on Derived Pattern and Feature Vectors",
+    "type": "Journal article",
+    "year": 2017,
+    "doi": null,
+    "link": null,
+    "lecturers": ["tessydunbi@oauife.edu.ng"]
+  },
+  {
+    "title": "Evaluating Robustness of LLMs to Typographical Noise in Yorùbá QA",
+    "type": "Conference paper",
+    "year": 2024,
+    "doi": null,
+    "link": null,
+    "lecturers": ["tessydunbi@oauife.edu.ng"]
+  },
+  {
+    "title": "Investigation of Feature Characteristics for Yoruba Named Entity Recognition System",
+    "type": "Conference paper",
+    "year": 2019,
+    "doi": null,
+    "link": "https://www.academia.edu/signup?a_id=65600786",
+    "lecturers": ["taiwoonifade17@gmail.com"]
+  },
+  {
+    "title": "Spelling Error Pattern in Typed Yoruba Text Documents",
+    "type": "Journal article",
+    "year": 2020,
+    "doi": "10.5815/ijieeb.2020.06.03",
+    "link": "https://doi.org/10.5815/ijieeb.2020.06.03",
+    "lecturers": ["taiwoonifade17@gmail.com"]
+  },
+  {
+    "title": "Diacritic-aware Yorùbá Spell Checker",
+    "type": "Journal article",
+    "year": 2023,
+    "doi": "10.7494/csci.2023.24.1.4494",
+    "link": "https://doi.org/10.7494/csci.2023.24.1.4494",
+    "lecturers": ["taiwoonifade17@gmail.com"]
+  },
+  {
+    "title": "Vdetekt: Synchronous Vulnerability Detection Plugin for Android Studio",
+    "type": "Journal article",
+    "year": 2023,
+    "doi": null,
+    "link": null,
+    "lecturers": ["taiwoonifade17@gmail.com"]
+  },
+  {
+    "title": "A Systematic Review of Spelling Corrector for African Languages",
+    "type": "Review article",
+    "year": 2023,
+    "doi": null,
+    "link": null,
+    "lecturers": ["taiwoonifade17@gmail.com"]
+  }
+]

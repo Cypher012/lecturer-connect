@@ -10,8 +10,8 @@ import { Label } from "@/components/ui/label"
 import { Textarea } from "@/components/ui/textarea"
 import { Save, ArrowLeft } from "lucide-react"
 import Link from "next/link"
-import {updateDepartment} from "../../../../lib/actions/departments"
-import type { Department as ServerDepartment } from "../../../../lib/actions/departments"
+import {updateDepartment} from "../../lib/actions/departments"
+import type { Department as ServerDepartment } from "~/generated/prisma"
 import { FormSubmit } from "~/src/components/form-submit"
 
 export default function EditDepartment({ department }: { department: ServerDepartment | null }) {

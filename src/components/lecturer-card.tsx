@@ -3,11 +3,11 @@ import { Card, CardContent, CardHeader } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Mail, User, BookOpen, Award, ExternalLink } from "lucide-react"
-import type { Lecturer } from "@/lib/mock-data"
 import Image from "next/image"
+import { LecturerWithRelations } from "../lib/actions/lecturers"
 
 interface LecturerCardProps {
-  lecturer: Lecturer
+  lecturer: LecturerWithRelations
   variant?: "grid" | "list"
 }
 
@@ -32,7 +32,7 @@ export function LecturerCard({ lecturer, variant = "grid" }: LecturerCardProps) 
                 <div>
                   <h3 className="text-xl font-bold text-foreground truncate mb-1">{lecturer.full_name}</h3>
                   <p className="text-sm text-muted-foreground font-medium">{lecturer.title}</p>
-                  <p className="text-sm text-accent font-semibold">{lecturer.department}</p>
+                  <p className="text-sm text-accent font-semibold">{lecturer.department.name}</p>
                 </div>
                 <div className="flex space-x-2 flex-shrink-0">
                   <Button
@@ -56,7 +56,7 @@ export function LecturerCard({ lecturer, variant = "grid" }: LecturerCardProps) 
 
               <div className="mb-4">
                 <div className="flex flex-wrap gap-2">
-                  {lecturer.research_areas.slice(0, 4).map((area, index) => (
+                  {lecturer.researchAreas.slice(0, 4).map((area, index) => (
                     <Badge
                       key={area}
                       variant="secondary"
@@ -71,9 +71,9 @@ export function LecturerCard({ lecturer, variant = "grid" }: LecturerCardProps) 
                       {area}
                     </Badge>
                   ))}
-                  {lecturer.research_areas.length > 4 && (
+                  {lecturer.researchAreas.length > 4 && (
                     <Badge variant="outline" className="text-xs border-accent text-accent">
-                      +{lecturer.research_areas.length - 4} more
+                      +{lecturer.researchAreas.length - 4} more
                     </Badge>
                   )}
                 </div>
@@ -115,7 +115,7 @@ export function LecturerCard({ lecturer, variant = "grid" }: LecturerCardProps) 
         </div>
         <h3 className="text-lg font-bold text-foreground text-balance mb-1">{lecturer.full_name}</h3>
         <p className="text-sm text-muted-foreground font-medium">{lecturer.title}</p>
-        <p className="text-sm text-accent font-semibold">{lecturer.department}</p>
+        <p className="text-sm text-accent font-semibold">{lecturer.department.name}</p>
       </CardHeader>
 
       <CardContent className="space-y-4 relative z-10">
@@ -125,7 +125,7 @@ export function LecturerCard({ lecturer, variant = "grid" }: LecturerCardProps) 
             Research Areas
           </h4>
           <div className="flex flex-wrap gap-2">
-            {lecturer.research_areas.slice(0, 3).map((area, index) => (
+            {(lecturer.researchAreas ?? []).slice(0, 3).map((area, index) => (
               <Badge
                 key={area}
                 variant="secondary"
@@ -140,12 +140,12 @@ export function LecturerCard({ lecturer, variant = "grid" }: LecturerCardProps) 
                 {area}
               </Badge>
             ))}
-            {lecturer.research_areas.length > 3 && (
+            {lecturer.researchAreas && lecturer.researchAreas.length > 3 && (
               <Badge
                 variant="outline"
                 className="text-xs border-accent text-accent hover:bg-accent hover:text-accent-foreground transition-colors"
               >
-                +{lecturer.research_areas.length - 3}
+                +{lecturer.researchAreas.length - 3}
               </Badge>
             )}
           </div>
@@ -161,7 +161,7 @@ export function LecturerCard({ lecturer, variant = "grid" }: LecturerCardProps) 
             <div>Publications</div>
           </div>
           <div className="text-center">
-            <div className="font-bold text-foreground">{lecturer.research_areas.length}</div>
+            <div className="font-bold text-foreground">{lecturer.researchAreas?.length || 0}</div>
             <div>Research Areas</div>
           </div>
         </div>

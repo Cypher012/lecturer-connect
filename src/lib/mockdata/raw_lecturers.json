@@ -1,0 +1,954 @@
+[
+  {
+    "full_name": "Engr. Temitope O. Ajayi",
+    "title": "Engr",
+    "department": "Computer Science and Engineering",
+    "email": "temitope.ajayi@oauife.edu.ng",
+    "phone": "+2348034054077",
+    "profile_picture": "", 
+    "orcid": "https://orcid.org/0000-0002-1681-1591",
+    "scopus_id": "58566241600",
+    "courses_taught": [
+      { "CPE203": "Introduction to Digital Computing System I" },
+      { "CPE204": "Introduction to Digital Computing System II" }
+    ],
+    "research_areas": [
+      "Information and Communication Technology",
+      "Computer Networking",
+      "Electronics and Communication Technology",
+      "Network Communications",
+      "Information Technology",
+      "Network Security",
+      "Wireless Computing",
+      "Network Technology",
+      "Computer Networks Security"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Engineering, Obafemi Awolowo University (1994-1999)",
+      "Postgraduate Diploma in Monitoring and Evaluation, Stellenbosch University (2008)",
+      "M.Sc. Computer Engineering, Obafemi Awolowo University (2017-2019)"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/t%C3%A8m%C3%ADt%C3%B3p%C3%A9-%C3%A0j%C3%A0y%C3%AD-a8b22654",
+    "personal_website": "",
+    "publications": [
+      {
+        "title": "A Real-Time Nature-Inspired Intrusion Detection in Virtual Environments",
+        "type": "Journal article",
+        "year": 2024,
+        "doi": "10.14569/IJACSA.2024.0151266"
+      },
+      {
+        "title": "Towards a Bio-inspired Real-Time Intrusion Detection in the Smart Grid",
+        "type": "Conference paper",
+        "year": 2024,
+        "doi": "10.1007/978-981-97-5799-2_26"
+      },
+      {
+        "title": "An Enhanced Cluster-Based Routing Model for Energy-Efficient Wireless Sensor Networks",
+        "type": "Journal article",
+        "year": 2023,
+        "doi": "10.52549/ijeei.v11i2.4566"
+      },
+      {
+        "title": "Refining Blockchain-Powered Industrial Internet-of-Things Architecture for Improved Performance",
+        "type": "Conference paper",
+        "year": 2023,
+        "doi": "10.1109/BCCA58897.2023.10338910"
+      },
+      {
+        "title": "Realistic Looking Interfaces: Ergonomic Metaphors for Remote and Virtual Laboratory Interfaces",
+        "type": "Conference paper",
+        "year": 2008
+      }
+    ],
+    "projects": [
+      "Network, System and Data Communications",
+      "Cybersecurity projects",
+      "Embedded Systems projects",
+      "Monitoring and Evaluation of ICT projects (World Bank, Carnegie, IDA)"
+    ]
+  },
+  {
+    "full_name": "Rotimi (Alagbe) Gbadebo",
+    "title": "Mr.",
+    "department": "Computer Science and Engineering",
+    "email": "",
+    "phone": "",
+    "profile_picture": "",
+    "orcid": "",
+    "scopus_id": "1002293531",
+    "courses_taught": [],
+    "research_areas": [
+      "Computer Networking",
+      "Network Security",
+      "Network Administration",
+      "Network Simulation",
+      "Network Performance Evaluation",
+      "Network Infrastructure",
+      "Network Troubleshooting",
+      "Wireless Sensor Networks",
+      "Data Communication"
+    ],
+    "qualifications": [
+      "B.Tech. Computer Engineering, Ladoke Akintola University of Technology (2004–2009)",
+      "M.Sc. Computer Engineering, Obafemi Awolowo University (2016–2019)"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/rotimi-gbadebo",
+    "personal_website": "",
+    "publications": [
+      {
+        "title": "A Real-Time Nature-Inspired Intrusion Detection in Virtual Environments: An Artificial Bees Colony Approach Based on Cloud Model",
+        "type": "Journal article",
+        "year": 2024,
+        "doi": ""
+      },
+      {
+        "title": "An Enhanced Cluster-Based Routing Model for Energy-Efficient Wireless Sensor Networks",
+        "type": "Journal article",
+        "year": 2023,
+        "doi": "10.52549/ijeei.v11i2.4566"
+      }
+    ],
+    "projects": [
+      "Research in wireless sensor networks",
+      "Energy-efficient communication systems",
+      "Intrusion detection in virtual environments",
+      "Network communication and data security",
+      "ICT consultancy projects (DAAD sponsorship)"
+    ]
+  },
+  {
+    "full_name": "Olujoke (Mubo) Oni",
+    "title": "Ms.",
+    "department": "cse",
+    "email": "",
+    "phone": "",
+    "profile_picture": "",
+    "orcid": "",
+    "scopus_id": "",
+    "courses_taught": [],
+    "research_areas": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Cybersecurity",
+      "Human-Computer Interaction",
+      "Biomedical Imaging Informatics",
+      "e-Learning"
+    ],
+    "qualifications": [
+      "M.Sc. Computer Science, Obafemi Awolowo University"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/olujoke-oni",
+    "personal_website": "",
+    "publications": [],
+    "projects": [
+      "Facilitation of IT and Cybersecurity trainings",
+      "Human capacity development in ICT",
+      "Research in Machine Learning, AI, HCI, and Biomedical Imaging Informatics",
+      "CyberScada Research Lab ethical hacking and cybersecurity initiatives"
+    ]
+  },
+  {
+  "full_name": "Lawal Aderonke Rasheedat",
+  "title": "Senior Lecturer",
+  "department": "Department of Computer Science and Engineering, Faculty of Technology, Obafemi Awolowo University, Ile-Ife, Nigeria",
+  "email": "tessydunbi@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "",
+  "orcid": "0000-0002-8501-6743",
+  "scopus_id": "",
+  "courses_taught": [
+    "CPE 203",
+    "CPE 204",
+    "CPE 206",
+    "CPE 301",
+    "CSC 333",
+    "CPE 405",
+    "CPE 409",
+    "CPE 517"
+  ],
+  "research_areas": [
+    "Artificial Intelligence",
+    "Pattern Recognition",
+    "Engineering Education",
+    "Machine Learning",
+    "Digital Systems",
+    "Pervasive and Mobile Computing"
+  ],
+  "qualifications": [
+    "B.Sc. (Hons.) Computer Engineering – 2011",
+    "M.Sc. Computer Science – 2016",
+    "Professional Diploma in Education – 2016",
+    "Ph.D. Computer Engineering – 2021"
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/aderonke-lawal",
+  "personal_website": "",
+  "publications": [
+    {
+      "title": "An Overview of Deep Learning Techniques for Short-Term Electricity Load Forecasting",
+      "year": 2019,
+      "type": "Journal Article"
+    },
+    {
+      "title": "Palm Vein Recognition System Based on Derived Pattern and Feature Vectors",
+      "year": 2017,
+      "type": "Journal Article"
+    },
+    {
+      "title": "Evaluating Robustness of LLMs to Typographical Noise in Yorùbá QA",
+      "year": 2024,
+      "type": "Conference Paper"
+    }
+  ],
+  "projects": [
+    "Assessment of Quality of Teaching and Learning in Large Classes in Nigerian Tertiary Education (TETFUND NRF 2020, Team Member)",
+    "Development of a Smart Quadcopter Network for Urban Security, Environmental Monitoring, and Development (TETFUND NRF 2020, Team Member)",
+    "A Structural Framework for the Design, Development, Implementation and Evaluation of Hybrid Learning Strategy Guide for Secondary Schools (TETFUND NRF 2022, Team Member)",
+    "Automated Surveillance System for Behavioral Analysis of Wild Animals under Captivity (TETFUND IBR 2024, Lead Investigator)",
+    "Building capacity to prevent and respond to adverse childhood experiences in Nigeria (Liverpool John Moores University, QR Policy Support Fund – 2024, Project Manager)"
+  ]
+  },
+  {
+    "full_name": "Onifade Mary Taiwo",
+    "title": "Assistant Lecturer",
+    "department": "Department of Computer Science and Engineering, Faculty of Technology, Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "email": "taiwoonifade17@gmail.com",
+    "phone": "08038628718 / 08037206560",
+    "profile_picture": "",
+    "orcid": "",
+    "scopus_id": "",
+    "courses_taught": [
+      "CSC 201 - Computer Programming I",
+      "CSC 209 - Computer Workshop Practice I",
+      "CSC 307 - Computer Architecture and Organization I",
+      "CSC 311 - Data Management I",
+      "CSC 102 - Introduction to Computational Problem Solving",
+      "CSC 202 - Computer Programming II with Python",
+      "CSC 302 - Computer Architecture and Organization II",
+      "CSC 221 - Computer Appreciation",
+      "CSC 317 - Automata Theory and Computability",
+      "CSC 316 - Artificial Intelligence",
+      "CSC 403 - Principles of Compiler",
+      "CPE 514 - Natural Language Processing",
+      "CSC 515 - Database Management",
+      "CICS 523 - Mathematical Programming"
+    ],
+    "research_areas": [
+      "Natural Language Processing",
+      "Computational Linguistics",
+      "Artificial Intelligence",
+      "Human Language Processing"
+    ],
+    "qualifications": [
+      "Ph.D. Computer Science (In View, OAU)",
+      "M.Sc. Computer Science - Obafemi Awolowo University, 2018",
+      "B.Sc. Computer Science (Second Class Upper) - University of Ado-Ekiti, 2011",
+      "OND Computer Science (Upper Credit) - 2006",
+      "Senior School Certificate (SSCE) - 2002",
+      "Primary School Certificate - 1996",
+      "IBM Introduction to Artificial Intelligence - 2020",
+      "IBM AI V2 - 2020",
+      "IBM NLP - 2020",
+      "IBM Machine Learning - 2020",
+      "IBM Introduction to Coding - 2020"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/taiwo-onifade",
+    "personal_website": "",
+    "publications": [
+      {
+        "title": "Investigation of Feature Characteristics for Yoruba Named Entity Recognition System",
+        "year": 2019,
+        "type": "Conference Paper",
+        "link": "https://www.academia.edu/signup?a_id=65600786"
+      },
+      {
+        "title": "Spelling Error Pattern in Typed Yoruba Text Documents",
+        "year": 2020,
+        "type": "Journal Article",
+        "doi": "10.5815/ijieeb.2020.06.03"
+      },
+      {
+        "title": "Diacritic-aware Yorùbá Spell Checker",
+        "year": 2023,
+        "type": "Journal Article",
+        "doi": "10.7494/csci.2023.24.1.4494"
+      },
+      {
+        "title": "Vdetekt: Synchronous Vulnerability Detection Plugin for Android Studio",
+        "year": 2023,
+        "type": "Journal Article"
+      },
+      {
+        "title": "A Systematic Review of Spelling Corrector for African Languages",
+        "year": "",
+        "type": "Review Article"
+      }
+    ],
+    "projects": [
+      "Research Assistant, Computing and Intelligent Systems Research Group, Obafemi Awolowo University (2018–2020)",
+      "Part Adviser, Department of Computer Science and Engineering, OAU",
+      "Member, Nigeria Computer Society (NCS)",
+      "Graduate Member, Nigerian Institute of Management (NIM)"
+    ]
+  },
+  {
+    "full_name": "Dr. Segun Aina",
+    "title": "Senior Lecturer",
+    "department": "Department of Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife",
+    "email": ["sba.aina@gmail.com", "s.aina@oauife.edu.ng"],
+    "phone": "",
+    "profile_picture": "",
+    "orcid": "",
+    "scopus_id": "",
+    "courses_taught": [],
+    "research_areas": [
+      "Pattern Classification",
+      "Machine Learning",
+      "Digital Signal Processing",
+      "Image Processing",
+      "Computer Vision",
+      "Feature Extraction",
+      "Neural Networks and Artificial Intelligence",
+      "Supervised Learning",
+      "Signal, Image and Video Processing",
+      "Cognitive Radio Networks",
+      "Wireless Sensor Networks",
+      "Mobile and Pervasive Computing"
+    ],
+    "qualifications": [
+      "PhD",
+      "MSc",
+      "BEng",
+      "COREN",
+      "MNSE",
+      "MNCS",
+      "MIEEE",
+      "MIET"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/segun-aina-phd-567330115?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBrlWKzblSjWD%2B2AQnYoSaw%3D%3D",
+    "personal_website": "https://drsegunaina.com/",
+    "publications": [
+      "A deep learning model for electricity demand forecasting based on a tropical data (2020)",
+      "DDoS attacks detection in the IoT using deep gaussian-bernoulli restricted boltzmann machine (2022)",
+      "Handmade embroidery pattern recognition: a new validated database (2020)",
+      "An analysis of bias in facial image processing: A review of datasets (2023)",
+      "A model for detecting fungal diseases in cotton cultivation using segmentation and machine learning approaches (2023)",
+      "An architectural framework for facebook messenger Chatbot enabled home appliance control system (2019)",
+      "A new spontaneous expression database and a study of classification-based expression analysis methods (2014)",
+      "Spontaneous expression classification in the encrypted domain (2014)",
+      "An overview of deep learning techniques for short-term electricity load forecasting (2019)",
+      "Gesture recognition system for Nigerian tribal greeting postures using support vector machine (2020)",
+      "Development of a convolutional neural network-based ethnicity classification model from facial images (2022)",
+      "Recognition of West African Indigenous Fruits using a Convolutional Neural Network Model (2021)",
+      "A framework for a blood seeker-donor matching system (2020)",
+      "A Comparative Analysis and Review of Techniques for African Facial Image Processing (2025)",
+      "Implementing decision support tool for low-back pain diagnosis and prediction (2024)",
+      "Unsupervised deep architecture for forecast of a tropical electricity load (2022)",
+      "Palm vein recognition system based on derived pattern and feature vectors (2017)",
+      "Robust spontaneous facial expression recognition using sparse representation (2013)",
+      "Multi-Pipeline Sentiment Analysis for West-African Pigin (2024)",
+      "Texture modeling and simulation for synthetic palm vein image generation system (2022)",
+      "Toward a More Robust Home Automated System: Introducing a Voice Activation Technique via Pubnub (2019)",
+      "On Evaluating the Efficacy of Predictive Models for Cognitive Radio Spectrum Availability in Nigeria (2018)"
+    ],
+    "projects": [
+      "Digital Signal Processing & Pattern Classification – Image Processing, Object Recognition",
+      "Pervasive & Mobile Computing",
+      "Cognitive Radio Networks",
+      "Wireless Sensor Networks",
+      "Artificial Intelligence Applications in Energy Forecasting",
+      "Healthcare Decision Support Systems",
+      "Biometric Systems (Palm vein, Facial recognition, Gesture recognition)"
+    ]
+  },
+  {
+    "full_name": "Prof. Ganiyu Adesola Aderounmu",
+    "title": "Professor",
+    "department": "Department of Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "email": "gaderoun@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "",
+    "orcid": "https://orcid.org/0000-0002-7992-514X",
+    "scopus_id": "6507319174",
+    "courses_taught": [],
+    "research_areas": [
+      "Computational Science and Engineering",
+      "Computer Systems and Computational Processes",
+      "Computer Architecture and Organization",
+      "Computer Networks",
+      "Data Structures and Algorithms",
+      "Computer Communication and Network"
+    ],
+    "qualifications": [
+      "PhD in Computer Science and Engineering",
+      "COREN Registered Engineer",
+      "Member, Nigeria Society of Engineers (NSE)",
+      "Member, Nigeria Computer Society (NCS)",
+      "Member, Computer Professional Registration Council of Nigeria (CPN)"
+    ],
+    "linkedin_url": "",
+    "personal_website": "https://orcid.org/0000-0002-7992-514X",
+    "publications": [
+      "Network Monitoring System for Sniffing Attack Prevention in Wireless Communication Networks Using Secure Socket (2025)",
+      "Machine Learning Enabled Image Classification Using K-Nearest Neighbour and Learning Vector Quantization (2024)",
+      "A Predictive Cyber Threat Model for Mobile Money Services (2023)",
+      "Artificial Intelligence - Enabled Deep Learning Model for Diabetes Prediction Using Deep Belief Network with Bayesian Optimization (2023)",
+      "A Noun-Centric Keyphrase Extraction Model: Graph-Based Approach (2022)",
+      "A Predictive User Behaviour Analytic Model for Insider Threats in Cyberspace (2022)",
+      "An Integrated Approach to Research Paper and Expertise Recommendation in Academic Research (2022)",
+      "Chaos Detection and Mitigation in Swarm of Drones using Machine Learning Techniques and Chaotic Attractors (2022)",
+      "Performance Evaluation of Machine Learning-based Robocalls Detection Models in Telephony Networks (2022)",
+      "Managing E-Patient Case Notes in Tertiary Hospitals: A Sub-Saharan African Experience (2021)",
+      "Signal Processing-based Model for Primary User Emulation Attacks Detection in Cognitive Radio Networks (2021)",
+      "An improved bio-inspired based intrusion detection model for a cyberspace (2021)",
+      "Engineering Students' Virtual Learning Challenges during COVID-19 Pandemic Lockdown: A Case Study (2020)",
+      "An adaptive bio-inspired optimisation model based on the foraging behaviour of a social spider (2019)",
+      "An Enhanced Mobile Device-Based Navigation Model: Ubiquitous Computing (2018)",
+      "A multi-agent system approach for trustworthy cloud service discovery (2016)",
+      "A field programmable gate array-based digital temperature sensor with improved immunity to static supply shift (2014)",
+      "Application of fuzzy based modeling in the development of carbon-resin electrodes for water and wastewater treatments (2013)",
+      "Analytical modelling of fluid credit congestion control scheme in MPLS networks (2012)",
+      "Probabilistic credit card fraud detection system in online transactions (2012)"
+    ],
+    "projects": [
+      "Cybersecurity and Intrusion Detection Models",
+      "Machine Learning and Artificial Intelligence Applications",
+      "Robocall and Telephony Network Spam Detection",
+      "Computational Models for Network Communication",
+      "Healthcare Information Systems",
+      "Wireless Communication and Congestion Control",
+      "Multi-agent Systems for Cloud and Grid Computing"
+    ]
+  },
+  {
+    "full_name": "Adekunle Oluseyi Afolabi",
+    "title": "Senior Lecturer",
+    "department": "Department of Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "email": "aofolabi@oauife.edu.ng",
+    "phone": "+2348067893431",
+    "profile_picture": "",
+    "orcid": "0000-0003-4446-598X",
+    "scopus_id": "",
+    "courses_taught": [
+      "Curriculum planning in Health Informatics: Information Use and Ethics",
+      "Curriculum development for BSc Information Systems"
+    ],
+    "research_areas": [
+      "Health Informatics",
+      "Recommender Systems in Healthcare",
+      "Artificial Intelligence in Healthcare",
+      "Human-Computer Interaction",
+      "Information Systems",
+      "Digital Animation Systems",
+      "Multilingual Computing"
+    ],
+    "qualifications": [
+      "Ph.D. Computer Science – University of Eastern Finland, Kuopio, 2019",
+      "M.Sc. Computer Science – Obafemi Awolowo University, Ile-Ife, 2008",
+      "B.Sc. Computer Science – Obafemi Awolowo University, Ile-Ife, 2000",
+      "CIFAR Deep Learning + Reinforcement Learning Summer School – 2020",
+      "Dagstuhl Seminar on Public-Key Cryptography – 2016",
+      "INDEHELA-Exchange Programme – University of Eastern Finland, 2013",
+      "Intensive Course on Information System Analysis and Design in Health Care – OAU, 2011",
+      "Theory and Application of Constrained-Based Modeling & HCI – 2011",
+      "Advanced Technology Training in Software Development & Health Informatics – 2006"
+    ],
+    "linkedin_url": "",
+    "personal_website": "",
+    "publications": [
+      "Digital Animation of African Folktales: A Perspective from Yorùbá Experiments (2022, Springer)",
+      "Harmonization and Categorization of Metrics for Evaluation of Recommender Systems in Healthcare (2020, IJEHMC)",
+      "Improving the design of a recommendation system using evaluation criteria (2019, Journal of Systems and Information Technology)",
+      "Integration of Recommendation Systems into Connected Health (2019, IEEE Access)",
+      "Designing an Integrated Platform for Real-Time Recommendations Sharing (2019, IJCIET)",
+      "Recommender Systems in Healthcare: Practical Implementation (2018, IGI Global)",
+      "Systematic Literature Review on Healthcare Recommender Systems (2015, IJHISI)",
+      "A Viable Architecture for Recommender System & Mobile Counselling (2017, Journal of Health Informatics in Africa)",
+      "Building a Computer-Based Primary Health Care Information System in Nigeria (2010, IJCSA)",
+      "Development of a Multilingual Electronic Point of Sales System in Nigeria (2022, OAU Conf.)",
+      "Designing an Integrated Platform for Real-Time Recommendations Sharing (2019, ICISD London)",
+      "Architecture for Integration of Recommender System & Mobile Solution for HIV/AIDS (2014, HELINA Ghana)",
+      "Community Networking in MINPHIS Development (2006, CDIC South Africa)",
+      "Development of a Computer-Based PHC Management System (2005, IFIP WG 9.4, Abuja)",
+      "Nigerian University Software Development Training (2005, IFIP WG 9.4, Abuja)",
+      "Building effective PHC Information Systems in Nigeria (2007, HELINA Mali)",
+      "Software Product Lines & Model-Driven Engineering in Healthcare (2007, HELINA Mali)",
+      "Book: Requirements Specifications for Primary Health Care Information Systems (2013, Lap Lambert, ISBN 978-3-659-36135-7)",
+      "MINPHIS: Improving Patient Data in a Nigerian Hospital (2004, eGovernment for Development Case Study)"
+    ],
+    "projects": [
+      "Co-PI: GreenCartoon – Multiplatform/Multilingual Digital Animation System for Nigerian Children (2022–2024, NRF)",
+      "Co-PI: Multilingual Electronic Point of Sale System for SMEs in Nigeria (2023–2025, NRF)",
+      "Co-PI: AI-Driven Text2Sign-Sign2Text System for Inclusive Communication for Pupils with Hearing Impairment (2023–2025, IDRC/AfEIRN)"
+    ]
+  },
+  {
+    "full_name": "Ishaya P. Gambo",
+    "title": "Reader / Associate Professor",
+    "department": "Department of Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "email": "ipgambo@oauife.edu.ng",
+    "phone": "08036574935",
+    "profile_picture": "",
+    "orcid": "0000-0002-1289-9266",
+    "scopus_id": "57194111747",
+    "courses_taught": [
+      "CSC101",
+      "CSC201",
+      "CSC202",
+      "CSC311",
+      "CSC407",
+      "CSC505",
+      "Software Engineering",
+      "Information Systems",
+      "Computer Science"
+    ],
+    "research_areas": [
+      "Software Engineering",
+      "Requirements Engineering",
+      "Software Testing",
+      "Software Architecture",
+      "Mining Software Repositories",
+      "Information Systems",
+      "Health Informatics"
+    ],
+    "qualifications": [
+      "B.Sc.",
+      "M.Sc.",
+      "Ph.D."
+    ],
+    "linkedin_url": "",
+    "personal_website": "https://orcid.org/0000-0002-1289-9266",
+    "publications": [
+      "Integrating Asymmetric Cryptographic Digital Wallet for Online Services in Nigeria (2023)",
+      "Interoperability in healthcare: benefits, challenges and resolutions (2013)",
+      "Comparative Efficacy of Clinic-Based and Telerehabilitation Application of Mckenzie Therapy in Chronic Low-Back Pain (2019)",
+      "Lack of interoperable health information systems in developing countries: an impact analysis (2011)",
+      "A systematic review of swarm robots (2020)",
+      "An Appraisal of Software Requirement Prioritization Techniques (2018)",
+      "ICT implementation in the Nigerian healthcare system (2017)",
+      "Interoperability in Nigeria Healthcare System: The Ways Forward (2013)",
+      "Ontology matching: An ultimate solution for semantic interoperability in healthcare (2012)",
+      "Towards an Efficient Information Systems Development Process and Management: A Review of Challenges and Proposed Strategies (2010)",
+      "Identifying and Resolving Conflicts in Requirements by Stakeholders: A Clustering Approach (2021)",
+      "Comparative effects of clinic-and virtual reality-based McKenzie extension therapy in chronic non-specific low-back pain (2019)",
+      "Framework for enhancing requirements engineering processes: a conceptual view of health information system (2014)",
+      "An integrated framework for prioritizing software specifications in requirements engineering (2018)",
+      "A proposed process model for requirements engineering using delphi techniques for prioritisation (2015)",
+      "Prospects and problems of brain computer interface in healthcare (2018)",
+      "Software Architecture and Methodology as a Tool for Efficient Software Engineering Process: A Critical Appraisal (2010)",
+      "Stakeholder-centric clustering methods for conflict resolution in the requirements engineering process (2021)",
+      "State-of-the art: a comparative analysis of ontology matching systems (2012)",
+      "Planning Effective Learning for the Visually Impaired in Federal University in Osun State, Nigeria: Technology Perspective (2021)",
+      "Enhancing user trust and interpretability in AI-driven feature request detection for mobile app reviews: an explainable approach (2024)",
+      "A Pragmatic View on Resolving Conflicts in Goal-oriented Requirements Engineering for Socio-technical Systems (2021)",
+      "GRAD-AI: An automated grading tool for code assessment and feedback in programming course (2024)",
+      "Planning and designing online vocational skill showcasing platform: from an educational perspective (2021)",
+      "A multi-nodal implementation of apriori algorithm for big data analytics using MapReduce framework (2019)"
+    ],
+    "projects": []
+  },
+  {
+    "full_name": "Oluwatope Ayodeji O.",
+    "title": "Professor",
+    "department": "Department of Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "email": "aoluwato@oauife.edu.ng",
+    "phone": ["08035962506", "07014554742"],
+    "profile_picture": "",
+    "orcid": "https://orcid.org/0000-0003-0180-5241",
+    "scopus_id": "9846662000",
+    "courses_taught": [
+      "CPE 301 – Low Level Language",
+      "CPE 401 – Computer Architecture",
+      "CSE 601 – Research Methodology",
+      "CPE 618 – Computer and Network Security",
+      "Computer Graphics (Undergraduate)",
+      "Digital System Synthesis and Verification (Graduate)"
+    ],
+    "research_areas": [
+      "Digital Transformation",
+      "Network Security",
+      "Congestion Control in 5G",
+      "Data Communications",
+      "Embedded Systems",
+      "Knowledge Transfer",
+      "Computer Networks and Internet",
+      "Reconfigurable Computing",
+      "Internet of Things (IoT)"
+    ],
+    "qualifications": [
+      "B.Sc. (Computer Engineering) – 1995",
+      "M.Sc. (Computer Science) – 2003",
+      "Ph.D. (Computer Science) – 2008"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/ayodeji-oluwatope-16a406110/",
+    "personal_website": "http://comnet.oauife.edu.ng",
+    "publications": [
+      "Computer-based Industrial Furnace Temperature Sensor (B.Sc. Thesis, 1995)",
+      "Development of a Conceptual Architecture of a Distributed Computer Communication Network for National Security (M.Sc. Thesis, 2003)",
+      "Development of a Distributed Congestion Control Model in a Grid Architecture (Ph.D. Thesis, 2008)",
+      "Issues of Internet Applications Traffic on Radio Mobile Communication Infrastructure (Journal of Computer Science and Its Applications, 2003)",
+      "A User Identity Management Protocol for Cloud Computing Paradigm (Int. J. Communications, Network and System Sciences, 2011)",
+      "An Efficient Host-to-Host Available Bandwidth Estimation Scheme (CARI’06 Proceedings, 2006)",
+      "Adopting Virtual Reality in Medical Education: Insights from Clinical Students and Lecturers in a Nigerian University (2025)",
+      "Digitalisation and Green Strategies: A Systematic Review of the Textile, Apparel and Fashion Industries (2025)",
+      "Designing a Virtual Reality System for Clinical Education and Examination (2024)",
+      "Sign Language to Text Translation System for Inclusive Education Using Deep Learning (2024)",
+      "VIQS Epidemic Modeling of Distributed Denial-of-Service Attacks in Software-Defined Networking (2023)",
+      "Mathematical Analysis of DDoS Attacks in SDN-based 5G (2023)",
+      "Digital Transformation of the Textile and Fashion Design Industry in the Global South (2023)",
+      "MEPLN E-Learning: Mesh-Based Peer-to-Peer Collaborative E-Learning System for Limited Capacity Networks (2021)",
+      "Automatic License Plate Recognition on Microprocessors and Custom Computing Platforms: A Review (2021)",
+      "A Simulator for Testing Planar Upper Extremity Rehabilitation Robot Control Algorithms (2021)"
+    ],
+    "projects": [
+      "RealStreamer",
+      "Vehicle Authentication",
+      "Network Utility Maximisation Group",
+      "LegalTechOAU",
+      "Digital Textile Ecosystem Projects"
+    ]
+  },
+  {
+    "full_name": "Franklin Oladiipo Asahiah",
+    "title": "Reader / Associate Professor",
+    "department": "Department of Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "email": "foasahiah@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "",
+    "orcid": "https://orcid.org/0000-0001-8873-4532",
+    "scopus_id": "57195972435",
+    "google_scholar": "https://scholar.google.com/citations?user=U5bEsJwAAAAJ&hl=en",
+    "researchgate": "https://www.researchgate.net/profile/Franklin-Asahiah",
+    "courses_taught": [
+      "CSC101 – Introduction to Computing I",
+      "CSC102 – Introduction to Computing II",
+      "CSC201 – Computer Programming I",
+      "CSC202 – Computer Programming II",
+      "CSC301 – Low-level Programming",
+      "CSC302 – Object-Oriented Programming",
+      "CSC315 – Data Structure and Analysis of Algorithms",
+      "CPE510 – Natural Language Processing and Applications",
+      "CSC523 – Mathematical Programming",
+      "CIE617 – Computational Linguistics",
+      "Numerical Computations",
+      "Introduction to Artificial Intelligence",
+      "Computer Appreciation",
+      "Introduction to Object-Oriented Programming",
+      "Introduction to Expert Systems",
+      "Human-Computer Interaction"
+    ],
+    "research_areas": [
+      "Human Language Processing",
+      "Intelligent Systems",
+      "Natural Language Processing",
+      "Sentiment Analysis",
+      "Machine Learning in Computer Vision",
+      "Spell Checking for Nigerian Languages",
+      "Sign Language Translation",
+      "Parallel Corpus Development for African Languages"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Science – Obafemi Awolowo University",
+      "M.Sc. Computer Science – Obafemi Awolowo University",
+      "Ph.D. Computer Science (Intelligent Systems) – Obafemi Awolowo University (2014)"
+    ],
+    "linkedin_url": "",
+    "personal_website": "",
+    "publications": [
+      "Named Entity: Extended Feature Analysis for Improved Recognition for Yoruba (2024)",
+      "Phoneme-based English-Yoruba Machine Transliteration (2024)",
+      "Development of Sign Language Converter (2024)",
+      "Sign Language to Text Translation System for Inclusive Education Using Deep Learning (2024)",
+      "Diacritic Restoration for Yoruba Text with LSTM (2023)",
+      "Diacritic-Aware Yoruba Spell Checker (2023)",
+      "Deploying Nigerian Indigenous Languages Based Technology for Education (2022)",
+      "Comparison of Rule-based and Data-Driven Approaches for Syllabification (2021)",
+      "Spelling Error Patterns in Typed Yoruba Text Documents (2020)",
+      "Computational Modelling of an OCR System for Yoruba Printed Text Images (2020)",
+      "ANN Model for Predicting Lead and Cadmium Ions in Wastewater (2020)",
+      "Online Neonatal Intensive-Care Unit Monitoring System (2020)",
+      "Investigation of Feature Characteristics for Yoruba NER (2019)",
+      "A Survey of Approaches to Diacritic Restoration (2018)",
+      "Restoring Tone-Marks in Standard Yoruba Electronic Text: Improved Model (2017)",
+      "Development of a Standard Yoruba Diacritics Restoration System (Thesis, 2014)",
+      "Development of a Syllabicator for Yoruba Language (2010)"
+    ],
+    "projects": [
+      "Yoruba Diacritics Restoration System",
+      "Yoruba Spell Checker",
+      "OCR for Yoruba Printed Text",
+      "Sign Language Translation to English",
+      "Machine Transliteration for Yoruba",
+      "Computational Linguistics Tools for Nigerian Languages"
+    ]
+  },
+  {
+    "full_name": "Peter Adebayo Idowu",
+    "title": "Professor",
+    "department": "Department of Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "email": "paidowu@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "",
+    "orcid": "https://orcid.org/0000-0002-3883-3310",
+    "scopus_id": "57199176565",
+    "courses_taught": [
+      "Data Mining Techniques",
+      "Decision Support System",
+      "Object-Oriented Modelling",
+      "Database Design and Management"
+    ],
+    "research_areas": [
+      "Data Science",
+      "Machine Learning",
+      "Health Informatics",
+      "Software Engineering",
+      "Informatics",
+      "Geographical Information Systems",
+      "Applied Computing in Healthcare"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Science with Economics – Obafemi Awolowo University (1998)",
+      "M.Sc. Computer Science – Obafemi Awolowo University (2003)",
+      "M.Phil. Computer Science – Aston University, Birmingham (2009)",
+      "Ph.D. Computer Science – Obafemi Awolowo University (2012)"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/peter-idowu-2",
+    "personal_website": "https://oauife.edu.ng/",
+    "google_scholar": "https://scholar.google.com/citations?user=hTd-q8MAAAAJ&hl=en",
+    "researchgate": "https://www.researchgate.net/profile/Peter-Idowu-2",
+    "publications": [
+      "Big data, analytics and artificial intelligence for sustainability – ScienceDirect",
+      "Over 120 scientific research articles in journals and conference proceedings"
+    ],
+    "projects": [
+      "Big Data, Analytics and Artificial Intelligence for Sustainability",
+      "Development of a Classification Model for CD4 Count of HIV Patients using Supervised Machine Learning",
+      "Prognostic Model for COVID-19 Risk Using Fuzzy Logic",
+      "Ensemble Model for Anemia Risk in Pediatric Sickle Cell Patients",
+      "GIS for Tracking Terrorist Attacks in Nigeria",
+      "First Health Data Model for Nigeria"
+    ]
+  },
+  {
+    "full_name": "Rhoda N. Ikono",
+    "title": "Senior Lecturer",
+    "department": "Department of Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "email": "rudo@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "",
+    "orcid": "https://orcid.org/0000-0003-4978-1357",
+    "scopus_id": "57213768999",
+    "courses_taught": [
+      "CSC 201 – Introduction to Computer Programming",
+      "CSC 202 – Computer Programming II",
+      "CSC 311 – Introduction to Information Systems",
+      "CSC 306 – Introduction to Human-Computer Interaction",
+      "CSC 317 – Automata Theory and Computability",
+      "CSC 312 – Systems Analysis and Design Methodology",
+      "CSC 333 – Computer Applications",
+      "CSC 507 – Computer in Society",
+      "CIS 616 – Fundamentals of E-Commerce",
+      "CIS 620 – Management Support System"
+    ],
+    "research_areas": [
+      "Requirement Engineering",
+      "Usability",
+      "Health Informatics",
+      "Information Systems",
+      "Biomedical Informatics",
+      "Human-Robot Interaction",
+      "Ontology Matching",
+      "Software Product Usability",
+      "Artificial Intelligence",
+      "Programming Languages"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Science",
+      "M.Sc. Computer Science",
+      "Ph.D. Computer Science"
+    ],
+    "linkedin_url": "https://linkedin.com/in/rhoda-ikono-92608411",
+    "personal_website": "http://www.researchgate.net/profile/Rhoda_Ikono",
+    "publications": [
+      "Enhancing Drug Recommender System for Peptic Ulcer Treatment (2024)",
+      "Implementing decision support tool for low-back pain diagnosis and prediction (2024)",
+      "Integrating Asymmetric Cryptographic Digital Wallet for Online Services in Nigeria (2023)",
+      "A Machine Learning Technique for Detection of Diabetes Mellitus (2022)",
+      "Drug Recommender Systems: A Review of State-of-the-Art Algorithms (2022)",
+      "The Need for Robots in Global Health (2022)",
+      "Mining Requirements and Design Documents in Software Repositories Using NLP and ML (2022)",
+      "Design Specification for an M-Health Solution to Improve Antenatal Care (2022)",
+      "Hybridized Ranking Model for Prioritizing Functional Software Requirements (2021)",
+      "Software Design Specification for Insulin Dose Adaptive Algorithm (2021)",
+      "Predicting and Controlling Blood Glucose in Type 1 Diabetic Patients (2021)",
+      "Investigative Process Model for Predicting Information Diffusion on Social Media (2020)"
+    ],
+    "projects": [
+      "Development of a Requirement Abstraction Model for Crime Tracking System",
+      "Brain Computer Interface",
+      "Drug Recommender Systems for Healthcare",
+      "Decision Support Systems for Disease Diagnosis",
+      "M-Health Solutions for Antenatal Care",
+      "Robotics for Global Health",
+      "Healthcare Quality and Software Usability Studies"
+    ]
+  },
+  {
+    "full_name": "Abimbola Rhoda Iyanda",
+    "title": "Senior Lecturer",
+    "department": "Department of Computer Science and Engineering, Faculty of Technology, Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "email": "abiyanda@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "",
+    "orcid": "https://orcid.org/0000-0002-3470-0115",
+    "scopus_id": "57199509388",
+    "courses_taught": [
+      "Automata Theory and Computability",
+      "Computer Programming I & II",
+      "Computer Architecture and Organization",
+      "Computer Engineering Laboratory I",
+      "Advanced Automata Theory",
+      "Introduction to Digital Computer Systems II",
+      "Expert Systems",
+      "Speech and Language Technology",
+      "Human Language Processing"
+    ],
+    "research_areas": [
+      "Computing and Intelligent Systems",
+      "Speech and Language Engineering",
+      "Artificial Intelligence",
+      "Human-Computer Interaction",
+      "Natural Language Processing"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Engineering – Obafemi Awolowo University",
+      "M.Sc. Computer Science – Obafemi Awolowo University",
+      "Ph.D. Computer Science – Obafemi Awolowo University"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/abimbola-iyanda",
+    "personal_website": "",
+    "publications": [
+      "An Optimized Convolutional Neural Network Model for Detecting Depressive Symptoms from Image Posts (2024, IJITCS, DOI: 10.5815/ijitcs.2024.04.03)"
+    ],
+    "projects": [
+      "Development of a Web-Based Decision Support System for ATM Error Troubleshooting",
+      "Remote Home Appliance Control via Bluetooth and GSM",
+      "Speech-to-Text System for Pupils with Dysgraphia",
+      "Bi-directional Counter System",
+      "Plagiarism Detection System",
+      "Electronic Voting Software",
+      "Android-based Naira Recognition System for the Visually Impaired",
+      "Online Recruitment System for Industrial Training",
+      "Customer Service Chatbot",
+      "Bilingual Offense Report Web System",
+      "School Kids Tracking Device",
+      "GSM-based Fire Detection System",
+      "Remote-Controlled E-Notice Display System",
+      "Library Seat Availability Checker",
+      "Lecturer Appointment Booking System",
+      "Mobile Rotational Thrift Collection System",
+      "Employee Management System",
+      "Multilingual Electronic Point of Sales System",
+      "Attendance Management System",
+      "Smart Power Outage Communication (Android-based)",
+      "Portable Warning System for Temperature & Heartbeat",
+      "Android-Based E-Voting System",
+      "Automated Hatchery System",
+      "Function Type Inference in Java",
+      "OTP-Based Two-Factor Authentication System",
+      "Bilingual Online Hotel Reservation System",
+      "Fingerprint-Based Biometric Voting System",
+      "Bilingual Online Bus Reservation System",
+      "Web-Based Voter Registration System (INEC case study)",
+      "Prediction Model for Solid Waste Generation",
+      "Neural Network Models for Predicting Student GPA",
+      "Risk Prediction Model for University Student Depression",
+      "Sentiment Detection on Implied Opinions in Yoruba Text",
+      "Emergency Response Reporting System",
+      "Chest X-Ray Report Analysis and Diagnosis",
+      "Cross-Lingual Text Summarization System",
+      "English–Yoruba Multimedia Translation of Science Terms",
+      "Cloud Computing Framework for IT Outsourcing",
+      "Aspect-Based Sentiment Detection for Yoruba News",
+      "Multi-modal Depression Prediction from Photos & Posts",
+      "Smart Home Automation System with Multilingual Android Control",
+      "Multilingual Request-Handling Restaurant Service Robot"
+    ]
+  },
+  {
+    "full_name": "Theresa Olubukola Omodunbi",
+    "title": "Senior Lecturer",
+    "department": "Department of Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "email": "",
+    "phone": "",
+    "profile_picture": "",
+    "orcid": "",
+    "scopus_id": "",
+    "courses_taught": [],
+    "research_areas": [
+      "Computational Linguistics",
+      "Information Retrieval",
+      "Semantics",
+      "Biomedical Informatics",
+      "Data Mining",
+      "Summarization Systems",
+      "Data Analytics",
+      "Clinical Data Informatics"
+    ],
+    "qualifications": [
+      "Ph.D. Computer Science – Obafemi Awolowo University"
+    ],
+    "linkedin_url": "",
+    "personal_website": "",
+    "publications": [],
+    "projects": []
+  },
+  {
+    "full_name": "Adeniran Isola Oluwaranti",
+    "title": "Professor of Computer Science and Engineering, Director of Linkages and Partnership Office",
+    "department": "Department of Computer Science & Engineering, Obafemi Awolowo University (OAU), Ile-Ife, Nigeria",
+    "email": "",
+    "phone": "",
+    "profile_picture": "",
+    "orcid": "",
+    "scopus_id": "",
+    "courses_taught": [],
+    "research_areas": [
+      "Data Communications",
+      "Wireless Networks",
+      "Wireless Sensor Networks",
+      "Cybersecurity",
+      "Pervasive Computing",
+      "Mobile Computing",
+      "Internet of Things Applications",
+      "Engineering Education"
+    ],
+    "qualifications": [
+      "B.Sc. (Hons.) Computer Engineering, 1994",
+      "Ph.D. Computer Science, 2007"
+    ],
+    "linkedin_url": "",
+    "personal_website": "",
+    "publications": [
+      "Performance Analysis of an Enhanced Load Balancing Scheme for Wireless Sensor Networks (2011, Wireless Sensor Network)",
+      "Monocular Vision Based Boundary Avoidance for Non-Invasive Stray Control System for Cattle: A Conceptual Approach (2015, Journal of Sensor Technology)",
+      "Mobility Conscious Medium Access Control Scheme for Wireless Sensor Networks: A Conceptual Approach (2014, Wireless Sensor Network)",
+      "On Evaluating the Efficacy of Predictive Models for Cognitive Radio Spectrum Availability in Nigeria (2018, Wireless Engineering and Technology)",
+      "Software Architecture and Methodology as a Tool for Efficient Software Engineering Process: A Critical Appraisal (2010, Journal of Software Engineering and Applications)",
+      "Towards an Efficient Information Systems Development Process and Management: A Review of Challenges and Proposed Strategies (2010, Journal of Software Engineering and Applications)",
+      "A Scalable Architecture for Network Traffic Monitoring and Analysis Using Free Open Source Software (2009, Int'l J. of Communications, Network and System Sciences)",
+      "A User Identity Management Protocol for Cloud Computing Paradigm (2011, Int'l J. of Communications, Network and System Sciences)",
+      "Wireless Network Security: The Mobile Agent Approach (2013, Int'l J. of Communications, Network and System Sciences)",
+      "Proxy Server Experiment and Network Security with Changing Nature of the Web (2014, Int'l J. of Communications, Network and System Sciences)"
+    ],
+    "projects": [
+      "Research on Load Balancing Schemes for Wireless Sensor Networks",
+      "Development of Mobile Agent-based Security Frameworks for Wireless Networks",
+      "Predictive Models for Cognitive Radio Spectrum Availability in Nigeria",
+      "Network Traffic Monitoring and Analysis using Open Source Tools",
+      "Cloud Computing Identity Management Protocols",
+      "IoT Applications and Pervasive Computing Solutions",
+      "Cybersecurity Models for Wireless and Mobile Networks"
+    ]
+  }
+]

@@ -22,9 +22,9 @@ datasource db {
 
 model Course {
   id           String       @id @default(uuid())
-  course_code  String
-  course_title String @unique
-  lecturers     Lecturer[]    
+  course_code  String       @unique
+  course_title String 
+  lecturers     Lecturer[]
   departments  Department[]
   createdAt    DateTime     @default(now())
   updatedAt    DateTime     @updatedAt
@@ -41,12 +41,12 @@ model Department {
 }
 
 model Lecturer {
-  id               String         @id @default(uuid())
-  full_name        String         @unique
+  id               String          @id @default(uuid())
+  full_name        String          @unique
   title            String
-  department       Department?    @relation(fields: [departmentId], references: [id])
-  departmentId     String?
-  email            String         @unique
+  department       Department     @relation(fields: [departmentId], references: [id])
+  departmentId     String
+  email            String          @unique
   phone            String?
   profile_picture  String?
   orcid            String?
@@ -56,21 +56,21 @@ model Lecturer {
   qualifications   String[]
   linkedin_url     String?
   personal_website String?
-  publications     String[]
-  createdAt        DateTime       @default(now())
-  updatedAt        DateTime       @updatedAt
+  publications     Publication[]   
+  createdAt        DateTime        @default(now())
+  updatedAt        DateTime        @updatedAt
 }
 
+model Publication {
+  id          String       @id @default(uuid())
+  title       String
+  type        String
+  year        Int
+  doi         String?
+  link        String?
+  lecturers   Lecturer[]   
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
 
-// model Publication {
-//   id         String   @id @default(uuid())
-//   title      String   @unique 
-//   type       String
-//   year       Int
-//   doi        String?
-//   doi_links  String?
-//   lecturer   Lecturer @relation(fields: [lecturerId], references: [id])
-//   lecturerId String
-//   createdAt DateTime   @default(now())
-//   updatedAt DateTime   @updatedAt
-// }
+  @@unique([title, year])
+}

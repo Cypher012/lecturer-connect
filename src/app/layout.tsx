@@ -10,13 +10,12 @@ import { Suspense } from "react"
 import {DepartmentsProvider} from "~/src/components/department-provider"
 
 import "./globals.css"
-import { getDepartments } from "../lib/actions/departments"
+import { getDepartmentsCached } from "../lib/actions/departments"
 
 export const metadata: Metadata = {
   title: "Lecturer Connect - Faculty of Computing",
   description:
     "Connect with lecturers in the Faculty of Computing. Explore profiles, research areas, and chat with our AI assistant.",
-  generator: "v0.app",
 }
 
 export default async function RootLayout({
@@ -24,7 +23,7 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode
 }>) {
-  const departments = await getDepartments()
+  const departments = await getDepartmentsCached()
   return (
     <html lang="en">
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} min-h-screen flex flex-col`}>
@@ -35,7 +34,7 @@ export default async function RootLayout({
             <main className="flex-1">{children}</main>
         </DepartmentsProvider>
             <Footer />
-          </Suspense>
+          </Suspense> 
         </AuthProvider>
         <Analytics />
       </body>

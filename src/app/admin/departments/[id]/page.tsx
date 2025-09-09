@@ -1,4 +1,4 @@
-import EditDepartment from "./edit-department"
+import EditDepartment from "../../../../components/AdminDepartment/EditDepartment"
 import { getDepartment } from "../../../../lib/actions/departments"
 
 
