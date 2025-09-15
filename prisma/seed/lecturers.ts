@@ -1,8 +1,11 @@
 import { db } from "../../src/server/db";
-import lecturers from "../../src/lib/mockdata/lecturers.json";
+import lecturers from "../../src/lib/seed_data/lecturers.json";
 
-async function SeedLecturers() {
-  for (const lecturer of lecturers) {
+const BATCH_SIZE = 5; // Adjust based on your DB limits
+const MAX_RETRIES = 3;
+
+async function upsertLecturerWithRetry(lecturer: typeof lecturers[0], attempt = 1) {
+  try {
     await db.lecturer.upsert({
       where: { email: lecturer.email },
       update: {
@@ -18,8 +21,8 @@ async function SeedLecturers() {
         personal_website: lecturer.personal_website,
         department: { connect: { id: lecturer.departmentId } },
         courses: {
-          connect: lecturer.courses_taught.map((course_code) => ({course_code}))
-        }
+          connect: lecturer.courses_taught.map((course_code) => ({ course_code })),
+        },
       },
       create: {
         full_name: lecturer.full_name,
@@ -34,13 +37,40 @@ async function SeedLecturers() {
         linkedin_url: lecturer.linkedin_url,
         personal_website: lecturer.personal_website,
         department: { connect: { id: lecturer.departmentId } },
-          
         courses: {
-          connect: lecturer.courses_taught.map((course_code) => ({course_code}))
-        }
+          connect: lecturer.courses_taught.map((course_code) => ({ course_code })),
+        },
       },
     });
+    console.log(`✅ Successfully seeded: ${lecturer.full_name}`);
+  } catch (error: any) {
+    if (attempt < MAX_RETRIES) {
+      console.warn(
+        `⚠️ Retry ${attempt} for lecturer: ${lecturer.full_name} due to error: ${
+          error.message || error
+        }`
+      );
+      await upsertLecturerWithRetry(lecturer, attempt + 1);
+    } else {
+      console.error(
+        `❌ Failed to seed lecturer after ${MAX_RETRIES} attempts: ${lecturer.full_name}`
+      );
+      console.error("Error details:", error.message || error);
+    }
   }
 }
 
-export default SeedLecturers;
+export default async function SeedLecturers() {
+  for (let i = 0; i < lecturers.length; i += BATCH_SIZE) {
+    const batch = lecturers.slice(i, i + BATCH_SIZE);
+
+    // Run batch in parallel with retries
+    await Promise.allSettled(batch.map((lecturer) => upsertLecturerWithRetry(lecturer)));
+
+    console.log(
+      `🌟 Seeded lecturer batch ${i / BATCH_SIZE + 1} / ${Math.ceil(
+        lecturers.length / BATCH_SIZE
+      )}`
+    );
+  }
+}

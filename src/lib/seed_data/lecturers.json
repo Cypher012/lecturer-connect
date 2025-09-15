@@ -1,0 +1,697 @@
+[
+  {
+    "full_name": "Engr. Temitope O. Ajayi",
+    "title": "Lecturer",
+    "departmentId": "cse",
+    "email": "temitope.ajayi@oauife.edu.ng",
+    "phone": "+2348034054077",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877989/engr_temitope_ajayi_yaisip.jpg",
+    "orcid": "0000-0002-1681-1591",
+    "scopus_id": "58566241600",
+    "researchAreas": [
+      "Information and Communication Technology",
+      "Computer Networking",
+      "Electronics and Communication Technology",
+      "Network Communications",
+      "Information Technology",
+      "Network Security",
+      "Wireless Computing",
+      "Network Technology",
+      "Computer Networks Security"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Engineering, Obafemi Awolowo University (1994-1999)",
+      "Postgraduate Diploma in Monitoring and Evaluation, Stellenbosch University (2008)",
+      "M.Sc. Computer Engineering, Obafemi Awolowo University (2017-2019)"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/t%C3%A8m%C3%ADt%C3%B3p%C3%A9-%C3%A0j%C3%A0y%C3%AD-a8b22654",
+    "personal_website": null,
+    "courses_taught": ["CPE203", "CPE204"]
+  },
+  {
+    "full_name": "Engr. Rotimi (Alagbe) Gbadebo",
+    "title": "Lecturer",
+    "departmentId": "cse",
+    "email": "rotimi.gbadebo@university.local",
+    "phone": null,
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877985/engr_gbadebo_aoxfib.jpg",
+    "orcid": null,
+    "scopus_id": "1002293531",
+    "researchAreas": [
+      "Computer Networking",
+      "Network Security",
+      "Network Administration",
+      "Network Simulation",
+      "Network Performance Evaluation",
+      "Network Infrastructure",
+      "Network Troubleshooting",
+      "Wireless Sensor Networks",
+      "Data Communication"
+    ],
+    "qualifications": [
+      "B.Tech. Computer Engineering, Ladoke Akintola University of Technology (2004–2009)",
+      "M.Sc. Computer Engineering, Obafemi Awolowo University (2016–2019)"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/rotimi-gbadebo",
+    "personal_website": null,
+    "courses_taught": ["CSC101","CSC102" ,"CPE203", "CPE204"]
+  },
+  {
+    "full_name": "Mrs. Olujoke (Mubo) Oni",
+    "title": "Lecturer",
+    "departmentId": "csc",
+    "email": "olujoke.oni@oauife.edu.ng",
+    "phone": null,
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877985/Mrs_Oni_dh7fhl.jpg",
+    "orcid": null,
+    "scopus_id": null,
+    "courses_taught": ["CSC101","CSC102" ,"CSC201", "CSC202"],
+    "researchAreas": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Cybersecurity",
+      "Human-Computer Interaction",
+      "Biomedical Imaging Informatics",
+      "e-Learning"
+    ],
+    "qualifications": [
+      "M.Sc. Computer Science, Obafemi Awolowo University"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/olujoke-oni",
+    "personal_website": null
+  },
+  {
+    "full_name": "Prof. Oluwatope O. Ayodeji",
+    "title": "Professor",
+    "departmentId": "cse",
+    "email": "aoluwato@oauife.edu.ng",
+    "phone": "08035962506",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877984/prof_ayodeji_ojuqqx.jpg",
+    "orcid": "0000-0003-0180-5241",
+    "scopus_id": "9846662000",
+    "researchAreas": [
+      "Digital Transformation",
+      "Network Security",
+      "Congestion Control in 5G",
+      "Data Communications",
+      "Embedded Systems",
+      "Knowledge Transfer",
+      "Computer Networks and Internet",
+      "Reconfigurable Computing",
+      "Internet of Things (IoT)"
+    ],
+    "qualifications": [
+      "B.Sc. (Computer Engineering) – 1995",
+      "M.Sc. (Computer Science) – 2003",
+      "Ph.D. (Computer Science) – 2008"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/ayodeji-oluwatope-16a406110/",
+    "personal_website": "http://comnet.oauife.edu.ng",
+    "courses_taught": ["CPE301", "CPE401"]
+  },
+  {
+  "full_name": "Bodunde Olofin Akinyemi",
+  "title": "Senior Lecturer",
+  "departmentId": "csc",
+  "email": "bodundeolofin@univeristy.local",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877984/Mrs_Bodunde_tjgule.jpg",
+  "orcid": "0000-0001-6943-7137",
+  "scopus_id": "57208029359",
+  "courses_taught": [],
+
+  "researchAreas": [
+    "Network Security",
+    "Computer Security",
+    "Information Security",
+    "Cyber Security",
+    "Computer Networking",
+    "Cloud Computing",
+    "Network Communication",
+    "Network Administration",
+    "Network Management"
+  ],
+  "qualifications": [
+    "B.Sc. Computer Science, Ladoke Akintola University of Technology, Ogbomoso (2005)",
+    "M.Sc. Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife (2011)",
+    "Ph.D. Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife (2014)"
+  ],
+  "linkedin_url": "",
+  "personal_website": ""
+},
+{
+    "full_name": "Oluwatoyin H. Odukoya",
+  "title": "Lecturer I",
+  "departmentId": "se",
+  "email": "olagun12@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877982/odukoya_c5tvsd.png",
+  "orcid": "0000-0003-2894-7231",
+  "scopus_id": "",
+  "courses_taught": [],
+  "researchAreas": [
+    "Computational Science and Engineering",
+    "Computer Architecture and Organization",
+    "Data Mining",
+    "Data Structures and Algorithms",
+    "Cybersecurity",
+    "Data Communication and Networking"
+  ],
+  "qualifications": [],
+  "linkedin_url": "",
+  "personal_website": ""
+},
+{
+    "full_name": "Theresa Olubukola Omodunbi",
+    "title": "Lecturer",
+    "departmentId": "is",
+    "email": "tessydunbi@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877981/mrs_theresa_qlwlss.jpg",
+    "orcid": "0000-0002-8501-6743",
+    "scopus_id": "",
+    "courses_taught": [],
+    "researchAreas": [
+    "Computational Linguistics",
+    "Semantics",
+    "Biomedical Informatics",
+    "Information Retrieval",
+    "Data Mining",
+    "Data Analytics",
+    "Summarization Systems"
+    ],
+    "qualifications": [
+    "PhD, Computer Science (2012-2016) Obafemi Awolowo University",
+    "MCA, Computer Science (2011) Obafemi Awolowo University",
+    "BSc, Computer Science (2006) Obafemi Awolowo University"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/theresa-omodunbi",
+    "personal_website": ""
+},
+{
+  "full_name": "Rhoda N. Ikono",
+  "title": "Professor",
+  "departmentId": "is",
+  "email": "rhodaikono@university.local",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877977/prof_rhoda_ikono_ipse1p.jpg",
+  "orcid": "https://orcid.org/0000-0003-4978-1357",
+  "scopus_id": "57213768999",
+  "linkedin_url": "https://linkedin.com/in/rhoda-ikono-92608411",
+  "personal_website": "",
+  "courses_taught": [ "CSC201", "CSC202",  "CSC311", "CSC306", "CSC317", "CSC312", "CSC507"],
+  "researchAreas": [
+    "Requirement Engineering",
+    "Usability",
+    "Health Informatics",
+    "Information Systems",
+    "Biomedical Informatics",
+    "Human-Robot Interaction",
+    "Ontology Matching",
+    "Interoperability",
+    "Software Product Usability",
+    "Artificial Intelligence"
+  ],
+  "qualifications": [
+    "B.Sc. Computer Science",
+    "M.Sc. Computer Science",
+    "Ph.D. Computer Science"
+  ]
+},
+{
+  "full_name": "Abimbola Rhoda Iyanda",
+  "title": "Senior Lecturer",
+  "departmentId": "is",
+  "email": "abimbolarhoda@university.local",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877976/Abimbola-Iyanda_pcaxjm.png",
+  "orcid": "https://orcid.org/0000-0002-3470-0115",
+  "scopus_id": "57199509388",
+  "courses_taught": [
+    "CSC317",
+    "CSC201",
+    "CSC202",
+    "CPE401",
+    "CPE309",
+    "CPE204",
+    "CSC520",
+    "CPE510"
+  ],
+  "researchAreas": [
+    "Computing and Intelligent Systems",
+    "Speech and Language Engineering",
+    "Artificial Intelligence",
+    "Human-Computer Interaction",
+    "Natural Language Processing"
+  ],
+  "qualifications": [
+    "B.Sc. Computer Engineering (Obafemi Awolowo University, Ile-Ife)",
+    "M.Sc. Computer Science (Obafemi Awolowo University, Ile-Ife)",
+    "Ph.D. Computer Science (Obafemi Awolowo University, Ile-Ife)"
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/abimbola-iyanda",
+  "personal_website": "https://scholar.google.com/citations?user=d7o3MH8AAAAJ&hl=en"
+},
+{
+  "full_name": "Emmanuel Ajayi Olajubu",
+  "title": "Professor",
+  "departmentId": "csc",
+  "email": "eaolajubu@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877976/prof_emmanuel_ajayijpeg_mc3naa.jpg",
+  "orcid": null,
+  "scopus_id": null,
+  "researchAreas": [
+    "Distributed Systems",
+    "Cybersecurity",
+    "Wireless Network Security",
+    "ICT4D",
+    "Multi-Agent Systems",
+    "Parallel and Distributed Computing",
+    "Mobile Agents",
+    "Smart Grid Security"
+  ],
+  "qualifications": [
+    "B.Sc. Computer Science with Economics, Obafemi Awolowo University",
+    "Ph.D. Computer Science, Obafemi Awolowo University"
+  ],
+  "linkedin_url": null,
+  "personal_website": "https://scholar.google.com/citations?user=VIEnWBUAAAAJ",
+  "courses_taught": [
+    "CPE517",
+    "CSC201"
+  ]
+},
+{
+  "full_name": "Ishaya P. Gambo",
+  "title": "Senior Lecturer",
+  "departmentId": "se",
+  "email": "ipgambo@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877976/dr_gambo_cphhq7.jpg",
+  "orcid": "https://orcid.org/0000-0002-1289-9266",
+  "scopus_id": "57194111747",
+  "researchAreas": [
+    "Software Engineering",
+    "Requirements Engineering",
+    "Software Architecture",
+    "Software Testing",
+    "Information Systems",
+    "Health Informatics",
+    "Mining Software Repositories"
+  ],
+  "qualifications": [
+    "BSc Computer Science",
+    "MSc Computer Science",
+    "PhD Computer Science"
+  ],
+  "linkedin_url": null,
+  "personal_website": "https://scholar.google.com/citations?user=0sGpNHwAAAAJ&hl=en",
+  "courses_taught": [
+    "CSC101",
+    "CSC201",
+    "CSC202",
+    "CSC311",
+    "CSC407",
+    "CSC505"
+  ]
+},
+{
+  "full_name": "Abimbola Hettie Soriyan",
+  "title": "Professor",
+  "departmentId": "is",
+  "email": "hsoriyan@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877976/hettie_ovsgv8.jpg",
+  "orcid": "https://orcid.org/0000-0002-2149-421X",
+  "scopus_id": null,
+  "researchAreas": [
+    "Health Informatics",
+    "Information Systems",
+    "Software Engineering",
+    "Curriculum Development",
+    "Computational Engineering",
+    "ICT in Healthcare",
+    "Healthcare Data Analytics"
+  ],
+  "qualifications": [
+    "B.Sc. Computer Science",
+    "M.Sc. Computer Science",
+    "Ph.D. Computer Science (Information Systems / Health Informatics)"
+  ],
+  "linkedin_url": null,
+  "personal_website": null,
+  "courses_taught": [
+    "CSC407",
+    "CSC311"
+  ]
+},
+{
+  "full_name": "Sururah Apinke Bello",
+  "title": "Dr.",
+  "departmentId": "cse",
+  "email": "sururah.bello@university.local",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877978/mrs_bello_jv6yo3.jpg",
+  "orcid": "0000-0002-2689-9953",
+  "scopus_id": "57217468871",
+  "researchAreas": [
+    "Cloud Computing",
+    "AI in Construction & AEC",
+    "Building Information Modeling (BIM)",
+    "Circular Economy & Construction Waste Management",
+    "Computer Vision & IoT for Safety",
+    "Cybersecurity in Construction",
+    "Machine Learning & Deep Learning Applications"
+  ],
+  "qualifications": [
+    "B.Sc. Computer Science",
+    "M.Sc. Computer Science",
+    "Ph.D. Computer Science & Engineering"
+  ],
+  "linkedin_url": "",
+  "personal_website": "",
+  "courses_taught": []
+},
+{
+  "full_name": "Mistura L. Sanni",
+  "title": "Dr.",
+  "departmentId": "cse",
+  "email": "msanni@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/mrs_mistura_sanni_rwnrh0.jpg",
+  "orcid": "0000-0001-9206-4009",
+  "scopus_id": "",
+  "researchAreas": [
+    "Computational Science and Engineering",
+    "Interaction Design",
+    "Data Structures and Algorithms",
+    "Algorithm Design",
+    "Hardware Design",
+    "Data Communication Networks"
+  ],
+  "qualifications": [
+    "B.Sc. Computer Engineering (OAU, 1992)",
+    "M.Sc. Computer Engineering (OAU, 2006)",
+    "Ph.D. Computer Engineering (International Islamic University Malaysia, 2015)"
+  ],
+  "linkedin_url": "",
+  "personal_website": "https://orcid.org/0000-0001-9206-4009",
+  "courses_taught": []
+},
+{
+  "full_name": "Odetunji A. Odejobi",
+  "title": "Dr.",
+  "departmentId": "is",
+  "email": "odetunji.odejobi@university.local",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877974/odejobi_d4kllw.png",
+  "orcid": "",
+  "scopus_id": "",
+  "researchAreas": [
+    "Natural Language Processing",
+    "Computational Linguistics",
+    "Speech and Language Engineering",
+    "Computational Modelling",
+    "Artificial Intelligence",
+    "Intelligent Systems Engineering"
+  ],
+  "qualifications": [
+    "B.Sc. (Computer Engineering) First Class Honours - Obafemi Awolowo University, Ile-Ife, Nigeria",
+    "Ph.D. (Computer Science) - Aston University, Birmingham, United Kingdom",
+    "COREN Registered Engineer (Nigeria)",
+    "CPN Registered",
+    "Commonwealth Scholar (British)",
+    "Marie Curie Research Fellow - University College Cork, Ireland"
+  ],
+  "linkedin_url": "",
+  "personal_website": "",
+  "courses_taught": []
+},
+{
+  "full_name": "Babajide Samuel Afolabi",
+  "title": "Professor",
+  "departmentId": "se",
+  "email": "babajide.afolabi@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/babjide_nsefbd.jpg",
+  "orcid": "0000-0003-1843-3181",
+  "scopus_id": "",
+  "courses_taught": [
+    "CSC407",
+    "CSC522",
+    "CSC305",
+    "CSC201"
+  ],
+  "researchAreas": [
+    "Software Engineering",
+    "Information Retrieval",
+    "Knowledge Management",
+    "Artificial Intelligence",
+    "Business Intelligence",
+    "Medical Image Analysis",
+    "Cybersecurity & Data Privacy"
+  ],
+  "qualifications": [
+    "B.Sc. Computer Science with Mathematics, Obafemi Awolowo University, 1994",
+    "M.Phil. Information and Communication Sciences, Université Nancy 2, France, 2003",
+    "Ph.D. Information and Communication Sciences, Université Nancy 2, France, 2007",
+    "Certificate (National Trainer - E-Learning Course Design & Development), 2011",
+    "Certified Member, Computer Professional Registration Council of Nigeria (CPN), 2011"
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/babajide-afolabi",
+  "personal_website": "http://www.oauife.edu.ng"
+},
+{
+  "full_name": "Adeniran I. Oluwaranti",
+  "title": "Professor",
+  "departmentId": "csc",
+  "email": "adenirani.oluwaranti@university.local",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/prof_adeniran_moj3wk.jpg",
+  "orcid": "0000-0003-3714-3534",
+  "scopus_id": "",
+  "courses_taught": [],
+
+  "researchAreas": [
+    "Wireless Sensor Networks",
+    "Mobile Computing",
+    "Internet of Things",
+    "Wireless & Mobile Communications",
+    "Network Security",
+    "Deep Learning for Forecasting",
+    "Home Automation via Voice Interfaces"
+  ],
+  "qualifications": [
+    "Ph.D. (Computer Engineering), Obafemi Awolowo University, Ile-Ife",
+    "M.Sc., Obafemi Awolowo University, Ile-Ife",
+    "B.Sc., Obafemi Awolowo University, Ile-Ife",
+    "Certified Computer Professional (CPN)",
+    "National Trainer - E-Learning Course Design & Development"
+  ],
+  "linkedin_url": "",
+  "personal_website": ""
+},
+{
+ "full_name": "Emmanuel R. Adagunodo",
+  "title": "Professor",
+  "departmentId": "se",
+  "email": "eadagun@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/Emmanuel_Rotimi_zg6a5z.png",
+  "orcid": "",
+  "scopus_id": "",
+  "courses_taught": [],
+  "researchAreas": [
+    "Software Engineering",
+    "Computational Engineering",
+    "Operating Systems",
+    "Computer Systems & Computational Processes"
+  ],
+  "qualifications": [],
+  "linkedin_url": "",
+  "personal_website": ""
+},
+{
+  "full_name": "Ganiyu Adesola Aderounmu",
+  "title": "Professor",
+  "departmentId": "cse",
+  "email": "gaderoun@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877974/prof_ganiyu_cl496f.jpg",
+  "orcid": "0000-0002-7992-514X",
+  "scopus_id": "57202492824",
+  "courses_taught": ["CSC403", "CSC305", "CSC503"
+  ],
+  "researchAreas": [
+    "Computational Science and Engineering",
+    "Computer Systems & Computational Processes",
+    "Computer Architecture & Organization",
+    "Computer Networks",
+    "Data Structures & Algorithms",
+    "Cybersecurity",
+    "Cloud Computing",
+    "Mobile Agents",
+    "High-Performance Computing",
+    "Intrusion Detection Systems",
+    "Machine Learning Applications in Security"
+  ],
+  "qualifications": [
+    "B.Sc. Computer Engineering - Obafemi Awolowo University",
+    "M.Sc. Computer Science - Obafemi Awolowo University",
+    "Ph.D. Computer Science - Obafemi Awolowo University",
+    "Full Member, Nigeria Society of Engineers (NSE)",
+    "Chartered Computer Engineer (COREN)",
+    "Fellow, Nigeria Computer Society (NCS)",
+    "Chartered IT Practitioner (CPN)"
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/ganiyu-aderounmu",
+  "personal_website": "https://scholar.google.com/citations?user=POUhKJ8AAAAJ"
+  
+},
+{
+"full_name": "Iyabo Olukemi Awoyelu",
+  "title": "Professor",
+  "departmentId": "csc",
+  "email": "iawoyelu@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877974/mrs_oluwakemi_zvdlyi.jpg",
+  "orcid": "0000-0003-3523-6753",
+  "scopus_id": "12760226900",
+  "courses_taught": [],
+
+  "researchAreas": [
+    "Machine Learning",
+    "Data Mining",
+    "Recommender Systems",
+    "Data Analytics",
+    "Systems Architecture",
+    "Computer Systems & Computational Processes",
+    "Data Warehousing",
+    "Data Structures and Algorithms"
+  ],
+  "qualifications": [
+    "B.Sc. Computer Science (Obafemi Awolowo University)",
+    "M.Sc. Computer Science (Obafemi Awolowo University)",
+    "Ph.D. Computer Science (Obafemi Awolowo University)",
+    "Member, Nigeria Computer Society (NCS)",
+    "Member, Computer Professionals of Nigeria (CPN)",
+    "Member, Nigerian Women in IT (NIWIIT)"
+  ],
+  "linkedin_url": "",
+  "personal_website": ""
+},
+{
+  "full_name": "Safiriyu Ijiyemi Eludiora",
+  "title": "Senior Lecturer",
+  "departmentId": "ai",
+  "email": "safiriyue@yahoo.com",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877974/prof_safiriyu_snetjp.png",
+  "orcid": "",
+  "scopus_id": "",
+  "courses_taught": [],
+
+  "researchAreas": [
+    "Natural Language Processing",
+    "Machine Translation (English-Yorùbá, Hausa)",
+    "Computational Linguistics",
+    "Applied Linguistics",
+    "Cognitive Computing",
+    "Artificial Intelligence",
+    "Data Communication",
+    "Real-Time Embedded Systems",
+    "Wireless Sensor Networks",
+    "Cloud Computing",
+    "E-Learning and Distance Learning",
+    "Policy and ICT for Development"
+  ],
+  "qualifications": [
+    "Ph.D. Computer Science (Obafemi Awolowo University, 2014)",
+    "Registered Computer Engineer (COREN)",
+    "Member, Nigerian Society of Engineers (NSE)",
+    "Member, Nigeria Computer Society (NCS)",
+    "Member, Computing and Intelligent Systems Research Group (CISRG)"
+  ],
+  "linkedin_url": "",
+  "personal_website": "https://www.researchgate.net/profile/Safiriyu-Eludiora"
+},
+{
+  "full_name": "Lawal Aderonke Rasheedat",
+  "title": "Senior Lecturer",
+  "departmentId": "cse",
+  "email": "alawal@oauife.edu.ng",
+  "phone": "",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/dr_lawal_mcpgfg.jpg",
+  "orcid": "0000-0002-8501-6743",
+  "scopus_id": "",
+  "courses_taught": [
+    "CPE203",
+    "CPE204",
+    "CPE206",
+    "CPE301",
+    "CPE405",
+    "CPE409",
+    "CPE517"
+  ],
+  "researchAreas": [
+    "Artificial Intelligence",
+    "Pattern Recognition",
+    "Engineering Education",
+    "Machine Learning",
+    "Digital Systems",
+    "Pervasive and Mobile Computing"
+  ],
+  "qualifications": [
+    "B.Sc. (Hons.) Computer Engineering",
+    "M.Sc. Computer Science",
+    "Professional Diploma in Education",
+    "Ph.D. Computer Engineering"
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/aderonke-lawal",
+  "personal_website": ""
+},
+{
+  "full_name": "Onifade Mary Taiwo",
+  "title": "Assistant Lecturer",
+  "departmentId": "ai",
+  "email": "taiwoonifade17@gmail.com",
+  "phone": "08038628718",
+  "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877973/Onifade-Onifade-Taiwo_pvrp1k.jpg",
+  "orcid": "",
+  "scopus_id": "",
+  "courses_taught": [
+    "CSC201",
+    "CSC307",
+    "CSC311",
+    "CSC102",
+    "CSC202",
+    "CSC302",
+    "CSC317",
+    "CPE316",
+    "CSC403",
+    "CSC515"
+  ],
+  "researchAreas": [
+    "Natural Language Processing",
+    "Computational Linguistics",
+    "Artificial Intelligence",
+    "Human Language Processing"
+  ],
+  "qualifications": [
+    "Ph.D. Computer Science (In View, OAU)",
+    "M.Sc. Computer Science - Obafemi Awolowo University, 2018",
+    "B.Sc. Computer Science (Second Class Upper) - University of Ado-Ekiti, 2011",
+    "OND Computer Science (Upper Credit) - 2006",
+    "Senior School Certificate (SSCE) - 2002",
+    "Primary School Certificate - 1996",
+    "IBM Introduction to Artificial Intelligence - 2020",
+    "IBM AI V2 - 2020",
+    "IBM NLP - 2020",
+    "IBM Machine Learning - 2020",
+    "IBM Introduction to Coding - 2020"
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/taiwo-onifade",
+  "personal_website": ""
+}
+]

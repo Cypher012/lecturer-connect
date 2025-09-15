@@ -2,27 +2,33 @@
 
 import type React from "react"
 
-import { useState, useMemo } from "react"
+import { useState, useMemo, useEffect } from "react"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Search, Grid, List, Users } from "lucide-react"
 import { LecturerCard } from "@/components/lecturer-card"
-import { lecturers, departments, searchLecturers } from "@/lib/mock-data"
+import { searchLecturers } from "@/lib/utils"
 import { useSearchParams } from "next/navigation"
-import { useDepartments } from "~/src/components/department-provider"
-import { Lecturer } from "~/generated/prisma"
-import { LecturerWithRelations } from "~/src/lib/actions/lecturers"
+import { useDepartmentsStore } from "~/src/hooks/use-department"
+import type { LecturerWithRelations } from "~/src/lib/actions/lecturers"
 
 export default function LecturersPage({initialLecturers}: {initialLecturers: LecturerWithRelations[]}) {
   const searchParams = useSearchParams()
-  const initialSearch = searchParams.get("search") || ""
-  const departments = useDepartments()
+  const initialSearch = searchParams.get("department") || ""
+  const departments = useDepartmentsStore((state) => state.departments)
+    const fetchDepartments = useDepartmentsStore((state) => state.fetchDepartments)
+  
+    useEffect(() => {
+      fetchDepartments()
+    }, [fetchDepartments])
+    
   const lecturers = initialLecturers
 
+  const initialDepartment = searchParams.get("department") || "all"
   const [searchQuery, setSearchQuery] = useState(initialSearch)
-  const [selectedDepartment, setSelectedDepartment] = useState<string>("all")
+  const [selectedDepartment, setSelectedDepartment] = useState<string>(initialDepartment)
   const [selectedResearchArea, setSelectedResearchArea] = useState<string>("all")
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid")
 
@@ -42,6 +48,7 @@ export default function LecturersPage({initialLecturers}: {initialLecturers: Lec
     // Apply search filter
     if (searchQuery.trim()) {
       filtered = searchLecturers(searchQuery, lecturers)
+      console.log({filtered})
     }
 
     // Apply department filter
@@ -50,6 +57,7 @@ export default function LecturersPage({initialLecturers}: {initialLecturers: Lec
       if (dept) {
         filtered = filtered.filter((lecturer) => lecturer.department.name === dept.name)
       }
+
     }
 
     // Apply research area filter

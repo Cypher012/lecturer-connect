@@ -20,7 +20,9 @@ export function LecturerCard({ lecturer, variant = "grid" }: LecturerCardProps) 
           <div className="flex items-start space-x-6">
             <div className="relative w-20 h-20 rounded-2xl overflow-hidden bg-muted flex-shrink-0 profile-ring">
               <Image
-                src={lecturer.profile_picture || "/placeholder.svg"}
+                src={lecturer.profile_picture && lecturer.profile_picture.trim() !== "" 
+                ? lecturer.profile_picture 
+                : "/placeholder.svg"}
                 alt={lecturer.full_name}
                 fill
                 className="object-cover group-hover:scale-110 transition-transform duration-500"
@@ -104,7 +106,9 @@ export function LecturerCard({ lecturer, variant = "grid" }: LecturerCardProps) 
       <CardHeader className="text-center pb-4 relative z-10">
         <div className="relative w-28 h-28 mx-auto rounded-3xl overflow-hidden bg-muted mb-4 profile-ring">
           <Image
-            src={lecturer.profile_picture || "/placeholder.svg"}
+            src={lecturer.profile_picture && lecturer.profile_picture.trim() !== "" 
+            ? lecturer.profile_picture 
+            : "/placeholder.svg"}
             alt={lecturer.full_name}
             fill
             className="object-cover group-hover:scale-110 transition-transform duration-500"
@@ -115,7 +119,7 @@ export function LecturerCard({ lecturer, variant = "grid" }: LecturerCardProps) 
         </div>
         <h3 className="text-lg font-bold text-foreground text-balance mb-1">{lecturer.full_name}</h3>
         <p className="text-sm text-muted-foreground font-medium">{lecturer.title}</p>
-        <p className="text-sm text-accent font-semibold">{lecturer.department.name}</p>
+        <p className="text-sm text-accent font-semibold">{lecturer.department?.name ?? "name"}</p>
       </CardHeader>
 
       <CardContent className="space-y-4 relative z-10">

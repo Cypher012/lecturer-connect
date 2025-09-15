@@ -327,6 +327,14 @@
     ],
     "linkedin_url": "https://www.linkedin.com/in/segun-aina-phd-567330115?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBrlWKzblSjWD%2B2AQnYoSaw%3D%3D",
     "personal_website": "https://drsegunaina.com/",
+    "publi": [
+      {
+        "title": "A deep learning model for electricity demand forecasting based on a tropical data",
+        "year": 2020,
+        "type":"Review Article",
+        "doi":"10.1007/978-981-97-5799-2_26"
+      }
+    ],
     "publications": [
       "A deep learning model for electricity demand forecasting based on a tropical data (2020)",
       "DDoS attacks detection in the IoT using deep gaussian-bernoulli restricted boltzmann machine (2022)",

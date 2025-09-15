@@ -4,15 +4,9 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Mail, Phone, ExternalLink, BookOpen, GraduationCap, FileText, Briefcase, Calendar } from "lucide-react"
-import { getLecturerById } from "@/lib/mock-data"
 import Image from "next/image"
 import { LecturerWithRelations } from "~/src/lib/actions/lecturers"
 
-interface LecturerProfilePageProps {
-  params: {
-    id: string
-  }
-}
 
 export default function LecturerProfilePage({ lecturer }: {lecturer: LecturerWithRelations | null}) {
 

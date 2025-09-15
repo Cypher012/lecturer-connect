@@ -68,7 +68,6 @@ model Publication {
   type        String
   year        Int
   doi         String?
-  link        String?
   lecturers   Lecturer[]   
   createdAt   DateTime     @default(now())
   updatedAt   DateTime     @updatedAt

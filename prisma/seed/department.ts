@@ -1,5 +1,5 @@
 import {db} from "../../src/server/db"
-import departments from "../../src/lib/mockdata/departments.json"
+import departments from "../../src/lib/seed_data/departments.json"
 
 
 async function SeedDepartments() {

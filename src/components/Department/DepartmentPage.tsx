@@ -1,14 +1,15 @@
 "use client"
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { lecturers } from "@/lib/mock-data"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import Link from "next/link"
 import { Building2, Users, ArrowRight, BookOpen, GraduationCap } from "lucide-react"
-import {useDepartments} from "~/src/components/department-provider"
+import { useDepartmentsStore } from "~/src/hooks/use-department"
 import { Lecturer } from "~/generated/prisma"
 import { DepartmentWithRelations } from "~/src/lib/actions/departments"
+import { useEffect } from "react"
+import { LecturerWithRelations } from "~/src/lib/actions/lecturers"
 
 
   export function getLecturersByDepartment(department_id: string,departments: DepartmentWithRelations[] ): Lecturer[] {
@@ -19,10 +20,18 @@ import { DepartmentWithRelations } from "~/src/lib/actions/departments"
     return getLectures.filter((lecturer) => lecturer.departmentId === department_id)
   }
 
-export default function DepartmentsPage() {
+export default function DepartmentsPage({lecturers}: {lecturers: LecturerWithRelations[]}) {
   const totalLecturers = lecturers.length
-  const departments = useDepartments()
+  const departments = useDepartmentsStore((state) => state.departments)
+    const fetchDepartments = useDepartmentsStore((state) => state.fetchDepartments)
+    
+  useEffect(() => {
+      fetchDepartments()
+    }, [fetchDepartments])
+
   const totalDepartments = departments.length
+
+  // console.log("departments", departments)
 
   function truncateAtWord(str: string, maxLength:number) {
     if (str.length <= maxLength) return str; 
@@ -65,6 +74,7 @@ export default function DepartmentsPage() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
           {departments.sort((a,b) => a.name.localeCompare(b.name)).map((department) => {
             const departmentLecturers = getLecturersByDepartment(department.id, departments)
+            console.log({departmentLecturers})
             const lecturerCount = department.lecturers.length ?? 0
 
             return (
@@ -134,7 +144,7 @@ export default function DepartmentsPage() {
                   {/* Action Buttons */}
                   <div className="flex gap-2 pt-2">
                     <Button asChild className="flex-1">
-                      <Link href={`/lecturers?department=${encodeURIComponent(department.name)}`}>
+                      <Link href={`/lecturers?department=${encodeURIComponent(department.id)}`}>
                         View Lecturers
                         <ArrowRight className="ml-2 h-4 w-4" />
                       </Link>

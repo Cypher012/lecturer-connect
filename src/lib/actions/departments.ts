@@ -57,6 +57,7 @@ export async function getDepartment(id: string){
   })
 }
 
+
 // UPDATE
 export async function updateDepartment(id: string, formData: FormData) {
   try {

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "csc",
+    "name": "Computer Science and Cybersecurity",
+    "description": "The Computer Science and Cybersecurity department focuses on the study of computing systems, software development, and the protection of information assets. It equips students with skills in programming, algorithms, data structures, network security, cryptography, and ethical hacking, preparing them for careers in cybersecurity and software development."
+  },
+  {
+    "id": "cse",
+    "name": "Computer Engineering and Information Communication Technology",
+    "description": "The Computer Engineering and ICT department bridges hardware and software, emphasizing the design, development, and maintenance of computing systems and communication networks. Students gain expertise in digital systems, embedded systems, networking, and telecommunications technologies, enabling them to build and manage modern ICT infrastructure."
+  },
+  {
+    "id": "is",
+    "name": "Information Systems",
+    "description": "The Information Systems department focuses on the design, implementation, and management of information technology solutions that support organizational decision-making. Students learn database management, system analysis, enterprise systems, and IT project management, preparing them for roles in business intelligence, IT consultancy, and systems administration."
+  },
+  {
+    "id": "ai",
+    "name": "Intelligence Systems",
+    "description": "The Intelligence Systems department specializes in artificial intelligence, machine learning, and data-driven technologies. Students explore natural language processing, computer vision, robotics, and intelligent agent systems, preparing them for careers in AI research, development, and the application of intelligent systems across industries."
+  },
+  {
+    "id": "se",
+    "name": "Software Engineering",
+    "description": "The Software Engineering department emphasizes the systematic development, design, and maintenance of high-quality software systems. Students acquire skills in software architecture, testing, project management, and agile development, equipping them to create reliable, scalable, and maintainable software for industry and research."
+  }
+]

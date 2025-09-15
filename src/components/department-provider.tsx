@@ -2,16 +2,16 @@
 "use client"
 
 import { createContext, useContext } from "react"
-import type { DepartmentWithRelations as Department } from "@/lib/actions/departments"
+import type { DepartmentWithRelations } from "@/lib/actions/departments"
 
-const DepartmentsContext = createContext<Department[]>([])
+const DepartmentsContext = createContext<DepartmentWithRelations[]>([])
 
 export function DepartmentsProvider({ 
   children, 
   departments 
 }: { 
   children: React.ReactNode
-  departments: Department[]
+  departments: DepartmentWithRelations[]
 }) {
   return (
     <DepartmentsContext.Provider value={departments}>

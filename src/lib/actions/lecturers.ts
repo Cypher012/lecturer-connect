@@ -1,8 +1,8 @@
 "use server";
 
-import { db } from "@/server/db";
-import { revalidatePath } from "next/cache";
-import { redirect } from "next/navigation";
+import { db } from "../../server/db";
+// import { revalidatePath } from "necxt/cache";
+// import { redirect } from "next/navigation";
 import { cache } from "react";
 
 import type { Department, Course,Publication ,Lecturer as $Lecturer } from "~/generated/prisma";
@@ -33,4 +33,14 @@ export  async function getLecturer(id:string) {
   if (!lecturer) throw new Error("Lecturer not found");
 
   return lecturer
+}
+
+export async function getLecturersByDepartments(deptId:string) {
+  const lecturers = db.lecturer.findMany({
+    where: {departmentId: deptId},
+    include: { courses: true, department: true, publications: true }
+  })
+  if (!lecturers) throw new Error("Lecturer not found");
+
+  return lecturers
 }

@@ -1,0 +1,4065 @@
+[
+  {
+    "id": "b74fbbc6-39fa-4d58-bb11-a9fdcb94aa33",
+    "full_name": "Abimbola Hettie Soriyan",
+    "title": "Professor",
+    "departmentId": "is",
+    "email": "hsoriyan@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877976/hettie_ovsgv8.jpg",
+    "orcid": "https://orcid.org/0000-0002-2149-421X",
+    "scopus_id": null,
+    "researchAreas": [
+      "Health Informatics",
+      "Information Systems",
+      "Software Engineering",
+      "Curriculum Development",
+      "Computational Engineering",
+      "ICT in Healthcare",
+      "Healthcare Data Analytics"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Science",
+      "M.Sc. Computer Science",
+      "Ph.D. Computer Science (Information Systems / Health Informatics)"
+    ],
+    "linkedin_url": null,
+    "personal_website": null,
+    "createdAt": "2025-09-14T13:01:17.958Z",
+    "updatedAt": "2025-09-14T20:23:50.290Z",
+    "courses": [
+      {
+        "id": "642cca85-1ca7-4176-a2c4-3a0514b8045b",
+        "course_code": "CSC311",
+        "course_title": "Information Systems",
+        "createdAt": "2025-09-14T13:01:15.611Z",
+        "updatedAt": "2025-09-14T14:26:08.473Z"
+      },
+      {
+        "id": "462bb986-1bb3-41a4-b9b6-998c7dbbd511",
+        "course_code": "CSC407",
+        "course_title": "Techniques in Software Development",
+        "createdAt": "2025-09-14T13:01:16.328Z",
+        "updatedAt": "2025-09-14T14:26:08.919Z"
+      }
+    ],
+    "department": {
+      "id": "is",
+      "name": "Information Systems",
+      "description": "The Information Systems department focuses on the design, implementation, and management of information technology solutions that support organizational decision-making. Students learn database management, system analysis, enterprise systems, and IT project management, preparing them for roles in business intelligence, IT consultancy, and systems administration.",
+      "createdAt": "2025-09-14T13:01:15.241Z",
+      "updatedAt": "2025-09-14T14:26:08.198Z"
+    },
+    "publications": [
+      {
+        "id": "5f55c155-7266-439b-b7a8-dfb9da961d4a",
+        "title": "A Mathematical Approach to Healthcare Insurance Data Analytics",
+        "type": "Article",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.583Z",
+        "updatedAt": "2025-09-14T20:23:52.667Z"
+      },
+      {
+        "id": "c51d2e40-1fc7-4419-87d4-4a90fab12023",
+        "title": "A Mathematical Approach to Healthcare Insurance Data Analytics",
+        "type": "Preprint/Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.840Z",
+        "updatedAt": "2025-09-14T20:23:52.540Z"
+      },
+      {
+        "id": "571aba06-c8ba-47eb-afea-0246f8dc0c66",
+        "title": "Information systems development as an activity",
+        "type": "Journal Article",
+        "year": 2002,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.623Z",
+        "updatedAt": "2025-09-14T20:23:52.805Z"
+      },
+      {
+        "id": "51eb073d-cadc-4227-9e1a-635a0d5d971b",
+        "title": "A Multi-Nodal Implementation of Apriori Algorithm for Big Data Analytics using MapReduce Framework",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.432Z",
+        "updatedAt": "2025-09-14T20:23:52.493Z"
+      },
+      {
+        "id": "cc6e8684-20f9-4459-8af9-bec251038a6e",
+        "title": "An Implementation Of A Repository For Healthcare Insurance Using MongoDB",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.453Z",
+        "updatedAt": "2025-09-14T20:23:52.524Z"
+      },
+      {
+        "id": "dbe19e8d-a43e-4ec3-ac10-54bb09897eba",
+        "title": "An Integrated Framework for Prioritizing Software Specifications in Requirements Engineering",
+        "type": "Journal Article",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.492Z",
+        "updatedAt": "2025-09-14T20:23:52.587Z"
+      },
+      {
+        "id": "3f3ec979-bdcd-4187-8dc9-3fd43a2dbe6a",
+        "title": "Framework for Enhancing Requirements Engineering Processes: A Conceptual view of Health Information System",
+        "type": "Journal Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.504Z",
+        "updatedAt": "2025-09-14T20:23:52.602Z"
+      },
+      {
+        "id": "eaa6968b-3bc0-42d3-9524-512b6d77528b",
+        "title": "Interoperability in Healthcare: Benefits, Challenges and Resolutions",
+        "type": "Journal Article",
+        "year": 2013,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.515Z",
+        "updatedAt": "2025-09-14T20:23:52.618Z"
+      },
+      {
+        "id": "0bd2ff4b-b304-4bb9-b254-8d61e4010779",
+        "title": "Engendering Quality Information Systems Development through Software Architectural Design",
+        "type": "Journal Article",
+        "year": 2012,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.525Z",
+        "updatedAt": "2025-09-14T20:23:52.634Z"
+      },
+      {
+        "id": "43129f2c-1b20-4a1c-a83d-23e6feca5e79",
+        "title": "Formulation of A Computational Model for Predicting Drug Reactions Using Machine Learning",
+        "type": "Journal Article",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.536Z",
+        "updatedAt": "2025-09-14T20:23:52.650Z"
+      },
+      {
+        "id": "c8545224-442c-4ec8-b319-dfe09ab46a79",
+        "title": "Design of a Data Analytics Model for National Health Insurance Scheme",
+        "type": "Journal Article",
+        "year": 2017,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.557Z",
+        "updatedAt": "2025-09-14T20:23:52.692Z"
+      },
+      {
+        "id": "f4236f84-b3e0-411d-a5f0-855e8e95e9b3",
+        "title": "ICT implementation in the Nigerian healthcare system",
+        "type": "Magazine Article",
+        "year": 2017,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.567Z",
+        "updatedAt": "2025-09-14T20:23:52.711Z"
+      },
+      {
+        "id": "e66fc039-f234-4d37-b03a-12f7a68d2d67",
+        "title": "A Schematic View of the Application of Big Data Analytics in Healthcare Crime Investigation",
+        "type": "Journal Article",
+        "year": 2017,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.576Z",
+        "updatedAt": "2025-09-14T20:23:52.726Z"
+      },
+      {
+        "id": "29e23363-9b56-41e8-870d-1594e368db38",
+        "title": "An intelligent quality of service brokering model for e-commerce",
+        "type": "Journal Article",
+        "year": 2010,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.587Z",
+        "updatedAt": "2025-09-14T20:23:52.741Z"
+      },
+      {
+        "id": "40feca33-32a8-4b24-aea0-25082352e945",
+        "title": "Identifying software project risks in Nigeria: An international comparative study",
+        "type": "Journal Article",
+        "year": 2003,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.633Z",
+        "updatedAt": "2025-09-14T20:23:52.819Z"
+      },
+      {
+        "id": "c82c143a-1bba-4d34-bfe3-01b63c0bf9f2",
+        "title": "Community participation in health informatics in Africa: An experiment in tripartite partnership in Ile-Ife, Nigeria",
+        "type": "Journal Article",
+        "year": 1998,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.642Z",
+        "updatedAt": "2025-09-14T20:23:52.833Z"
+      },
+      {
+        "id": "c63ba071-2e55-43ba-841c-211dafccc726",
+        "title": "An adaptive fuzzy information retrieval model to improve response time perceived by e-commerce clients",
+        "type": "Journal Article",
+        "year": 2010,
+        "doi": "10.1016/j.eswa.2009.05.016",
+        "createdAt": "2025-09-14T14:26:11.596Z",
+        "updatedAt": "2025-09-14T20:23:53.969Z"
+      },
+      {
+        "id": "c757f098-5189-4e05-96e8-a0ce1c574d5f",
+        "title": "Activity analysis as a method for information systems development: General introduction and experiments from Nigeria and Finland",
+        "type": "Journal Article",
+        "year": 2000,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.605Z",
+        "updatedAt": "2025-09-14T20:23:52.776Z"
+      },
+      {
+        "id": "8e4bb821-15bc-492c-8a2e-de281dd46f1c",
+        "title": "Information systems development in a developing country: Theoretical analysis of special requirements in Nigeria and Africa",
+        "type": "Conference Paper",
+        "year": 2000,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.614Z",
+        "updatedAt": "2025-09-14T20:23:52.790Z"
+      }
+    ]
+  },
+  {
+    "id": "27e06ff4-1db3-4a93-a52b-a131b6e4a5bf",
+    "full_name": "Abimbola Rhoda Iyanda",
+    "title": "Senior Lecturer",
+    "departmentId": "is",
+    "email": "abimbolarhoda@university.local",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877976/Abimbola-Iyanda_pcaxjm.png",
+    "orcid": "https://orcid.org/0000-0002-3470-0115",
+    "scopus_id": "57199509388",
+    "researchAreas": [
+      "Computing and Intelligent Systems",
+      "Speech and Language Engineering",
+      "Artificial Intelligence",
+      "Human-Computer Interaction",
+      "Natural Language Processing"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Engineering (Obafemi Awolowo University, Ile-Ife)",
+      "M.Sc. Computer Science (Obafemi Awolowo University, Ile-Ife)",
+      "Ph.D. Computer Science (Obafemi Awolowo University, Ile-Ife)"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/abimbola-iyanda",
+    "personal_website": "https://scholar.google.com/citations?user=d7o3MH8AAAAJ&hl=en",
+    "createdAt": "2025-09-14T13:01:17.888Z",
+    "updatedAt": "2025-09-14T20:23:50.209Z",
+    "courses": [
+      {
+        "id": "792f6249-ecef-4b73-8bc8-c00d0c90e34f",
+        "course_code": "CPE204",
+        "course_title": "Digital Computer Systems II",
+        "createdAt": "2025-09-14T13:01:15.449Z",
+        "updatedAt": "2025-09-14T14:26:08.319Z"
+      },
+      {
+        "id": "f0f0cb40-8069-432e-a1ce-5ca613d3104e",
+        "course_code": "CSC317",
+        "course_title": "Automata Theory and Computability",
+        "createdAt": "2025-09-14T13:01:15.653Z",
+        "updatedAt": "2025-09-14T14:26:08.507Z"
+      },
+      {
+        "id": "86d45594-aa47-42ef-b2a4-eab41daf3f5c",
+        "course_code": "CPE309",
+        "course_title": "Computer Engineering Lab I",
+        "createdAt": "2025-09-14T13:01:16.211Z",
+        "updatedAt": "2025-09-14T14:26:08.840Z"
+      },
+      {
+        "id": "220c67e9-0a4f-4a16-a87e-ce08c4ea16e7",
+        "course_code": "CSC201",
+        "course_title": "Computer Programming I",
+        "createdAt": "2025-09-14T13:01:15.267Z",
+        "updatedAt": "2025-09-14T14:26:08.217Z"
+      },
+      {
+        "id": "16af3221-2cd6-4a02-aa43-63f5c0140c0d",
+        "course_code": "CSC202",
+        "course_title": "Computer Programming II",
+        "createdAt": "2025-09-14T13:01:15.358Z",
+        "updatedAt": "2025-09-14T14:26:08.272Z"
+      },
+      {
+        "id": "fecae57b-a3fc-48c6-8db7-8afc2f0d40d7",
+        "course_code": "CPE510",
+        "course_title": "Natural Language Processing & Application",
+        "createdAt": "2025-09-14T13:01:16.757Z",
+        "updatedAt": "2025-09-14T14:26:09.222Z"
+      },
+      {
+        "id": "527c856b-2e6f-4826-9de9-2f79a9dae0c2",
+        "course_code": "CSC520",
+        "course_title": "Expert Systems",
+        "createdAt": "2025-09-14T13:01:16.882Z",
+        "updatedAt": "2025-09-14T14:26:09.302Z"
+      },
+      {
+        "id": "16e8285a-c081-454a-9aa2-013621f42b87",
+        "course_code": "CPE401",
+        "course_title": "Computer Architecture and Organization",
+        "createdAt": "2025-09-14T13:01:16.297Z",
+        "updatedAt": "2025-09-14T14:26:08.900Z"
+      }
+    ],
+    "department": {
+      "id": "is",
+      "name": "Information Systems",
+      "description": "The Information Systems department focuses on the design, implementation, and management of information technology solutions that support organizational decision-making. Students learn database management, system analysis, enterprise systems, and IT project management, preparing them for roles in business intelligence, IT consultancy, and systems administration.",
+      "createdAt": "2025-09-14T13:01:15.241Z",
+      "updatedAt": "2025-09-14T14:26:08.198Z"
+    },
+    "publications": [
+      {
+        "id": "6fd5d0dc-10be-4a2e-9ca1-492e7b9c1428",
+        "title": "Development of Two-factor Authentication Login System Using Dynamic Password with SMS Verification",
+        "type": "Journal Article",
+        "year": 2022,
+        "doi": "10.5815/ijeme.2022.03.02",
+        "createdAt": "2025-09-14T14:05:23.943Z",
+        "updatedAt": "2025-09-14T20:23:51.922Z"
+      },
+      {
+        "id": "3fda6e35-4cbc-4323-8988-495652f0de55",
+        "title": "Design and Implementation of Diagnosis System for Cardiomegaly from Clinical Chest X-ray Reports",
+        "type": "Journal Article",
+        "year": 2022,
+        "doi": "10.5815/ijem.2022.03.03",
+        "createdAt": "2025-09-14T14:05:23.955Z",
+        "updatedAt": "2025-09-14T20:23:51.932Z"
+      },
+      {
+        "id": "b8d586f3-c501-4b48-bc75-a5cc9749b16f",
+        "title": "Students Conversation Management System",
+        "type": "Journal Article",
+        "year": 2018,
+        "doi": "10.5815/ijeme.2018.04.01",
+        "createdAt": "2025-09-14T14:05:23.966Z",
+        "updatedAt": "2025-09-14T20:23:51.941Z"
+      },
+      {
+        "id": "e03f7a58-38af-4ae4-b9d5-f89f39e7a1ef",
+        "title": "Predicting Student Academic Performance in Computer Science Courses: A Comparison of Neural Network Models",
+        "type": "Journal Article",
+        "year": 2018,
+        "doi": "10.5815/ijmecs.2018.06.01",
+        "createdAt": "2025-09-14T14:05:23.980Z",
+        "updatedAt": "2025-09-14T20:23:51.949Z"
+      },
+      {
+        "id": "b2b221fc-5ad2-44c3-a03e-54315fd7b40c",
+        "title": "Natural Language Processing in Artificial Intelligence with Practical Examples",
+        "type": "Book",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.994Z",
+        "updatedAt": "2025-09-14T20:23:51.958Z"
+      },
+      {
+        "id": "cdde4e14-d218-4101-8434-6e94351ca573",
+        "title": "An Optimized Convolutional Neural Network Model for Detecting Depressive Symptoms from Image Posts",
+        "type": "Journal Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:24.006Z",
+        "updatedAt": "2025-09-14T20:23:51.968Z"
+      },
+      {
+        "id": "b621a35e-785a-4b81-9e7a-b733f937502f",
+        "title": "Design Issues in Sentiment Analysis for Yorùbá Written Text",
+        "type": "Journal Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:24.019Z",
+        "updatedAt": "2025-09-14T20:23:51.982Z"
+      }
+    ]
+  },
+  {
+    "id": "082cc067-8732-4953-b294-33a3a586cfe0",
+    "full_name": "Adeniran I. Oluwaranti",
+    "title": "Professor",
+    "departmentId": "csc",
+    "email": "adenirani.oluwaranti@university.local",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/prof_adeniran_moj3wk.jpg",
+    "orcid": "0000-0003-3714-3534",
+    "scopus_id": "",
+    "researchAreas": [
+      "Wireless Sensor Networks",
+      "Mobile Computing",
+      "Internet of Things",
+      "Wireless & Mobile Communications",
+      "Network Security",
+      "Deep Learning for Forecasting",
+      "Home Automation via Voice Interfaces"
+    ],
+    "qualifications": [
+      "Ph.D. (Computer Engineering), Obafemi Awolowo University, Ile-Ife",
+      "M.Sc., Obafemi Awolowo University, Ile-Ife",
+      "B.Sc., Obafemi Awolowo University, Ile-Ife",
+      "Certified Computer Professional (CPN)",
+      "National Trainer - E-Learning Course Design & Development"
+    ],
+    "linkedin_url": "",
+    "personal_website": "",
+    "createdAt": "2025-09-14T13:01:18.040Z",
+    "updatedAt": "2025-09-14T20:23:50.361Z",
+    "courses": [],
+    "department": {
+      "id": "csc",
+      "name": "Computer Science and Cybersecurity",
+      "description": "The Computer Science and Cybersecurity department focuses on the study of computing systems, software development, and the protection of information assets. It equips students with skills in programming, algorithms, data structures, network security, cryptography, and ethical hacking, preparing them for careers in cybersecurity and software development.",
+      "createdAt": "2025-09-14T13:01:15.216Z",
+      "updatedAt": "2025-09-14T14:26:08.173Z"
+    },
+    "publications": [
+      {
+        "id": "15cef03a-c65f-4a5d-ab8f-b8022c730473",
+        "title": "A Comparative Analysis and Review of Techniques for African Facial Image Processing",
+        "type": "Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.092Z",
+        "updatedAt": "2025-09-14T20:23:53.497Z"
+      },
+      {
+        "id": "81d16c17-0076-4871-8093-387f4b50c99f",
+        "title": "Performance Evaluation of Bandwidth Optimization in IPv6 Header Compression",
+        "type": "Article",
+        "year": 2022,
+        "doi": "10.29121/ijoest.v6.i6.2022.399",
+        "createdAt": "2025-09-14T14:26:12.102Z",
+        "updatedAt": "2025-09-14T20:23:53.512Z"
+      },
+      {
+        "id": "bb516f47-bc6b-49b8-8584-c3c648c2bfbe",
+        "title": "DDoS Attacks Detection in the IoT Using Deep Gaussian-Bernoulli RBM",
+        "type": "Article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.109Z",
+        "updatedAt": "2025-09-14T20:23:53.526Z"
+      },
+      {
+        "id": "f31accab-566b-45aa-969f-21237f854ab0",
+        "title": "An Architectural Framework for Facebook Messenger Chatbot-Enabled Home Appliance Control System",
+        "type": "Chapter",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.119Z",
+        "updatedAt": "2025-09-14T20:23:53.541Z"
+      },
+      {
+        "id": "cc543f92-b5e6-46c5-97b6-d3489e4a826f",
+        "title": "Toward a More Robust Home Automated System: Introducing a Voice Activation Technique via Pubnub",
+        "type": "Chapter",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.126Z",
+        "updatedAt": "2025-09-14T20:23:53.556Z"
+      },
+      {
+        "id": "792fa8ab-3870-4bd3-8de5-6f9f3b26893f",
+        "title": "Unsupervised Deep Architecture for Forecast of a Tropical Electricity Load",
+        "type": "Article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.136Z",
+        "updatedAt": "2025-09-14T20:23:53.569Z"
+      },
+      {
+        "id": "59472143-7572-493e-b414-41157938cc3c",
+        "title": "Gesture Recognition System for Nigerian Tribal Greeting Postures Using SVM",
+        "type": "Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.143Z",
+        "updatedAt": "2025-09-14T20:23:53.584Z"
+      },
+      {
+        "id": "21d0de4b-b175-4d68-a3e6-6b75da00794a",
+        "title": "A Deep Learning Model for Electricity Demand Forecasting Based on a Tropical Data",
+        "type": "Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.158Z",
+        "updatedAt": "2025-09-14T20:23:53.600Z"
+      },
+      {
+        "id": "59d11989-8ab5-4ad5-a45a-d0a27d29bec7",
+        "title": "Web-Based Automatic Soil Chemical Contents Monitoring System",
+        "type": "Chapter",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.175Z",
+        "updatedAt": "2025-09-14T20:23:53.616Z"
+      },
+      {
+        "id": "2a45ddd3-cdcf-47be-a6d3-677c7bb6f841",
+        "title": "Cloud-Based Intelligent Toll Collection System for Smart Cities",
+        "type": "Chapter",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.207Z",
+        "updatedAt": "2025-09-14T20:23:53.646Z"
+      },
+      {
+        "id": "b73d513c-e610-43d1-bb9a-f42f388117a2",
+        "title": "Two-State Markov Chain Based Predictive Model for Cognitive Radio Spectrum Availability",
+        "type": "Conference Paper",
+        "year": 2016,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.221Z",
+        "updatedAt": "2025-09-14T20:23:53.660Z"
+      },
+      {
+        "id": "7a904340-1658-44c4-8839-085a98456830",
+        "title": "Wireless Network Security: The Mobile Agent Approach",
+        "type": "Article",
+        "year": 2013,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.232Z",
+        "updatedAt": "2025-09-14T20:23:53.675Z"
+      },
+      {
+        "id": "8432a65c-24f1-45f6-8240-7a1d008856aa",
+        "title": "Architectural Model for Wireless Peer-to-Peer (WP2P) File Sharing for Ubiquitous Mobile Devices",
+        "type": "Article",
+        "year": 2008,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.266Z",
+        "updatedAt": "2025-09-14T20:23:53.724Z"
+      },
+      {
+        "id": "d962d68b-23b9-4f88-82eb-51a5ee00a18e",
+        "title": "Design and Implementation of a University-Based Information Service Centre with SMS Notification",
+        "type": "Conference Paper",
+        "year": 2013,
+        "doi": "10.4314/jcsia.v17i2.67566",
+        "createdAt": "2025-09-14T14:26:12.275Z",
+        "updatedAt": "2025-09-14T20:23:53.744Z"
+      },
+      {
+        "id": "c8779808-419c-4480-9a6e-00cf0bfda727",
+        "title": "Proxy Server Experiment and Network Security with Changing Nature of the Web",
+        "type": "Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.243Z",
+        "updatedAt": "2025-09-14T20:23:53.690Z"
+      },
+      {
+        "id": "7cc3ae1a-7939-4bac-b763-9a7782ac3c34",
+        "title": "Development of a Non-Intrusive Network Traffic Monitoring and Analysis System",
+        "type": "Article",
+        "year": 2006,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.255Z",
+        "updatedAt": "2025-09-14T20:23:53.704Z"
+      },
+      {
+        "id": "1da97c0a-d7ac-4342-bfb2-fdf96e6f227b",
+        "title": "An Overview of Deep Learning Techniques for Short-Term Electricity Load Forecasting",
+        "type": "Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.193Z",
+        "updatedAt": "2025-09-14T20:23:54.592Z"
+      }
+    ]
+  },
+  {
+    "id": "c70bde51-3ccc-4f85-a212-9519cbf43876",
+    "full_name": "Babajide Samuel Afolabi",
+    "title": "Professor",
+    "departmentId": "se",
+    "email": "babajide.afolabi@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/babjide_nsefbd.jpg",
+    "orcid": "0000-0003-1843-3181",
+    "scopus_id": "",
+    "researchAreas": [
+      "Software Engineering",
+      "Information Retrieval",
+      "Knowledge Management",
+      "Artificial Intelligence",
+      "Business Intelligence",
+      "Medical Image Analysis",
+      "Cybersecurity & Data Privacy"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Science with Mathematics, Obafemi Awolowo University, 1994",
+      "M.Phil. Information and Communication Sciences, Université Nancy 2, France, 2003",
+      "Ph.D. Information and Communication Sciences, Université Nancy 2, France, 2007",
+      "Certificate (National Trainer - E-Learning Course Design & Development), 2011",
+      "Certified Member, Computer Professional Registration Council of Nigeria (CPN), 2011"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/babajide-afolabi",
+    "personal_website": "http://www.oauife.edu.ng",
+    "createdAt": "2025-09-14T13:01:18.021Z",
+    "updatedAt": "2025-09-14T20:23:50.349Z",
+    "courses": [
+      {
+        "id": "a2ba63bc-9814-4a0b-adf3-78d8efae3cc3",
+        "course_code": "CSC305",
+        "course_title": "Introduction Database Systems",
+        "createdAt": "2025-09-14T13:01:15.595Z",
+        "updatedAt": "2025-09-14T14:26:08.458Z"
+      },
+      {
+        "id": "220c67e9-0a4f-4a16-a87e-ce08c4ea16e7",
+        "course_code": "CSC201",
+        "course_title": "Computer Programming I",
+        "createdAt": "2025-09-14T13:01:15.267Z",
+        "updatedAt": "2025-09-14T14:26:08.217Z"
+      },
+      {
+        "id": "462bb986-1bb3-41a4-b9b6-998c7dbbd511",
+        "course_code": "CSC407",
+        "course_title": "Techniques in Software Development",
+        "createdAt": "2025-09-14T13:01:16.328Z",
+        "updatedAt": "2025-09-14T14:26:08.919Z"
+      },
+      {
+        "id": "5f2804ed-99ef-4a5f-a3a0-3ee563c0cfd9",
+        "course_code": "CSC522",
+        "course_title": "Information Storage and Retrieval",
+        "createdAt": "2025-09-14T13:01:16.897Z",
+        "updatedAt": "2025-09-14T14:26:09.310Z"
+      }
+    ],
+    "department": {
+      "id": "se",
+      "name": "Software Engineering",
+      "description": "The Software Engineering department emphasizes the systematic development, design, and maintenance of high-quality software systems. Students acquire skills in software architecture, testing, project management, and agile development, equipping them to create reliable, scalable, and maintainable software for industry and research.",
+      "createdAt": "2025-09-14T13:01:15.255Z",
+      "updatedAt": "2025-09-14T14:26:08.211Z"
+    },
+    "publications": [
+      {
+        "id": "eeb9167d-318c-4c3f-93c4-271c9c2def26",
+        "title": "Big Data Oriented Soft-Technologies and ICT Management",
+        "type": "Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.993Z",
+        "updatedAt": "2025-09-14T20:23:53.312Z"
+      },
+      {
+        "id": "c253ce36-72c8-4b9f-a26d-ed450b8bc765",
+        "title": "Transition from Observation to Knowledge to Intelligence: The Web Analytics Framework: An Integrated User-centric Evaluative Tool",
+        "type": "Conference Paper",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.003Z",
+        "updatedAt": "2025-09-14T20:23:53.326Z"
+      },
+      {
+        "id": "f741b094-6795-49c8-8083-13325fa4569a",
+        "title": "A Hybrid Software Test Automation for Educational Portals",
+        "type": "Preprint",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.009Z",
+        "updatedAt": "2025-09-14T20:23:53.340Z"
+      },
+      {
+        "id": "45fae8d4-e0df-48d3-95d2-eee57fdc6019",
+        "title": "Towards an Architecture-based Ensemble Methods for Online Social Network Sensitive Data Privacy Protection",
+        "type": "Article",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.020Z",
+        "updatedAt": "2025-09-14T20:23:53.356Z"
+      },
+      {
+        "id": "16c8b125-76f2-4af2-a18e-d3addd4d527e",
+        "title": "Semantic Medical Image Analysis: An Alternative to Cross-Domain Transfer Learning",
+        "type": "Book Chapter",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.026Z",
+        "updatedAt": "2025-09-14T20:23:53.370Z"
+      },
+      {
+        "id": "6cb9f064-ac13-4b3e-8a02-5190b04dfea2",
+        "title": "Effectiveness of a Mobile-Health Intervention on Uptake of Recommended Postnatal Care Services in Nigeria",
+        "type": "Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.036Z",
+        "updatedAt": "2025-09-14T20:23:53.385Z"
+      },
+      {
+        "id": "19498d0f-6dfc-4d1e-8eab-077847674e59",
+        "title": "Conflict Resolution: Analysis of Existing Theories and Resolution Strategies in Relation to Face Recognition",
+        "type": "Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.043Z",
+        "updatedAt": "2025-09-14T20:23:53.401Z"
+      },
+      {
+        "id": "ebde0e5d-ecb6-45e5-96c6-b1bc2b2713c2",
+        "title": "Towards a Job Recommender Model: An Architectural-Based Approach",
+        "type": "Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.053Z",
+        "updatedAt": "2025-09-14T20:23:53.416Z"
+      },
+      {
+        "id": "2096648b-17db-410a-a5e0-62ff8118a878",
+        "title": "An Explorative Survey of Image Enhancement Techniques Used in Mammography",
+        "type": "Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.060Z",
+        "updatedAt": "2025-09-14T20:23:53.432Z"
+      },
+      {
+        "id": "af624166-c960-4f61-b4b7-b84e71839996",
+        "title": "Optimisation of Point-Set Matching Model for Robust Fingerprint Verification in Changing Weather Conditions",
+        "type": "Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.070Z",
+        "updatedAt": "2025-09-14T20:23:53.448Z"
+      },
+      {
+        "id": "6c13cda3-00a5-4c9d-be8b-39bae28f0938",
+        "title": "Towards a Domain-Specific Deep Learning Models for Medical Image Analysis",
+        "type": "Preprint",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.076Z",
+        "updatedAt": "2025-09-14T20:23:53.464Z"
+      },
+      {
+        "id": "2221b8e0-0613-45ed-986f-db6ca41b5f29",
+        "title": "Design and Implementation of a University-Based Information Service Centre with SMS Notification (OAU Case Study)",
+        "type": "Article",
+        "year": 2010,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.086Z",
+        "updatedAt": "2025-09-14T20:23:53.481Z"
+      }
+    ]
+  },
+  {
+    "id": "d6ed5b59-d0dd-4c63-8079-f7724f6ad1dd",
+    "full_name": "Bodunde Olofin Akinyemi",
+    "title": "Senior Lecturer",
+    "departmentId": "csc",
+    "email": "bodundeolofin@univeristy.local",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877984/Mrs_Bodunde_tjgule.jpg",
+    "orcid": "0000-0001-6943-7137",
+    "scopus_id": "57208029359",
+    "researchAreas": [
+      "Network Security",
+      "Computer Security",
+      "Information Security",
+      "Cyber Security",
+      "Computer Networking",
+      "Cloud Computing",
+      "Network Communication",
+      "Network Administration",
+      "Network Management"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Science, Ladoke Akintola University of Technology, Ogbomoso (2005)",
+      "M.Sc. Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife (2011)",
+      "Ph.D. Computer Science and Engineering, Obafemi Awolowo University, Ile-Ife (2014)"
+    ],
+    "linkedin_url": "",
+    "personal_website": "",
+    "createdAt": "2025-09-14T13:01:17.813Z",
+    "updatedAt": "2025-09-14T20:23:50.107Z",
+    "courses": [],
+    "department": {
+      "id": "csc",
+      "name": "Computer Science and Cybersecurity",
+      "description": "The Computer Science and Cybersecurity department focuses on the study of computing systems, software development, and the protection of information assets. It equips students with skills in programming, algorithms, data structures, network security, cryptography, and ethical hacking, preparing them for careers in cybersecurity and software development.",
+      "createdAt": "2025-09-14T13:01:15.216Z",
+      "updatedAt": "2025-09-14T14:26:08.173Z"
+    },
+    "publications": [
+      {
+        "id": "ad85070d-5d42-4f8f-8c0b-5573f25b5f1f",
+        "title": "A Survey of Cyber-Physical System Security",
+        "type": "Journal article",
+        "year": 2019,
+        "doi": "10.14569/IJACSA.2019.0100359",
+        "createdAt": "2025-09-14T13:01:18.538Z",
+        "updatedAt": "2025-09-14T20:23:50.769Z"
+      },
+      {
+        "id": "e1175ba0-b0f8-4a11-9bdd-0dfa049c863d",
+        "title": "A Predictive Cyber Threat Model for Mobile Money Services",
+        "type": "Journal article",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.259Z",
+        "updatedAt": "2025-09-14T20:23:52.251Z"
+      },
+      {
+        "id": "d350088e-2fa2-4e21-9cbd-8dd1912979ba",
+        "title": "A Noun-Centric Keyphrase Extraction Model: Graph-Based Approach",
+        "type": "Journal article",
+        "year": 2022,
+        "doi": "10.12720/jait.13.6.578-589",
+        "createdAt": "2025-09-14T13:01:18.308Z",
+        "updatedAt": "2025-09-14T20:23:50.570Z"
+      },
+      {
+        "id": "5d4499eb-3bb2-48db-8aff-8ded693708bb",
+        "title": "A Predictive User Behaviour Analytic Model for Insider Threats in Cyberspace",
+        "type": "Journal article",
+        "year": 2022,
+        "doi": "10.54039/ijcnis.v14i1.5208",
+        "createdAt": "2025-09-14T13:01:18.336Z",
+        "updatedAt": "2025-09-14T20:23:50.586Z"
+      },
+      {
+        "id": "c06e2164-c889-4caa-b3e9-77abf7481d0c",
+        "title": "A Survey on Keyphrase Extraction Techniques",
+        "type": "Journal article",
+        "year": 2019,
+        "doi": "10.14569/IJACSA.2019.0100401",
+        "createdAt": "2025-09-14T13:01:18.547Z",
+        "updatedAt": "2025-09-14T20:23:50.784Z"
+      },
+      {
+        "id": "777e332a-2cbd-4b14-84e8-31d2db623735",
+        "title": "Comparative Analysis of Intrusion Detection Systems Using Machine Learning Techniques",
+        "type": "Conference paper",
+        "year": 2018,
+        "doi": "10.1145/3286606.3286813",
+        "createdAt": "2025-09-14T13:01:18.559Z",
+        "updatedAt": "2025-09-14T20:23:50.799Z"
+      },
+      {
+        "id": "7af85788-b88f-4367-af78-f7ff71d8682a",
+        "title": "Evaluation of Machine Learning Algorithms for Intrusion Detection Systems",
+        "type": "Conference paper",
+        "year": 2018,
+        "doi": "10.1145/3286606.3286802",
+        "createdAt": "2025-09-14T13:01:18.568Z",
+        "updatedAt": "2025-09-14T20:23:50.814Z"
+      },
+      {
+        "id": "69cebe7a-a574-404c-8cc4-84c71778209f",
+        "title": "A Hybrid Intrusion Detection System Based on Machine Learning Algorithms",
+        "type": "Conference paper",
+        "year": 2018,
+        "doi": "10.1145/3286606.3286819",
+        "createdAt": "2025-09-14T13:01:18.579Z",
+        "updatedAt": "2025-09-14T20:23:50.828Z"
+      },
+      {
+        "id": "6f1b862c-67e4-444c-aaf5-62c86fe45c65",
+        "title": "Comparative Analysis of Feature Selection Methods for Intrusion Detection Systems",
+        "type": "Conference paper",
+        "year": 2017,
+        "doi": "10.1109/ICMLC.2017.8108901",
+        "createdAt": "2025-09-14T13:01:18.594Z",
+        "updatedAt": "2025-09-14T20:23:50.842Z"
+      },
+      {
+        "id": "b9e3fbe0-c27d-4b29-a319-3df873526b85",
+        "title": "Evaluation of Machine Learning Algorithms for Cyber Intrusion Detection",
+        "type": "Conference paper",
+        "year": 2017,
+        "doi": "10.1109/ICMLC.2017.8108915",
+        "createdAt": "2025-09-14T13:01:18.610Z",
+        "updatedAt": "2025-09-14T20:23:50.856Z"
+      },
+      {
+        "id": "9086fde5-a389-44ea-94b5-d50de6d249ef",
+        "title": "Intrusion Detection System Using Machine Learning Algorithms",
+        "type": "Conference paper",
+        "year": 2017,
+        "doi": "10.1109/ICMLC.2017.8108893",
+        "createdAt": "2025-09-14T13:01:18.626Z",
+        "updatedAt": "2025-09-14T20:23:50.871Z"
+      },
+      {
+        "id": "98725a9d-65a4-4ef1-bd9b-43459f9ebe35",
+        "title": "Comparative Analysis of Intrusion Detection Systems",
+        "type": "Conference paper",
+        "year": 2016,
+        "doi": "10.1109/ICMLC.2016.7872986",
+        "createdAt": "2025-09-14T13:01:18.642Z",
+        "updatedAt": "2025-09-14T20:23:50.886Z"
+      },
+      {
+        "id": "4b82ef54-71ed-4a5b-8f17-10f6649c0207",
+        "title": "Intrusion Detection System Based on Machine Learning",
+        "type": "Conference paper",
+        "year": 2016,
+        "doi": "10.1109/ICMLC.2016.7873012",
+        "createdAt": "2025-09-14T13:01:18.656Z",
+        "updatedAt": "2025-09-14T20:23:50.901Z"
+      },
+      {
+        "id": "68848421-ea13-44fa-97a9-c25f0399f325",
+        "title": "Evaluation of Feature Selection Methods for Intrusion Detection Systems",
+        "type": "Conference paper",
+        "year": 2016,
+        "doi": "10.1109/ICMLC.2016.7872988",
+        "createdAt": "2025-09-14T13:01:18.670Z",
+        "updatedAt": "2025-09-14T20:23:50.916Z"
+      },
+      {
+        "id": "43341340-3c8a-4a31-b9d9-7b417edf0dc3",
+        "title": "Performance Evaluation of Feature Selection Methods for Intrusion Detection Systems",
+        "type": "Conference paper",
+        "year": 2016,
+        "doi": "10.1109/ICMLC.2016.7872995",
+        "createdAt": "2025-09-14T13:01:18.684Z",
+        "updatedAt": "2025-09-14T20:23:50.930Z"
+      },
+      {
+        "id": "2bf14670-82d0-4bd3-825b-011f4bd20b60",
+        "title": "Evaluation of Machine Learning Algorithms for Intrusion Detection",
+        "type": "Conference paper",
+        "year": 2015,
+        "doi": "10.1109/ICMLC.2015.7405678",
+        "createdAt": "2025-09-14T13:01:18.698Z",
+        "updatedAt": "2025-09-14T20:23:50.943Z"
+      },
+      {
+        "id": "68e4a561-5281-4ad8-8360-ab1ea4fc0824",
+        "title": "A Survey of Intrusion Detection Systems Based on Machine Learning",
+        "type": "Journal article",
+        "year": 2015,
+        "doi": "10.1109/ACCESS.2015.2476611",
+        "createdAt": "2025-09-14T13:01:18.713Z",
+        "updatedAt": "2025-09-14T20:23:50.957Z"
+      },
+      {
+        "id": "60db4324-0750-46d3-ab03-0f1a1ffcbdde",
+        "title": "A Survey on Intrusion Detection Systems",
+        "type": "Journal article",
+        "year": 2015,
+        "doi": "10.14569/IJACSA.2015.060803",
+        "createdAt": "2025-09-14T13:01:18.728Z",
+        "updatedAt": "2025-09-14T20:23:50.972Z"
+      },
+      {
+        "id": "9cee60f7-b646-4c7d-8604-898365677026",
+        "title": "Performance Evaluation of Machine Learning-based Robocalls Detection Models in Telephony Networks",
+        "type": "Journal article",
+        "year": 2022,
+        "doi": "10.5815/ijcnis.2022.06.04",
+        "createdAt": "2025-09-14T13:01:18.426Z",
+        "updatedAt": "2025-09-14T20:23:54.060Z"
+      },
+      {
+        "id": "f4b53a27-081f-4621-ba46-d50072caf464",
+        "title": "Signal Processing-based Model for Primary User Emulation Attacks Detection in Cognitive Radio Networks",
+        "type": "Journal article",
+        "year": 2021,
+        "doi": "10.20532/cit.2021.1005297",
+        "createdAt": "2025-09-14T13:01:18.441Z",
+        "updatedAt": "2025-09-14T20:23:50.648Z"
+      },
+      {
+        "id": "6d084a17-f29f-4a08-9a38-697061568504",
+        "title": "An Improved Bio-inspired Based Intrusion Detection Model for a Cyberspace",
+        "type": "Journal article",
+        "year": 2021,
+        "doi": "10.1080/23311916.2020.1859667",
+        "createdAt": "2025-09-14T13:01:18.452Z",
+        "updatedAt": "2025-09-14T20:23:50.664Z"
+      },
+      {
+        "id": "2093f8ac-1dd6-4de0-b394-ff3b457f4baf",
+        "title": "An Improved Energy-Efficient Prediction-based Model for Animal Tracking in Wireless Sensor Networks",
+        "type": "Journal article",
+        "year": 2020,
+        "doi": "10.5120/ijca2020919860",
+        "createdAt": "2025-09-14T13:01:18.465Z",
+        "updatedAt": "2025-09-14T20:23:50.678Z"
+      },
+      {
+        "id": "7f01b190-0452-46c1-8ded-53c0325a40ff",
+        "title": "A Model for Critical Security Controls in Cyber-Physical Systems",
+        "type": "Journal article",
+        "year": 2020,
+        "doi": "10.14569/IJACSA.2020.0110420",
+        "createdAt": "2025-09-14T13:01:18.477Z",
+        "updatedAt": "2025-09-14T20:23:50.693Z"
+      },
+      {
+        "id": "0f4e9cb1-e584-4ea7-838c-31cca58e08e7",
+        "title": "A Security Model for Insider Threat Detection in an Enterprise Environment",
+        "type": "Journal article",
+        "year": 2020,
+        "doi": "10.14569/IJACSA.2020.0110303",
+        "createdAt": "2025-09-14T13:01:18.486Z",
+        "updatedAt": "2025-09-14T20:23:50.707Z"
+      },
+      {
+        "id": "c3adc3b0-81bd-4923-be1a-063dd38c2133",
+        "title": "Energy-Efficient Multi-tier Model for Animal Tracking in Wireless Sensor Networks",
+        "type": "Journal article",
+        "year": 2020,
+        "doi": "10.14569/IJACSA.2020.0110547",
+        "createdAt": "2025-09-14T13:01:18.503Z",
+        "updatedAt": "2025-09-14T20:23:50.722Z"
+      },
+      {
+        "id": "18dc3504-04f0-46a1-b6e0-ff91a42f9af8",
+        "title": "Intrusion Detection in Wireless Sensor Networks Using Fuzzy Logic",
+        "type": "Conference paper",
+        "year": 2020,
+        "doi": "10.1145/3373017.3373055",
+        "createdAt": "2025-09-14T13:01:18.518Z",
+        "updatedAt": "2025-09-14T20:23:50.738Z"
+      },
+      {
+        "id": "74da4c4b-5ea4-4ceb-a6e2-f980c13ce463",
+        "title": "Modeling and Simulation of Fuzzy Logic Intrusion Detection System for Wireless Sensor Networks",
+        "type": "Conference paper",
+        "year": 2019,
+        "doi": "10.1109/ICMLC48188.2019.8955921",
+        "createdAt": "2025-09-14T13:01:18.528Z",
+        "updatedAt": "2025-09-14T20:23:50.754Z"
+      },
+      {
+        "id": "295a05d0-7746-4ecd-abda-9f4cb5eecd55",
+        "title": "CyberSCADA Network Security Analysis Model for Intrusion Detection Systems in the Smart Grid",
+        "type": "Book chapter",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.281Z",
+        "updatedAt": "2025-09-14T20:23:52.236Z"
+      },
+      {
+        "id": "a198dc63-454c-466c-a432-7a85e8e2d328",
+        "title": "An Integrated Approach to Research Paper and Expertise Recommendation in Academic Research",
+        "type": "Journal article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.366Z",
+        "updatedAt": "2025-09-14T20:23:54.207Z"
+      },
+      {
+        "id": "9ec92485-2e3a-4735-92a8-7d608c62c5aa",
+        "title": "Chaos Detection and Mitigation in Swarm of Drones Using Machine Learning Techniques and Chaotic Attractors",
+        "type": "Journal article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.402Z",
+        "updatedAt": "2025-09-14T20:23:54.046Z"
+      }
+    ]
+  },
+  {
+    "id": "193c09c1-180a-493e-9639-8a3e665adf03",
+    "full_name": "Emmanuel Ajayi Olajubu",
+    "title": "Professor",
+    "departmentId": "csc",
+    "email": "eaolajubu@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877976/prof_emmanuel_ajayijpeg_mc3naa.jpg",
+    "orcid": null,
+    "scopus_id": null,
+    "researchAreas": [
+      "Distributed Systems",
+      "Cybersecurity",
+      "Wireless Network Security",
+      "ICT4D",
+      "Multi-Agent Systems",
+      "Parallel and Distributed Computing",
+      "Mobile Agents",
+      "Smart Grid Security"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Science with Economics, Obafemi Awolowo University",
+      "Ph.D. Computer Science, Obafemi Awolowo University"
+    ],
+    "linkedin_url": null,
+    "personal_website": "https://scholar.google.com/citations?user=VIEnWBUAAAAJ",
+    "createdAt": "2025-09-14T13:01:17.910Z",
+    "updatedAt": "2025-09-14T20:23:50.239Z",
+    "courses": [
+      {
+        "id": "220c67e9-0a4f-4a16-a87e-ce08c4ea16e7",
+        "course_code": "CSC201",
+        "course_title": "Computer Programming I",
+        "createdAt": "2025-09-14T13:01:15.267Z",
+        "updatedAt": "2025-09-14T14:26:08.217Z"
+      },
+      {
+        "id": "e1d04899-36e1-4d44-83b9-c93922ea922c",
+        "course_code": "CPE517",
+        "course_title": "Digital Computer Network",
+        "createdAt": "2025-09-14T13:01:16.686Z",
+        "updatedAt": "2025-09-14T14:26:09.174Z"
+      }
+    ],
+    "department": {
+      "id": "csc",
+      "name": "Computer Science and Cybersecurity",
+      "description": "The Computer Science and Cybersecurity department focuses on the study of computing systems, software development, and the protection of information assets. It equips students with skills in programming, algorithms, data structures, network security, cryptography, and ethical hacking, preparing them for careers in cybersecurity and software development.",
+      "createdAt": "2025-09-14T13:01:15.216Z",
+      "updatedAt": "2025-09-14T14:26:08.173Z"
+    },
+    "publications": [
+      {
+        "id": "e1175ba0-b0f8-4a11-9bdd-0dfa049c863d",
+        "title": "A Predictive Cyber Threat Model for Mobile Money Services",
+        "type": "Journal article",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.259Z",
+        "updatedAt": "2025-09-14T20:23:52.251Z"
+      },
+      {
+        "id": "9070cb98-b656-4e48-8da0-ef1611de6ee2",
+        "title": "Towards a Bio-inspired Real-Time Intrusion Detection in the Smart Grid",
+        "type": "Conference paper",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.189Z",
+        "updatedAt": "2025-09-14T20:23:52.030Z"
+      },
+      {
+        "id": "295a05d0-7746-4ecd-abda-9f4cb5eecd55",
+        "title": "CyberSCADA Network Security Analysis Model for Intrusion Detection Systems in the Smart Grid",
+        "type": "Book chapter",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.281Z",
+        "updatedAt": "2025-09-14T20:23:52.236Z"
+      },
+      {
+        "id": "348d2cf2-753e-4c6a-b9ca-ce961a7e111e",
+        "title": "Network Monitoring System for Sniffing Attack Prevention in Wireless Communication Networks Using Secure Socket",
+        "type": "Chapter",
+        "year": 2025,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.762Z",
+        "updatedAt": "2025-09-14T20:23:51.999Z"
+      },
+      {
+        "id": "a060bb74-0655-4266-b3f1-5fb3fff3d35d",
+        "title": "A Real-Time Nature-Inspired Intrusion Detection in Virtual Environments: An Artificial Bees Colony Approach Based on Cloud Model",
+        "type": "Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.779Z",
+        "updatedAt": "2025-09-14T20:23:52.014Z"
+      },
+      {
+        "id": "e72d7ded-1dc7-4938-9719-cc742180e0bf",
+        "title": "A Regeneration Model for Mitigation Against Attacks on HTTP Servers for Mobile Wireless Networks",
+        "type": "Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.809Z",
+        "updatedAt": "2025-09-14T20:23:52.045Z"
+      },
+      {
+        "id": "3288e740-d223-435c-9ced-e1addd8b151b",
+        "title": "CyberGrid: an IEC61850 protocol-based substation automation virtual cyber range for cybersecurity research in the smart grid",
+        "type": "Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.825Z",
+        "updatedAt": "2025-09-14T20:23:52.060Z"
+      },
+      {
+        "id": "ea22ae90-1101-46f7-b69d-4840825e90b2",
+        "title": "BotNet-Inspired HTTP-Based DDoS Attack Prevention Using Supervised Machine Learning Algorithms in Internet of Things Devices",
+        "type": "Conference Paper",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.840Z",
+        "updatedAt": "2025-09-14T20:23:52.075Z"
+      },
+      {
+        "id": "5c5387df-4d1b-4874-92ed-1564389e7d57",
+        "title": "A Torpor-based Enhanced Security Model for CSMA/CA Protocol in Wireless Networks",
+        "type": "Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.854Z",
+        "updatedAt": "2025-09-14T20:23:52.089Z"
+      },
+      {
+        "id": "b05c7643-eb7b-4874-90d9-fc402bc2fa7a",
+        "title": "Machine Learning Enabled Image Classification Using K-Nearest Neighbour and Learning Vector Quantization",
+        "type": "Chapter",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.869Z",
+        "updatedAt": "2025-09-14T20:23:52.104Z"
+      },
+      {
+        "id": "8ac43cc1-20bd-4779-a5de-187dd621fb0d",
+        "title": "Artificial Intelligence-Enabled Deep Learning Model for Diabetes Prediction Using Deep Belief Network with Bayesian Optimization",
+        "type": "Conference Paper",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.884Z",
+        "updatedAt": "2025-09-14T20:23:52.119Z"
+      },
+      {
+        "id": "f039531c-9c7b-45e8-8a2d-2c4c1cbfa988",
+        "title": "Artificial Intelligence-Based Model for Data Security and Mitigation Against SQL Injection Attacks in Web Applications",
+        "type": "Conference Paper",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.899Z",
+        "updatedAt": "2025-09-14T20:23:52.135Z"
+      },
+      {
+        "id": "ad150420-8347-4526-a2ea-bc08c3a29dd1",
+        "title": "Analysis of Syntactic Errors of Novice Python Programmers in a Nigeria University",
+        "type": "Chapter",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.915Z",
+        "updatedAt": "2025-09-14T20:23:52.151Z"
+      },
+      {
+        "id": "709ae101-8f20-4aab-90c2-7bd10f25dd9e",
+        "title": "A Prey-Predator Defence Mechanism For Ad Hoc On-Demand Distance Vector Routing Protocol",
+        "type": "Article",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.930Z",
+        "updatedAt": "2025-09-14T20:23:52.167Z"
+      },
+      {
+        "id": "10bfa4f7-1032-42ad-92cd-dfc2214ef82c",
+        "title": "Modelling Smart Grid Instability Against Cyber Attacks in SCADA System Networks",
+        "type": "Chapter",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.946Z",
+        "updatedAt": "2025-09-14T20:23:52.186Z"
+      },
+      {
+        "id": "71f0fdca-7bfc-44d0-8768-529f23a9da05",
+        "title": "Performance Evaluation of Machine Learning Models for Cyber Threat Detection and Prevention in Mobile Money Services",
+        "type": "Article",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.961Z",
+        "updatedAt": "2025-09-14T20:23:52.207Z"
+      },
+      {
+        "id": "6f0cdbdb-a115-4907-bff6-b1c2b9efeb20",
+        "title": "An ensemble deep learning approach for predicting cocoa yield",
+        "type": "Article",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:15.978Z",
+        "updatedAt": "2025-09-14T20:23:52.221Z"
+      },
+      {
+        "id": "1f685759-2649-439b-932d-1c5edf1414cd",
+        "title": "Collaborative Defense Mechanism Against TCP Layer Three Attacks on Wireless Networks",
+        "type": "Preprint",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:16.031Z",
+        "updatedAt": "2025-09-14T20:23:52.267Z"
+      },
+      {
+        "id": "02f2db17-9c5e-461e-a15d-a22f957572ca",
+        "title": "Development of Threat Hunting Model Using Machine Learning Algorithms for Cyber Attacks Mitigation",
+        "type": "Conference Paper",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:16.047Z",
+        "updatedAt": "2025-09-14T20:23:52.281Z"
+      },
+      {
+        "id": "f9831003-9002-4040-b5c6-7e366d57b976",
+        "title": "A Mobile Based Pharmacy Store Location-aware System",
+        "type": "Article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:16.060Z",
+        "updatedAt": "2025-09-14T20:23:52.299Z"
+      },
+      {
+        "id": "19abba30-aa84-4032-abfd-a4f8eb000352",
+        "title": "LWAs computational platform for e-consultation using mobile devices: Cases from developing nations",
+        "type": "Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:16.070Z",
+        "updatedAt": "2025-09-14T20:23:52.314Z"
+      },
+      {
+        "id": "d12c6233-0504-4b69-be0a-156be177cefb",
+        "title": "Lightweight Agents, Intelligent Mobile Agent and RPC Schemes: A Comparative Analysis",
+        "type": "Article",
+        "year": 2011,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:16.081Z",
+        "updatedAt": "2025-09-14T20:23:52.328Z"
+      },
+      {
+        "id": "369bfd1e-2c61-43fc-978e-667e5fa9d147",
+        "title": "Wireless DataProcessing Model in Hospital Environment: A Case Study of Obafemi Awolowo University Teaching Hospital",
+        "type": "Article",
+        "year": 2007,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:16.093Z",
+        "updatedAt": "2025-09-14T20:23:52.345Z"
+      },
+      {
+        "id": "ec8b0b81-dd3a-45b2-8f0e-eadf252cb471",
+        "title": "A Framework for Penetration of Information Communications Technology into Developing Countries for Manpower and Economic Development",
+        "type": "Article",
+        "year": 2006,
+        "doi": null,
+        "createdAt": "2025-09-14T14:09:16.103Z",
+        "updatedAt": "2025-09-14T20:23:52.359Z"
+      },
+      {
+        "id": "f2cb2463-82af-4fef-9def-db47471f6079",
+        "title": "Analysis and Classification of Requirements Specification for Web Application Development: A Case Study Approach",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.421Z",
+        "updatedAt": "2025-09-14T20:23:53.779Z"
+      }
+    ]
+  },
+  {
+    "id": "dc39f951-0774-4602-9e52-d20bdf45cfbc",
+    "full_name": "Emmanuel R. Adagunodo",
+    "title": "Professor",
+    "departmentId": "se",
+    "email": "eadagun@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/Emmanuel_Rotimi_zg6a5z.png",
+    "orcid": "",
+    "scopus_id": "",
+    "researchAreas": [
+      "Software Engineering",
+      "Computational Engineering",
+      "Operating Systems",
+      "Computer Systems & Computational Processes"
+    ],
+    "qualifications": [],
+    "linkedin_url": "",
+    "personal_website": "",
+    "createdAt": "2025-09-14T13:01:18.054Z",
+    "updatedAt": "2025-09-14T20:23:50.370Z",
+    "courses": [],
+    "department": {
+      "id": "se",
+      "name": "Software Engineering",
+      "description": "The Software Engineering department emphasizes the systematic development, design, and maintenance of high-quality software systems. Students acquire skills in software architecture, testing, project management, and agile development, equipping them to create reliable, scalable, and maintainable software for industry and research.",
+      "createdAt": "2025-09-14T13:01:15.255Z",
+      "updatedAt": "2025-09-14T14:26:08.211Z"
+    },
+    "publications": [
+      {
+        "id": "11c54689-c41b-4c55-b9ff-d896fd5056aa",
+        "title": "Development of a Web Based Environmental Health Tracking System for Nigeria",
+        "type": "Journal Article",
+        "year": 2012,
+        "doi": "10.5815/ijitcs.2012.07.08",
+        "createdAt": "2025-09-14T14:26:12.287Z",
+        "updatedAt": "2025-09-14T20:23:53.765Z"
+      },
+      {
+        "id": "b1b32a75-992a-4506-bd36-77e659c8c259",
+        "title": "A Survey of Approaches to Diacritic Restoration",
+        "type": "Preprint",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.307Z",
+        "updatedAt": "2025-09-14T20:23:53.793Z"
+      },
+      {
+        "id": "01533264-231d-4093-a15c-9dee2972733b",
+        "title": "Restoring Tone-Marks in Standard Yorùbá Electronic Text: Improved Model",
+        "type": "Article",
+        "year": 2017,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.320Z",
+        "updatedAt": "2025-09-14T20:23:53.807Z"
+      },
+      {
+        "id": "80b28559-1ef4-49cb-b80e-cfc1b18fc027",
+        "title": "Assessment of Measures for Information Retrieval System Evaluation: A User-centered Approach",
+        "type": "Journal Article",
+        "year": 2011,
+        "doi": "10.5120/3046-4138",
+        "createdAt": "2025-09-14T14:26:12.330Z",
+        "updatedAt": "2025-09-14T20:23:53.821Z"
+      },
+      {
+        "id": "c6e8d39f-d952-4952-8428-9231ac990d1e",
+        "title": "SMS User Interface Result Checking System",
+        "type": "Conference Paper",
+        "year": 2009,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.340Z",
+        "updatedAt": "2025-09-14T20:23:53.836Z"
+      },
+      {
+        "id": "bb64d225-7e6f-4836-a081-2699aa7001b2",
+        "title": "Development of Collaborative E-Learning System",
+        "type": "Conference Paper",
+        "year": 2011,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.352Z",
+        "updatedAt": "2025-09-14T20:23:53.851Z"
+      },
+      {
+        "id": "ae988125-f48b-4127-9b82-4d4788be26d6",
+        "title": "WiMAX Guard Channel Performance Improvement via Dynamic Allocation",
+        "type": "Conference Paper",
+        "year": 2016,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.362Z",
+        "updatedAt": "2025-09-14T20:23:53.867Z"
+      },
+      {
+        "id": "9fbd672e-7f4d-4a52-aea8-861feef7ab50",
+        "title": "Distributed Intrusion Detection Scheme for Wireless Sensor Networks",
+        "type": "Conference Paper",
+        "year": 2011,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.373Z",
+        "updatedAt": "2025-09-14T20:23:53.882Z"
+      },
+      {
+        "id": "1a8b7487-471e-437e-bf10-d266412f57e7",
+        "title": "Improved Data Clustering Algorithm for Mining Web Documents",
+        "type": "Conference Paper",
+        "year": 2010,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.384Z",
+        "updatedAt": "2025-09-14T20:23:53.897Z"
+      },
+      {
+        "id": "c685621c-54b7-47d1-bc84-83716e3183e1",
+        "title": "E-business Grid Model Architecture for SMEs",
+        "type": "Conference Paper",
+        "year": 2010,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.397Z",
+        "updatedAt": "2025-09-14T20:23:53.912Z"
+      },
+      {
+        "id": "ca920bbf-6a3f-47f5-bd36-04533f449448",
+        "title": "Assessment of E-governance Resource Use in South-Western Nigeria",
+        "type": "Conference Paper",
+        "year": 2008,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.407Z",
+        "updatedAt": "2025-09-14T20:23:53.926Z"
+      },
+      {
+        "id": "f2cb2463-82af-4fef-9def-db47471f6079",
+        "title": "Analysis and Classification of Requirements Specification for Web Application Development: A Case Study Approach",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.421Z",
+        "updatedAt": "2025-09-14T20:23:53.779Z"
+      }
+    ]
+  },
+  {
+    "id": "023c6b90-4ada-4d6d-8a09-73fadaaf7c1a",
+    "full_name": "Engr. Rotimi (Alagbe) Gbadebo",
+    "title": "Lecturer",
+    "departmentId": "cse",
+    "email": "rotimi.gbadebo@university.local",
+    "phone": null,
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877985/engr_gbadebo_aoxfib.jpg",
+    "orcid": null,
+    "scopus_id": "1002293531",
+    "researchAreas": [
+      "Computer Networking",
+      "Network Security",
+      "Network Administration",
+      "Network Simulation",
+      "Network Performance Evaluation",
+      "Network Infrastructure",
+      "Network Troubleshooting",
+      "Wireless Sensor Networks",
+      "Data Communication"
+    ],
+    "qualifications": [
+      "B.Tech. Computer Engineering, Ladoke Akintola University of Technology (2004–2009)",
+      "M.Sc. Computer Engineering, Obafemi Awolowo University (2016–2019)"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/rotimi-gbadebo",
+    "personal_website": null,
+    "createdAt": "2025-09-14T13:01:17.746Z",
+    "updatedAt": "2025-09-14T20:23:50.050Z",
+    "courses": [
+      {
+        "id": "d2ac2e93-b1ca-4bf6-bcb3-7ce129e598cf",
+        "course_code": "CSC101",
+        "course_title": "Introduction to Computing I",
+        "createdAt": "2025-09-14T13:01:15.563Z",
+        "updatedAt": "2025-09-14T14:26:08.422Z"
+      },
+      {
+        "id": "1f9caa8a-a1aa-4aaa-a7ac-f2d1a44438e2",
+        "course_code": "CSC102",
+        "course_title": "Introduction to Computing II",
+        "createdAt": "2025-09-14T13:01:15.574Z",
+        "updatedAt": "2025-09-14T14:26:08.435Z"
+      },
+      {
+        "id": "633bcb19-d179-462f-baf5-91bbeef7e258",
+        "course_code": "CPE203",
+        "course_title": "Digital Computer Systems I",
+        "createdAt": "2025-09-14T13:01:15.435Z",
+        "updatedAt": "2025-09-14T14:26:08.310Z"
+      },
+      {
+        "id": "792f6249-ecef-4b73-8bc8-c00d0c90e34f",
+        "course_code": "CPE204",
+        "course_title": "Digital Computer Systems II",
+        "createdAt": "2025-09-14T13:01:15.449Z",
+        "updatedAt": "2025-09-14T14:26:08.319Z"
+      }
+    ],
+    "department": {
+      "id": "cse",
+      "name": "Computer Engineering and Information Communication Technology",
+      "description": "The Computer Engineering and ICT department bridges hardware and software, emphasizing the design, development, and maintenance of computing systems and communication networks. Students gain expertise in digital systems, embedded systems, networking, and telecommunications technologies, enabling them to build and manage modern ICT infrastructure.",
+      "createdAt": "2025-09-14T13:01:15.234Z",
+      "updatedAt": "2025-09-14T14:26:08.190Z"
+    },
+    "publications": [
+      {
+        "id": "910dd17e-9e1b-4e0c-a37c-14694381c671",
+        "title": "An Enhanced Cluster-Based Routing Model for Energy-Efficient Wireless Sensor Networks",
+        "type": "Journal article",
+        "year": 2023,
+        "doi": "10.52549/ijeei.v11i2.4566",
+        "createdAt": "2025-09-14T13:01:18.204Z",
+        "updatedAt": "2025-09-14T20:23:50.492Z"
+      },
+      {
+        "id": "9d1adddd-bca6-45f7-a779-a6deec5d1c27",
+        "title": "A Real-Time Nature-Inspired Intrusion Detection in Virtual Environments",
+        "type": "Journal article",
+        "year": 2024,
+        "doi": "10.14569/IJACSA.2024.0151266",
+        "createdAt": "2025-09-14T13:01:18.167Z",
+        "updatedAt": "2025-09-14T20:23:50.454Z"
+      }
+    ]
+  },
+  {
+    "id": "47bddcee-080a-4903-8f07-99962fdea201",
+    "full_name": "Engr. Temitope O. Ajayi",
+    "title": "Lecturer",
+    "departmentId": "cse",
+    "email": "temitope.ajayi@oauife.edu.ng",
+    "phone": "+2348034054077",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877989/engr_temitope_ajayi_yaisip.jpg",
+    "orcid": "0000-0002-1681-1591",
+    "scopus_id": "58566241600",
+    "researchAreas": [
+      "Information and Communication Technology",
+      "Computer Networking",
+      "Electronics and Communication Technology",
+      "Network Communications",
+      "Information Technology",
+      "Network Security",
+      "Wireless Computing",
+      "Network Technology",
+      "Computer Networks Security"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Engineering, Obafemi Awolowo University (1994-1999)",
+      "Postgraduate Diploma in Monitoring and Evaluation, Stellenbosch University (2008)",
+      "M.Sc. Computer Engineering, Obafemi Awolowo University (2017-2019)"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/t%C3%A8m%C3%ADt%C3%B3p%C3%A9-%C3%A0j%C3%A0y%C3%AD-a8b22654",
+    "personal_website": null,
+    "createdAt": "2025-09-14T13:01:17.718Z",
+    "updatedAt": "2025-09-14T20:23:50.021Z",
+    "courses": [
+      {
+        "id": "633bcb19-d179-462f-baf5-91bbeef7e258",
+        "course_code": "CPE203",
+        "course_title": "Digital Computer Systems I",
+        "createdAt": "2025-09-14T13:01:15.435Z",
+        "updatedAt": "2025-09-14T14:26:08.310Z"
+      },
+      {
+        "id": "792f6249-ecef-4b73-8bc8-c00d0c90e34f",
+        "course_code": "CPE204",
+        "course_title": "Digital Computer Systems II",
+        "createdAt": "2025-09-14T13:01:15.449Z",
+        "updatedAt": "2025-09-14T14:26:08.319Z"
+      }
+    ],
+    "department": {
+      "id": "cse",
+      "name": "Computer Engineering and Information Communication Technology",
+      "description": "The Computer Engineering and ICT department bridges hardware and software, emphasizing the design, development, and maintenance of computing systems and communication networks. Students gain expertise in digital systems, embedded systems, networking, and telecommunications technologies, enabling them to build and manage modern ICT infrastructure.",
+      "createdAt": "2025-09-14T13:01:15.234Z",
+      "updatedAt": "2025-09-14T14:26:08.190Z"
+    },
+    "publications": [
+      {
+        "id": "9070cb98-b656-4e48-8da0-ef1611de6ee2",
+        "title": "Towards a Bio-inspired Real-Time Intrusion Detection in the Smart Grid",
+        "type": "Conference paper",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.189Z",
+        "updatedAt": "2025-09-14T20:23:52.030Z"
+      },
+      {
+        "id": "910dd17e-9e1b-4e0c-a37c-14694381c671",
+        "title": "An Enhanced Cluster-Based Routing Model for Energy-Efficient Wireless Sensor Networks",
+        "type": "Journal article",
+        "year": 2023,
+        "doi": "10.52549/ijeei.v11i2.4566",
+        "createdAt": "2025-09-14T13:01:18.204Z",
+        "updatedAt": "2025-09-14T20:23:50.492Z"
+      },
+      {
+        "id": "73060790-fe5d-4041-9553-fd4b0083c240",
+        "title": "Realistic Looking Interfaces: Ergonomic Metaphors for Remote and Virtual Laboratory Interfaces",
+        "type": "Conference paper",
+        "year": 2008,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.237Z",
+        "updatedAt": "2025-09-14T20:23:50.524Z"
+      },
+      {
+        "id": "9d1adddd-bca6-45f7-a779-a6deec5d1c27",
+        "title": "A Real-Time Nature-Inspired Intrusion Detection in Virtual Environments",
+        "type": "Journal article",
+        "year": 2024,
+        "doi": "10.14569/IJACSA.2024.0151266",
+        "createdAt": "2025-09-14T13:01:18.167Z",
+        "updatedAt": "2025-09-14T20:23:50.454Z"
+      },
+      {
+        "id": "f40046b6-424f-41a5-9cf2-6d9ad813d81e",
+        "title": "Refining Blockchain-Powered Industrial Internet-of-Things Architecture for Improved Performance",
+        "type": "Conference paper",
+        "year": 2023,
+        "doi": "10.1109/BCCA58897.2023.10338910",
+        "createdAt": "2025-09-14T13:01:18.219Z",
+        "updatedAt": "2025-09-14T20:23:50.508Z"
+      }
+    ]
+  },
+  {
+    "id": "a0999b2a-18e4-4638-9166-2fd8c4d96bc9",
+    "full_name": "Ganiyu Adesola Aderounmu",
+    "title": "Professor",
+    "departmentId": "cse",
+    "email": "gaderoun@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877974/prof_ganiyu_cl496f.jpg",
+    "orcid": "0000-0002-7992-514X",
+    "scopus_id": "57202492824",
+    "researchAreas": [
+      "Computational Science and Engineering",
+      "Computer Systems & Computational Processes",
+      "Computer Architecture & Organization",
+      "Computer Networks",
+      "Data Structures & Algorithms",
+      "Cybersecurity",
+      "Cloud Computing",
+      "Mobile Agents",
+      "High-Performance Computing",
+      "Intrusion Detection Systems",
+      "Machine Learning Applications in Security"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Engineering - Obafemi Awolowo University",
+      "M.Sc. Computer Science - Obafemi Awolowo University",
+      "Ph.D. Computer Science - Obafemi Awolowo University",
+      "Full Member, Nigeria Society of Engineers (NSE)",
+      "Chartered Computer Engineer (COREN)",
+      "Fellow, Nigeria Computer Society (NCS)",
+      "Chartered IT Practitioner (CPN)"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/ganiyu-aderounmu",
+    "personal_website": "https://scholar.google.com/citations?user=POUhKJ8AAAAJ",
+    "createdAt": "2025-09-14T13:01:18.070Z",
+    "updatedAt": "2025-09-14T20:23:50.380Z",
+    "courses": [
+      {
+        "id": "a2ba63bc-9814-4a0b-adf3-78d8efae3cc3",
+        "course_code": "CSC305",
+        "course_title": "Introduction Database Systems",
+        "createdAt": "2025-09-14T13:01:15.595Z",
+        "updatedAt": "2025-09-14T14:26:08.458Z"
+      },
+      {
+        "id": "c0c611d3-66dc-495d-800a-6e8948035599",
+        "course_code": "CSC503",
+        "course_title": "Individual Project I",
+        "createdAt": "2025-09-14T13:01:16.772Z",
+        "updatedAt": "2025-09-14T14:26:09.231Z"
+      },
+      {
+        "id": "28ec68bb-df41-407e-96b0-76342e9d7dbf",
+        "course_code": "CSC403",
+        "course_title": "Compiling Techniques",
+        "createdAt": "2025-09-14T13:01:16.312Z",
+        "updatedAt": "2025-09-14T14:26:08.909Z"
+      }
+    ],
+    "department": {
+      "id": "cse",
+      "name": "Computer Engineering and Information Communication Technology",
+      "description": "The Computer Engineering and ICT department bridges hardware and software, emphasizing the design, development, and maintenance of computing systems and communication networks. Students gain expertise in digital systems, embedded systems, networking, and telecommunications technologies, enabling them to build and manage modern ICT infrastructure.",
+      "createdAt": "2025-09-14T13:01:15.234Z",
+      "updatedAt": "2025-09-14T14:26:08.190Z"
+    },
+    "publications": [
+      {
+        "id": "9cee60f7-b646-4c7d-8604-898365677026",
+        "title": "Performance Evaluation of Machine Learning-based Robocalls Detection Models in Telephony Networks",
+        "type": "Journal article",
+        "year": 2022,
+        "doi": "10.5815/ijcnis.2022.06.04",
+        "createdAt": "2025-09-14T13:01:18.426Z",
+        "updatedAt": "2025-09-14T20:23:54.060Z"
+      },
+      {
+        "id": "c63ba071-2e55-43ba-841c-211dafccc726",
+        "title": "An adaptive fuzzy information retrieval model to improve response time perceived by e-commerce clients",
+        "type": "Journal Article",
+        "year": 2010,
+        "doi": "10.1016/j.eswa.2009.05.016",
+        "createdAt": "2025-09-14T14:26:11.596Z",
+        "updatedAt": "2025-09-14T20:23:53.969Z"
+      },
+      {
+        "id": "bbd3dd58-8a20-4726-9174-479662e55875",
+        "title": "Improving the response time of online buyers in Nigeria: The way forward",
+        "type": "Journal Article",
+        "year": 2008,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.419Z",
+        "updatedAt": "2025-09-14T20:23:53.941Z"
+      },
+      {
+        "id": "8f25f8c2-f858-4fc1-9d48-9ddac8add903",
+        "title": "Problems of engineering education and training in developing countries: Nigeria as a case study",
+        "type": "Journal Article",
+        "year": 2002,
+        "doi": "10.1080/03043790210166677",
+        "createdAt": "2025-09-14T14:26:12.429Z",
+        "updatedAt": "2025-09-14T20:23:53.956Z"
+      },
+      {
+        "id": "0fdf6dfe-5b61-4b7e-a362-6986a42bb133",
+        "title": "A predictive cyber threat model for mobile money services",
+        "type": "Journal Article",
+        "year": 2023,
+        "doi": "10.33166/AETiC.2023.01.004",
+        "createdAt": "2025-09-14T14:26:12.461Z",
+        "updatedAt": "2025-09-14T20:23:54.000Z"
+      },
+      {
+        "id": "576dec4a-60b6-4d17-9b65-fac0e23819ac",
+        "title": "An improved bio-inspired based intrusion detection model for a cyberspace",
+        "type": "Journal Article",
+        "year": 2021,
+        "doi": "10.1080/23311916.2020.1859667",
+        "createdAt": "2025-09-14T14:26:12.472Z",
+        "updatedAt": "2025-09-14T20:23:54.015Z"
+      },
+      {
+        "id": "c11090ef-4cd4-47af-9c07-5360f9519966",
+        "title": "Trust: A requirement for cloud technology adoption",
+        "type": "Journal Article",
+        "year": 2015,
+        "doi": "10.14569/IJACSA.2015.060802",
+        "createdAt": "2025-09-14T14:26:12.483Z",
+        "updatedAt": "2025-09-14T20:23:54.031Z"
+      },
+      {
+        "id": "d3a81146-97cf-49d5-9184-d26718efa32d",
+        "title": "An Improved Machine Learning-Based Short Message Service Spam Detection System",
+        "type": "Journal Article",
+        "year": 2019,
+        "doi": "10.5815/ijcnis.2019.12.05",
+        "createdAt": "2025-09-14T14:26:12.516Z",
+        "updatedAt": "2025-09-14T20:23:54.074Z"
+      },
+      {
+        "id": "b96e11e9-b4f5-41cd-8435-845293ff96ac",
+        "title": "Performance comparison of remote procedure calling and mobile agent approach to control and data transfer in distributed computing environment",
+        "type": "Journal Article",
+        "year": 2004,
+        "doi": "10.1016/S1084-8045(03)00038-4",
+        "createdAt": "2025-09-14T14:26:12.451Z",
+        "updatedAt": "2025-09-14T20:23:53.985Z"
+      },
+      {
+        "id": "9ec92485-2e3a-4735-92a8-7d608c62c5aa",
+        "title": "Chaos Detection and Mitigation in Swarm of Drones Using Machine Learning Techniques and Chaotic Attractors",
+        "type": "Journal article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.402Z",
+        "updatedAt": "2025-09-14T20:23:54.046Z"
+      }
+    ]
+  },
+  {
+    "id": "826437ec-150e-4a5e-b677-3fa0a2ebefec",
+    "full_name": "Ishaya P. Gambo",
+    "title": "Senior Lecturer",
+    "departmentId": "se",
+    "email": "ipgambo@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877976/dr_gambo_cphhq7.jpg",
+    "orcid": "https://orcid.org/0000-0002-1289-9266",
+    "scopus_id": "57194111747",
+    "researchAreas": [
+      "Software Engineering",
+      "Requirements Engineering",
+      "Software Architecture",
+      "Software Testing",
+      "Information Systems",
+      "Health Informatics",
+      "Mining Software Repositories"
+    ],
+    "qualifications": [
+      "BSc Computer Science",
+      "MSc Computer Science",
+      "PhD Computer Science"
+    ],
+    "linkedin_url": null,
+    "personal_website": "https://scholar.google.com/citations?user=0sGpNHwAAAAJ&hl=en",
+    "createdAt": "2025-09-14T13:01:17.935Z",
+    "updatedAt": "2025-09-14T20:23:50.264Z",
+    "courses": [
+      {
+        "id": "d2ac2e93-b1ca-4bf6-bcb3-7ce129e598cf",
+        "course_code": "CSC101",
+        "course_title": "Introduction to Computing I",
+        "createdAt": "2025-09-14T13:01:15.563Z",
+        "updatedAt": "2025-09-14T14:26:08.422Z"
+      },
+      {
+        "id": "642cca85-1ca7-4176-a2c4-3a0514b8045b",
+        "course_code": "CSC311",
+        "course_title": "Information Systems",
+        "createdAt": "2025-09-14T13:01:15.611Z",
+        "updatedAt": "2025-09-14T14:26:08.473Z"
+      },
+      {
+        "id": "220c67e9-0a4f-4a16-a87e-ce08c4ea16e7",
+        "course_code": "CSC201",
+        "course_title": "Computer Programming I",
+        "createdAt": "2025-09-14T13:01:15.267Z",
+        "updatedAt": "2025-09-14T14:26:08.217Z"
+      },
+      {
+        "id": "16af3221-2cd6-4a02-aa43-63f5c0140c0d",
+        "course_code": "CSC202",
+        "course_title": "Computer Programming II",
+        "createdAt": "2025-09-14T13:01:15.358Z",
+        "updatedAt": "2025-09-14T14:26:08.272Z"
+      },
+      {
+        "id": "d796a81f-0e73-4f3e-8d65-c02d1529a072",
+        "course_code": "CSC505",
+        "course_title": "Object Oriented Modelling",
+        "createdAt": "2025-09-14T13:01:16.629Z",
+        "updatedAt": "2025-09-14T14:26:09.330Z"
+      },
+      {
+        "id": "462bb986-1bb3-41a4-b9b6-998c7dbbd511",
+        "course_code": "CSC407",
+        "course_title": "Techniques in Software Development",
+        "createdAt": "2025-09-14T13:01:16.328Z",
+        "updatedAt": "2025-09-14T14:26:08.919Z"
+      }
+    ],
+    "department": {
+      "id": "se",
+      "name": "Software Engineering",
+      "description": "The Software Engineering department emphasizes the systematic development, design, and maintenance of high-quality software systems. Students acquire skills in software architecture, testing, project management, and agile development, equipping them to create reliable, scalable, and maintainable software for industry and research.",
+      "createdAt": "2025-09-14T13:01:15.255Z",
+      "updatedAt": "2025-09-14T14:26:08.211Z"
+    },
+    "publications": [
+      {
+        "id": "935fdc05-7e13-434d-8724-5843f3ee6b58",
+        "title": "A Systematic Review of Swarm Robots",
+        "type": "Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.828Z",
+        "updatedAt": "2025-09-14T20:23:52.508Z"
+      },
+      {
+        "id": "c51d2e40-1fc7-4419-87d4-4a90fab12023",
+        "title": "A Mathematical Approach to Healthcare Insurance Data Analytics",
+        "type": "Preprint/Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.840Z",
+        "updatedAt": "2025-09-14T20:23:52.540Z"
+      },
+      {
+        "id": "ca6fc903-5152-4439-a040-eee3b73a042e",
+        "title": "Prospects and Problems of Brain Computer Interface in Healthcare",
+        "type": "Article",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.865Z",
+        "updatedAt": "2025-09-14T20:23:52.571Z"
+      },
+      {
+        "id": "6d70f030-1ba5-444b-9208-195a60b7427a",
+        "title": "GRAD-AI: An automated grading tool for code assessment and feedback in programming course",
+        "type": "Journal Article",
+        "year": 2024,
+        "doi": "10.1007/s10639-024-11941-2",
+        "createdAt": "2025-09-14T14:26:11.362Z",
+        "updatedAt": "2025-09-14T20:23:52.388Z"
+      },
+      {
+        "id": "e25e0401-f0f7-44e2-a918-de5486cbeb88",
+        "title": "Enhancing user trust and interpretability in AI-driven feature request detection for mobile app reviews",
+        "type": "Journal Article",
+        "year": 2024,
+        "doi": "10.1109/ACCESS.2024.3391287",
+        "createdAt": "2025-09-14T14:26:11.372Z",
+        "updatedAt": "2025-09-14T20:23:52.403Z"
+      },
+      {
+        "id": "3a7620aa-2e0b-49ee-af30-1c777c975d82",
+        "title": "Reinforcement Learning in Financial Services: Modelling Payment Switching as a Multi-Armed Bandit Problem",
+        "type": "Journal Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.382Z",
+        "updatedAt": "2025-09-14T20:23:52.418Z"
+      },
+      {
+        "id": "968907a9-32ae-4414-ab4f-04353432607b",
+        "title": "Requirements Engineering Process of Recommender System for the Nigerian Stock Market using Machine Learning Approach",
+        "type": "Journal Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.391Z",
+        "updatedAt": "2025-09-14T20:23:52.433Z"
+      },
+      {
+        "id": "0505b7b8-e331-43d3-a2ce-24974f106f1b",
+        "title": "Process Control Modelling and Simulation of a Water Plants Storage Compartments",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.402Z",
+        "updatedAt": "2025-09-14T20:23:52.448Z"
+      },
+      {
+        "id": "4b4de8e4-5c4f-49ca-bbad-2a20378ab7d8",
+        "title": "Software and Hardware Design Specifications for Quantifying Carbohydrate Contents in Food",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.410Z",
+        "updatedAt": "2025-09-14T20:23:52.463Z"
+      },
+      {
+        "id": "51eb073d-cadc-4227-9e1a-635a0d5d971b",
+        "title": "A Multi-Nodal Implementation of Apriori Algorithm for Big Data Analytics using MapReduce Framework",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.432Z",
+        "updatedAt": "2025-09-14T20:23:52.493Z"
+      },
+      {
+        "id": "cc6e8684-20f9-4459-8af9-bec251038a6e",
+        "title": "An Implementation Of A Repository For Healthcare Insurance Using MongoDB",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.453Z",
+        "updatedAt": "2025-09-14T20:23:52.524Z"
+      },
+      {
+        "id": "875d9110-6910-4003-8d54-95fa77758869",
+        "title": "Comparative Effects of Clinic- and Virtual Reality-Based McKenzie Extension Therapy in Chronic Non-Specific Low-Back Pain",
+        "type": "Journal Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.474Z",
+        "updatedAt": "2025-09-14T20:23:52.556Z"
+      },
+      {
+        "id": "dbe19e8d-a43e-4ec3-ac10-54bb09897eba",
+        "title": "An Integrated Framework for Prioritizing Software Specifications in Requirements Engineering",
+        "type": "Journal Article",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.492Z",
+        "updatedAt": "2025-09-14T20:23:52.587Z"
+      },
+      {
+        "id": "3f3ec979-bdcd-4187-8dc9-3fd43a2dbe6a",
+        "title": "Framework for Enhancing Requirements Engineering Processes: A Conceptual view of Health Information System",
+        "type": "Journal Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.504Z",
+        "updatedAt": "2025-09-14T20:23:52.602Z"
+      },
+      {
+        "id": "eaa6968b-3bc0-42d3-9524-512b6d77528b",
+        "title": "Interoperability in Healthcare: Benefits, Challenges and Resolutions",
+        "type": "Journal Article",
+        "year": 2013,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.515Z",
+        "updatedAt": "2025-09-14T20:23:52.618Z"
+      },
+      {
+        "id": "0bd2ff4b-b304-4bb9-b254-8d61e4010779",
+        "title": "Engendering Quality Information Systems Development through Software Architectural Design",
+        "type": "Journal Article",
+        "year": 2012,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.525Z",
+        "updatedAt": "2025-09-14T20:23:52.634Z"
+      },
+      {
+        "id": "4b893500-3071-459d-bfd0-4876cf973cbd",
+        "title": "Artificial intelligence-driven security framework for internet of things-enhanced digital twin networks",
+        "type": "Journal Article",
+        "year": 2025,
+        "doi": "10.1016/j.iot.2025.101564",
+        "createdAt": "2025-09-14T14:26:11.352Z",
+        "updatedAt": "2025-09-14T20:23:52.374Z"
+      },
+      {
+        "id": "f2cb2463-82af-4fef-9def-db47471f6079",
+        "title": "Analysis and Classification of Requirements Specification for Web Application Development: A Case Study Approach",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.421Z",
+        "updatedAt": "2025-09-14T20:23:53.779Z"
+      }
+    ]
+  },
+  {
+    "id": "34051e89-2203-41d7-b3dc-a4ac0566d6e1",
+    "full_name": "Iyabo Olukemi Awoyelu",
+    "title": "Professor",
+    "departmentId": "csc",
+    "email": "iawoyelu@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877974/mrs_oluwakemi_zvdlyi.jpg",
+    "orcid": "0000-0003-3523-6753",
+    "scopus_id": "12760226900",
+    "researchAreas": [
+      "Machine Learning",
+      "Data Mining",
+      "Recommender Systems",
+      "Data Analytics",
+      "Systems Architecture",
+      "Computer Systems & Computational Processes",
+      "Data Warehousing",
+      "Data Structures and Algorithms"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Science (Obafemi Awolowo University)",
+      "M.Sc. Computer Science (Obafemi Awolowo University)",
+      "Ph.D. Computer Science (Obafemi Awolowo University)",
+      "Member, Nigeria Computer Society (NCS)",
+      "Member, Computer Professionals of Nigeria (CPN)",
+      "Member, Nigerian Women in IT (NIWIIT)"
+    ],
+    "linkedin_url": "",
+    "personal_website": "",
+    "createdAt": "2025-09-14T13:01:18.091Z",
+    "updatedAt": "2025-09-14T20:23:50.392Z",
+    "courses": [],
+    "department": {
+      "id": "csc",
+      "name": "Computer Science and Cybersecurity",
+      "description": "The Computer Science and Cybersecurity department focuses on the study of computing systems, software development, and the protection of information assets. It equips students with skills in programming, algorithms, data structures, network security, cryptography, and ethical hacking, preparing them for careers in cybersecurity and software development.",
+      "createdAt": "2025-09-14T13:01:15.216Z",
+      "updatedAt": "2025-09-14T14:26:08.173Z"
+    },
+    "publications": [
+      {
+        "id": "a198dc63-454c-466c-a432-7a85e8e2d328",
+        "title": "An Integrated Approach to Research Paper and Expertise Recommendation in Academic Research",
+        "type": "Journal article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.366Z",
+        "updatedAt": "2025-09-14T20:23:54.207Z"
+      },
+      {
+        "id": "1acb3ed9-0117-41c2-96c3-a62be62af6b9",
+        "title": "Performance Evaluation of Fake News Detection Models",
+        "type": "Journal Article",
+        "year": 2024,
+        "doi": "10.5815/ijitcs.2024.06.07",
+        "createdAt": "2025-09-14T14:26:12.525Z",
+        "updatedAt": "2025-09-14T20:23:54.088Z"
+      },
+      {
+        "id": "10bdd3c2-e8a8-423e-92c4-1d470c20fe4f",
+        "title": "Prediction Models for Diabetes Mellitus Incidence",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": "10.5815/ijitcs.2020.04.04",
+        "createdAt": "2025-09-14T14:26:12.538Z",
+        "updatedAt": "2025-09-14T20:23:54.103Z"
+      },
+      {
+        "id": "01e9f9b1-cc10-4e07-98d7-2aa9fda04c8d",
+        "title": "Development of a Dataset for Multimodal Fashion Recommender Models",
+        "type": "Journal Article",
+        "year": 2023,
+        "doi": "10.5120/ijca2023922971",
+        "createdAt": "2025-09-14T14:26:12.549Z",
+        "updatedAt": "2025-09-14T20:23:54.118Z"
+      },
+      {
+        "id": "46cb90b2-b5cc-4413-8764-ed93235b560f",
+        "title": "Fuzzy K-Nearest Neighbour Model for Choice of Career Path for Upper Basic School Students",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": "10.5815/ijeme.2020.04.03",
+        "createdAt": "2025-09-14T14:26:12.559Z",
+        "updatedAt": "2025-09-14T20:23:54.133Z"
+      },
+      {
+        "id": "c3146c9e-2a08-4182-be5c-4e3161737dba",
+        "title": "Bridging the gap in modern computing infrastructures: Issues and challenges of data warehousing and cloud computing",
+        "type": "Journal Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.571Z",
+        "updatedAt": "2025-09-14T20:23:54.149Z"
+      },
+      {
+        "id": "41d941fc-8c47-4062-89c3-bc2f1bc82fc7",
+        "title": "A Mobile Portal Architecture for Higher Educational Institutions",
+        "type": "Journal Article",
+        "year": 2012,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.582Z",
+        "updatedAt": "2025-09-14T20:23:54.163Z"
+      },
+      {
+        "id": "a2a4d5c6-1b5f-4e45-8c52-b8783f68a3e1",
+        "title": "Performance Evaluation of a Classification Model for Oral Tumor Diagnosis",
+        "type": "Journal Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.592Z",
+        "updatedAt": "2025-09-14T20:23:54.178Z"
+      },
+      {
+        "id": "1104a646-3e57-4d4b-a5e3-d8cc12a78ac3",
+        "title": "Modeling & Simulation of a Predictive Customer Churn Model for Telecommunication Industry",
+        "type": "Journal Article",
+        "year": 2015,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.607Z",
+        "updatedAt": "2025-09-14T20:23:54.193Z"
+      },
+      {
+        "id": "fefbf9e5-706f-4cf2-a97a-1f9efe32551f",
+        "title": "Digital transformation of the textile and fashion design industry in the global south: a scoping review",
+        "type": "Conference Paper",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.646Z",
+        "updatedAt": "2025-09-14T20:23:54.221Z"
+      },
+      {
+        "id": "57755286-2333-47d4-80b7-e43ad93e938a",
+        "title": "A predictive fuzzy expert system for diagnosis of cassava plant diseases",
+        "type": "Journal Article",
+        "year": 2015,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.669Z",
+        "updatedAt": "2025-09-14T20:23:54.237Z"
+      },
+      {
+        "id": "cc4cecd6-69df-4940-84c9-4520c7f2ceab",
+        "title": "Fraud detection in telecommunications industry: bridging the gap with random rough subspace based neural network ensemble method",
+        "type": "Journal Article",
+        "year": 2015,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.687Z",
+        "updatedAt": "2025-09-14T20:23:54.252Z"
+      },
+      {
+        "id": "9203197c-c859-4b0f-8e09-10973ade69a4",
+        "title": "Development of a Primary Health Centre Data Warehouse System for Disease Management in Developing Countries",
+        "type": "Conference Paper",
+        "year": 2007,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.696Z",
+        "updatedAt": "2025-09-14T20:23:54.268Z"
+      }
+    ]
+  },
+  {
+    "id": "f2e74536-3da9-40ee-b82e-e51c61b06645",
+    "full_name": "Lawal Aderonke Rasheedat",
+    "title": "Senior Lecturer",
+    "departmentId": "cse",
+    "email": "alawal@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/dr_lawal_mcpgfg.jpg",
+    "orcid": "0000-0002-8501-6743",
+    "scopus_id": "",
+    "researchAreas": [
+      "Artificial Intelligence",
+      "Pattern Recognition",
+      "Engineering Education",
+      "Machine Learning",
+      "Digital Systems",
+      "Pervasive and Mobile Computing"
+    ],
+    "qualifications": [
+      "B.Sc. (Hons.) Computer Engineering",
+      "M.Sc. Computer Science",
+      "Professional Diploma in Education",
+      "Ph.D. Computer Engineering"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/aderonke-lawal",
+    "personal_website": "",
+    "createdAt": "2025-09-14T16:39:38.041Z",
+    "updatedAt": "2025-09-14T20:23:50.412Z",
+    "courses": [
+      {
+        "id": "b7a789b1-e113-47c4-ab9b-17e4155bccb1",
+        "course_code": "CPE301",
+        "course_title": "Low Level Languages",
+        "createdAt": "2025-09-14T13:01:15.585Z",
+        "updatedAt": "2025-09-14T14:26:08.447Z"
+      },
+      {
+        "id": "633bcb19-d179-462f-baf5-91bbeef7e258",
+        "course_code": "CPE203",
+        "course_title": "Digital Computer Systems I",
+        "createdAt": "2025-09-14T13:01:15.435Z",
+        "updatedAt": "2025-09-14T14:26:08.310Z"
+      },
+      {
+        "id": "792f6249-ecef-4b73-8bc8-c00d0c90e34f",
+        "course_code": "CPE204",
+        "course_title": "Digital Computer Systems II",
+        "createdAt": "2025-09-14T13:01:15.449Z",
+        "updatedAt": "2025-09-14T14:26:08.319Z"
+      },
+      {
+        "id": "6398172b-f1ca-4d21-b657-b20fd9d48af0",
+        "course_code": "CPE206",
+        "course_title": "Digital Systems Laboratory",
+        "createdAt": "2025-09-14T13:01:15.465Z",
+        "updatedAt": "2025-09-14T14:26:08.327Z"
+      },
+      {
+        "id": "6622b360-d194-4028-b5bc-0f3026872aef",
+        "course_code": "CPE405",
+        "course_title": "Microprocessor Technology and Microprogramming",
+        "createdAt": "2025-09-14T13:01:16.344Z",
+        "updatedAt": "2025-09-14T14:26:08.933Z"
+      },
+      {
+        "id": "2adbed1b-a514-4220-b317-de459e36d13f",
+        "course_code": "CPE409",
+        "course_title": "Microprocessor Design Laboratory",
+        "createdAt": "2025-09-14T13:01:16.358Z",
+        "updatedAt": "2025-09-14T14:26:08.947Z"
+      },
+      {
+        "id": "e1d04899-36e1-4d44-83b9-c93922ea922c",
+        "course_code": "CPE517",
+        "course_title": "Digital Computer Network",
+        "createdAt": "2025-09-14T13:01:16.686Z",
+        "updatedAt": "2025-09-14T14:26:09.174Z"
+      }
+    ],
+    "department": {
+      "id": "cse",
+      "name": "Computer Engineering and Information Communication Technology",
+      "description": "The Computer Engineering and ICT department bridges hardware and software, emphasizing the design, development, and maintenance of computing systems and communication networks. Students gain expertise in digital systems, embedded systems, networking, and telecommunications technologies, enabling them to build and manage modern ICT infrastructure.",
+      "createdAt": "2025-09-14T13:01:15.234Z",
+      "updatedAt": "2025-09-14T14:26:08.190Z"
+    },
+    "publications": [
+      {
+        "id": "3404c399-932c-4349-9db9-8b1e6d11cec1",
+        "title": "Palm Vein Recognition System Based on Derived Pattern and Feature Vectors",
+        "type": "Journal Article",
+        "year": 2017,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.904Z",
+        "updatedAt": "2025-09-14T20:23:54.606Z"
+      },
+      {
+        "id": "ec803b7d-39ed-4c4f-88e1-bc3ea9f7e8aa",
+        "title": "Evaluating Robustness of LLMs to Typographical Noise in Yorùbá QA",
+        "type": "Conference Paper",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.917Z",
+        "updatedAt": "2025-09-14T20:23:54.620Z"
+      },
+      {
+        "id": "1da97c0a-d7ac-4342-bfb2-fdf96e6f227b",
+        "title": "An Overview of Deep Learning Techniques for Short-Term Electricity Load Forecasting",
+        "type": "Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.193Z",
+        "updatedAt": "2025-09-14T20:23:54.592Z"
+      }
+    ]
+  },
+  {
+    "id": "6833b9fc-88b9-4fd5-bd8d-5502bda37c90",
+    "full_name": "Mistura L. Sanni",
+    "title": "Dr.",
+    "departmentId": "cse",
+    "email": "msanni@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/mrs_mistura_sanni_rwnrh0.jpg",
+    "orcid": "0000-0001-9206-4009",
+    "scopus_id": "",
+    "researchAreas": [
+      "Computational Science and Engineering",
+      "Interaction Design",
+      "Data Structures and Algorithms",
+      "Algorithm Design",
+      "Hardware Design",
+      "Data Communication Networks"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Engineering (OAU, 1992)",
+      "M.Sc. Computer Engineering (OAU, 2006)",
+      "Ph.D. Computer Engineering (International Islamic University Malaysia, 2015)"
+    ],
+    "linkedin_url": "",
+    "personal_website": "https://orcid.org/0000-0001-9206-4009",
+    "createdAt": "2025-09-14T13:01:17.991Z",
+    "updatedAt": "2025-09-14T20:23:50.318Z",
+    "courses": [],
+    "department": {
+      "id": "cse",
+      "name": "Computer Engineering and Information Communication Technology",
+      "description": "The Computer Engineering and ICT department bridges hardware and software, emphasizing the design, development, and maintenance of computing systems and communication networks. Students gain expertise in digital systems, embedded systems, networking, and telecommunications technologies, enabling them to build and manage modern ICT infrastructure.",
+      "createdAt": "2025-09-14T13:01:15.234Z",
+      "updatedAt": "2025-09-14T14:26:08.190Z"
+    },
+    "publications": [
+      {
+        "id": "9cee60f7-b646-4c7d-8604-898365677026",
+        "title": "Performance Evaluation of Machine Learning-based Robocalls Detection Models in Telephony Networks",
+        "type": "Journal article",
+        "year": 2022,
+        "doi": "10.5815/ijcnis.2022.06.04",
+        "createdAt": "2025-09-14T13:01:18.426Z",
+        "updatedAt": "2025-09-14T20:23:54.060Z"
+      },
+      {
+        "id": "5d779878-629c-4794-bb1c-4a9d2691acfc",
+        "title": "A Computational Modelling and Design of the ADIRE Making Process using Modular Petri Net",
+        "type": "Conference Paper",
+        "year": 2010,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.847Z",
+        "updatedAt": "2025-09-14T20:23:53.134Z"
+      }
+    ]
+  },
+  {
+    "id": "c80855de-63bf-46be-b056-9ebdc34cae2c",
+    "full_name": "Mrs. Olujoke (Mubo) Oni",
+    "title": "Lecturer",
+    "departmentId": "csc",
+    "email": "olujoke.oni@oauife.edu.ng",
+    "phone": null,
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877985/Mrs_Oni_dh7fhl.jpg",
+    "orcid": null,
+    "scopus_id": null,
+    "researchAreas": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Cybersecurity",
+      "Human-Computer Interaction",
+      "Biomedical Imaging Informatics",
+      "e-Learning"
+    ],
+    "qualifications": [
+      "M.Sc. Computer Science, Obafemi Awolowo University"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/olujoke-oni",
+    "personal_website": null,
+    "createdAt": "2025-09-14T13:01:17.772Z",
+    "updatedAt": "2025-09-14T20:23:50.070Z",
+    "courses": [
+      {
+        "id": "d2ac2e93-b1ca-4bf6-bcb3-7ce129e598cf",
+        "course_code": "CSC101",
+        "course_title": "Introduction to Computing I",
+        "createdAt": "2025-09-14T13:01:15.563Z",
+        "updatedAt": "2025-09-14T14:26:08.422Z"
+      },
+      {
+        "id": "1f9caa8a-a1aa-4aaa-a7ac-f2d1a44438e2",
+        "course_code": "CSC102",
+        "course_title": "Introduction to Computing II",
+        "createdAt": "2025-09-14T13:01:15.574Z",
+        "updatedAt": "2025-09-14T14:26:08.435Z"
+      },
+      {
+        "id": "220c67e9-0a4f-4a16-a87e-ce08c4ea16e7",
+        "course_code": "CSC201",
+        "course_title": "Computer Programming I",
+        "createdAt": "2025-09-14T13:01:15.267Z",
+        "updatedAt": "2025-09-14T14:26:08.217Z"
+      },
+      {
+        "id": "16af3221-2cd6-4a02-aa43-63f5c0140c0d",
+        "course_code": "CSC202",
+        "course_title": "Computer Programming II",
+        "createdAt": "2025-09-14T13:01:15.358Z",
+        "updatedAt": "2025-09-14T14:26:08.272Z"
+      }
+    ],
+    "department": {
+      "id": "csc",
+      "name": "Computer Science and Cybersecurity",
+      "description": "The Computer Science and Cybersecurity department focuses on the study of computing systems, software development, and the protection of information assets. It equips students with skills in programming, algorithms, data structures, network security, cryptography, and ethical hacking, preparing them for careers in cybersecurity and software development.",
+      "createdAt": "2025-09-14T13:01:15.216Z",
+      "updatedAt": "2025-09-14T14:26:08.173Z"
+    },
+    "publications": []
+  },
+  {
+    "id": "9039f8f5-697a-407e-a0b7-d3c66e3f750a",
+    "full_name": "Odetunji A. Odejobi",
+    "title": "Dr.",
+    "departmentId": "is",
+    "email": "odetunji.odejobi@university.local",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877974/odejobi_d4kllw.png",
+    "orcid": "",
+    "scopus_id": "",
+    "researchAreas": [
+      "Natural Language Processing",
+      "Computational Linguistics",
+      "Speech and Language Engineering",
+      "Computational Modelling",
+      "Artificial Intelligence",
+      "Intelligent Systems Engineering"
+    ],
+    "qualifications": [
+      "B.Sc. (Computer Engineering) First Class Honours - Obafemi Awolowo University, Ile-Ife, Nigeria",
+      "Ph.D. (Computer Science) - Aston University, Birmingham, United Kingdom",
+      "COREN Registered Engineer (Nigeria)",
+      "CPN Registered",
+      "Commonwealth Scholar (British)",
+      "Marie Curie Research Fellow - University College Cork, Ireland"
+    ],
+    "linkedin_url": "",
+    "personal_website": "",
+    "createdAt": "2025-09-14T13:01:18.006Z",
+    "updatedAt": "2025-09-14T20:23:50.332Z",
+    "courses": [],
+    "department": {
+      "id": "is",
+      "name": "Information Systems",
+      "description": "The Information Systems department focuses on the design, implementation, and management of information technology solutions that support organizational decision-making. Students learn database management, system analysis, enterprise systems, and IT project management, preparing them for roles in business intelligence, IT consultancy, and systems administration.",
+      "createdAt": "2025-09-14T13:01:15.241Z",
+      "updatedAt": "2025-09-14T14:26:08.198Z"
+    },
+    "publications": [
+      {
+        "id": "480b4624-3928-43b9-bc60-8e2bf6e661bf",
+        "title": "The character and evolution of E-waste in Nigeria",
+        "type": "Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.935Z",
+        "updatedAt": "2025-09-14T20:23:53.223Z"
+      },
+      {
+        "id": "97462535-2e0c-4f0b-ad06-2b3f7a8b7ba5",
+        "title": "Result of Users' Evaluation of the Developed System",
+        "type": "Article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.865Z",
+        "updatedAt": "2025-09-14T20:23:53.149Z"
+      },
+      {
+        "id": "cf79b5c4-5e3e-4c1b-85d1-7c6d5dd2ca57",
+        "title": "An Evaluation of a Language Processor for an African Native Language-based Programming Language",
+        "type": "Article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.882Z",
+        "updatedAt": "2025-09-14T20:23:53.164Z"
+      },
+      {
+        "id": "53304d05-4765-45a5-8f1a-2661364bf4ef",
+        "title": "Computational modelling of selected E-waste recycling process",
+        "type": "Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.926Z",
+        "updatedAt": "2025-09-14T20:23:53.209Z"
+      },
+      {
+        "id": "a22bd781-1261-48ee-9f22-fcc87f1031bc",
+        "title": "A Needs Assessment For Indigenous African Language-Based Programming Languages",
+        "type": "Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.945Z",
+        "updatedAt": "2025-09-14T20:23:53.236Z"
+      },
+      {
+        "id": "154df529-add1-47fd-b643-19c30aeb56c1",
+        "title": "Towards Development of an Indigenous African Language-based Programming Language",
+        "type": "Article",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.962Z",
+        "updatedAt": "2025-09-14T20:23:53.252Z"
+      },
+      {
+        "id": "365f263b-6ec0-4f1b-b335-fd8a84d46218",
+        "title": "Computational Modelling Techniques for Short-Term Electric Load Forecasting",
+        "type": "Article",
+        "year": 2015,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.976Z",
+        "updatedAt": "2025-09-14T20:23:53.282Z"
+      },
+      {
+        "id": "b72f4520-d051-4490-ad4e-d8daba8e1b07",
+        "title": "Development of Grapheme-to-Phoneme Conversion System for Yorùbá Text-to-Speech Synthesis",
+        "type": "Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.986Z",
+        "updatedAt": "2025-09-14T20:23:53.297Z"
+      },
+      {
+        "id": "ed92f7a6-0be5-44f0-9cb1-994538e340d4",
+        "title": "Deploying Nigerian Indigenous Languages Based Technology for Education in Sustainable Development",
+        "type": "Conference Paper",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.896Z",
+        "updatedAt": "2025-09-14T20:23:54.343Z"
+      },
+      {
+        "id": "da0a36ca-25a5-4355-9ecc-b7d98608d158",
+        "title": "Design and implementation of an African native language-based programming language",
+        "type": "Article",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.911Z",
+        "updatedAt": "2025-09-14T20:23:53.194Z"
+      },
+      {
+        "id": "d16ed201-8897-45b5-821e-d0fce30968d0",
+        "title": "Development of an English to Yorùbá Machine Translator",
+        "type": "Article",
+        "year": 2016,
+        "doi": "10.5815/ijmecs.2016.11.02",
+        "createdAt": "2025-09-14T14:26:11.970Z",
+        "updatedAt": "2025-09-14T20:23:54.283Z"
+      }
+    ]
+  },
+  {
+    "id": "4320b9fd-c29d-425a-9e62-d8df8e5cfa81",
+    "full_name": "Oluwatoyin H. Odukoya",
+    "title": "Lecturer I",
+    "departmentId": "se",
+    "email": "olagun12@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877982/odukoya_c5tvsd.png",
+    "orcid": "0000-0003-2894-7231",
+    "scopus_id": "",
+    "researchAreas": [
+      "Computational Science and Engineering",
+      "Computer Architecture and Organization",
+      "Data Mining",
+      "Data Structures and Algorithms",
+      "Cybersecurity",
+      "Data Communication and Networking"
+    ],
+    "qualifications": [],
+    "linkedin_url": "",
+    "personal_website": "",
+    "createdAt": "2025-09-14T13:01:17.829Z",
+    "updatedAt": "2025-09-14T20:23:50.129Z",
+    "courses": [],
+    "department": {
+      "id": "se",
+      "name": "Software Engineering",
+      "description": "The Software Engineering department emphasizes the systematic development, design, and maintenance of high-quality software systems. Students acquire skills in software architecture, testing, project management, and agile development, equipping them to create reliable, scalable, and maintainable software for industry and research.",
+      "createdAt": "2025-09-14T13:01:15.255Z",
+      "updatedAt": "2025-09-14T14:26:08.211Z"
+    },
+    "publications": [
+      {
+        "id": "47621a5c-391a-4dbe-9b0c-b39768afeb80",
+        "title": "Modelling and Simulation of a Smart Dustbin Management System: Case Study of Obafemi Awolowo University, Nigeria",
+        "type": "Journal Article",
+        "year": 2025,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.792Z",
+        "updatedAt": "2025-09-14T20:23:51.032Z"
+      },
+      {
+        "id": "9cee60f7-b646-4c7d-8604-898365677026",
+        "title": "Performance Evaluation of Machine Learning-based Robocalls Detection Models in Telephony Networks",
+        "type": "Journal article",
+        "year": 2022,
+        "doi": "10.5815/ijcnis.2022.06.04",
+        "createdAt": "2025-09-14T13:01:18.426Z",
+        "updatedAt": "2025-09-14T20:23:54.060Z"
+      },
+      {
+        "id": "84e3459b-0a18-4f35-adc2-4fcf958b8549",
+        "title": "An Improved Data Clustering Algorithm for Mining Web Documents",
+        "type": "Conference Paper",
+        "year": 2010,
+        "doi": "10.1109/CISE.2010.5676720",
+        "createdAt": "2025-09-14T13:01:18.776Z",
+        "updatedAt": "2025-09-14T20:23:51.017Z"
+      },
+      {
+        "id": "74559186-31d3-46f0-8063-d8734e74cce6",
+        "title": "Multi-Pipeline Sentiment Analysis for West-African Pigin",
+        "type": "Conference/Workshop Paper",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T13:01:18.760Z",
+        "updatedAt": "2025-09-14T20:23:51.002Z"
+      },
+      {
+        "id": "f2cb2463-82af-4fef-9def-db47471f6079",
+        "title": "Analysis and Classification of Requirements Specification for Web Application Development: A Case Study Approach",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.421Z",
+        "updatedAt": "2025-09-14T20:23:53.779Z"
+      }
+    ]
+  },
+  {
+    "id": "4f7f86af-faaa-42e3-85c2-4a00960c1fe5",
+    "full_name": "Onifade Mary Taiwo",
+    "title": "Assistant Lecturer",
+    "departmentId": "ai",
+    "email": "taiwoonifade17@gmail.com",
+    "phone": "08038628718",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877973/Onifade-Onifade-Taiwo_pvrp1k.jpg",
+    "orcid": "",
+    "scopus_id": "",
+    "researchAreas": [
+      "Natural Language Processing",
+      "Computational Linguistics",
+      "Artificial Intelligence",
+      "Human Language Processing"
+    ],
+    "qualifications": [
+      "Ph.D. Computer Science (In View, OAU)",
+      "M.Sc. Computer Science - Obafemi Awolowo University, 2018",
+      "B.Sc. Computer Science (Second Class Upper) - University of Ado-Ekiti, 2011",
+      "OND Computer Science (Upper Credit) - 2006",
+      "Senior School Certificate (SSCE) - 2002",
+      "Primary School Certificate - 1996",
+      "IBM Introduction to Artificial Intelligence - 2020",
+      "IBM AI V2 - 2020",
+      "IBM NLP - 2020",
+      "IBM Machine Learning - 2020",
+      "IBM Introduction to Coding - 2020"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/taiwo-onifade",
+    "personal_website": "",
+    "createdAt": "2025-09-14T13:01:18.143Z",
+    "updatedAt": "2025-09-14T20:23:50.430Z",
+    "courses": [
+      {
+        "id": "1f9caa8a-a1aa-4aaa-a7ac-f2d1a44438e2",
+        "course_code": "CSC102",
+        "course_title": "Introduction to Computing II",
+        "createdAt": "2025-09-14T13:01:15.574Z",
+        "updatedAt": "2025-09-14T14:26:08.435Z"
+      },
+      {
+        "id": "642cca85-1ca7-4176-a2c4-3a0514b8045b",
+        "course_code": "CSC311",
+        "course_title": "Information Systems",
+        "createdAt": "2025-09-14T13:01:15.611Z",
+        "updatedAt": "2025-09-14T14:26:08.473Z"
+      },
+      {
+        "id": "f0f0cb40-8069-432e-a1ce-5ca613d3104e",
+        "course_code": "CSC317",
+        "course_title": "Automata Theory and Computability",
+        "createdAt": "2025-09-14T13:01:15.653Z",
+        "updatedAt": "2025-09-14T14:26:08.507Z"
+      },
+      {
+        "id": "806dd729-d0c9-45bd-a266-9b25330bbf78",
+        "course_code": "CSC307",
+        "course_title": "Numerical Computation I",
+        "createdAt": "2025-09-14T13:01:15.669Z",
+        "updatedAt": "2025-09-14T14:26:08.516Z"
+      },
+      {
+        "id": "a3815d8f-faf4-4827-8a09-4c302a40313e",
+        "course_code": "CSC302",
+        "course_title": "Data Structure and Analysis of Algorithms",
+        "createdAt": "2025-09-14T13:01:15.684Z",
+        "updatedAt": "2025-09-14T14:26:08.523Z"
+      },
+      {
+        "id": "220c67e9-0a4f-4a16-a87e-ce08c4ea16e7",
+        "course_code": "CSC201",
+        "course_title": "Computer Programming I",
+        "createdAt": "2025-09-14T13:01:15.267Z",
+        "updatedAt": "2025-09-14T14:26:08.217Z"
+      },
+      {
+        "id": "16af3221-2cd6-4a02-aa43-63f5c0140c0d",
+        "course_code": "CSC202",
+        "course_title": "Computer Programming II",
+        "createdAt": "2025-09-14T13:01:15.358Z",
+        "updatedAt": "2025-09-14T14:26:08.272Z"
+      },
+      {
+        "id": "e5af9292-700d-4332-92cf-234283a5b60c",
+        "course_code": "CSC515",
+        "course_title": "Database Design and Management",
+        "createdAt": "2025-09-14T13:01:16.842Z",
+        "updatedAt": "2025-09-14T14:26:09.274Z"
+      },
+      {
+        "id": "28ec68bb-df41-407e-96b0-76342e9d7dbf",
+        "course_code": "CSC403",
+        "course_title": "Compiling Techniques",
+        "createdAt": "2025-09-14T13:01:16.312Z",
+        "updatedAt": "2025-09-14T14:26:08.909Z"
+      },
+      {
+        "id": "2eaeef0b-fe0b-44d8-8d04-05fa497d9777",
+        "course_code": "CPE316",
+        "course_title": "Introduction to Artificial Intelligence",
+        "createdAt": "2025-09-14T13:01:15.772Z",
+        "updatedAt": "2025-09-14T14:26:08.882Z"
+      }
+    ],
+    "department": {
+      "id": "ai",
+      "name": "Intelligence Systems",
+      "description": "The Intelligence Systems department specializes in artificial intelligence, machine learning, and data-driven technologies. Students explore natural language processing, computer vision, robotics, and intelligent agent systems, preparing them for careers in AI research, development, and the application of intelligent systems across industries.",
+      "createdAt": "2025-09-14T13:01:15.248Z",
+      "updatedAt": "2025-09-14T14:26:08.206Z"
+    },
+    "publications": [
+      {
+        "id": "d2d78581-e55d-4dbf-8223-3c17231eb936",
+        "title": "Investigation of Feature Characteristics for Yoruba Named Entity Recognition System",
+        "type": "Conference Paper",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.935Z",
+        "updatedAt": "2025-09-14T20:23:54.635Z"
+      },
+      {
+        "id": "c7f94b70-d620-45cf-8622-80064f57f0a9",
+        "title": "Spelling Error Pattern in Typed Yoruba Text Documents",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": "10.5815/ijieeb.2020.06.03",
+        "createdAt": "2025-09-14T14:26:12.945Z",
+        "updatedAt": "2025-09-14T20:23:54.650Z"
+      },
+      {
+        "id": "7a087b10-3b9a-4f45-997a-0fc7d711f1ff",
+        "title": "Diacritic-aware Yorùbá Spell Checker",
+        "type": "Journal Article",
+        "year": 2023,
+        "doi": "10.7494/csci.2023.24.1.4494",
+        "createdAt": "2025-09-14T14:26:12.956Z",
+        "updatedAt": "2025-09-14T20:23:54.665Z"
+      },
+      {
+        "id": "0a42e514-713a-4b1a-a89f-9853fde51972",
+        "title": "Vdetekt: Synchronous Vulnerability Detection Plugin for Android Studio",
+        "type": "Journal Article",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.964Z",
+        "updatedAt": "2025-09-14T20:23:54.681Z"
+      },
+      {
+        "id": "b8e7f1db-f7da-4eed-b33f-efb31c6a8afa",
+        "title": "A Systematic Review of Spelling Corrector for African Languages",
+        "type": "Review Article",
+        "year": 2023,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.971Z",
+        "updatedAt": "2025-09-14T20:23:54.695Z"
+      }
+    ]
+  },
+  {
+    "id": "470b50d5-14eb-4693-ac8b-7f19c0f8b1ac",
+    "full_name": "Prof. Oluwatope O. Ayodeji",
+    "title": "Professor",
+    "departmentId": "cse",
+    "email": "aoluwato@oauife.edu.ng",
+    "phone": "08035962506",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877984/prof_ayodeji_ojuqqx.jpg",
+    "orcid": "0000-0003-0180-5241",
+    "scopus_id": "9846662000",
+    "researchAreas": [
+      "Digital Transformation",
+      "Network Security",
+      "Congestion Control in 5G",
+      "Data Communications",
+      "Embedded Systems",
+      "Knowledge Transfer",
+      "Computer Networks and Internet",
+      "Reconfigurable Computing",
+      "Internet of Things (IoT)"
+    ],
+    "qualifications": [
+      "B.Sc. (Computer Engineering) – 1995",
+      "M.Sc. (Computer Science) – 2003",
+      "Ph.D. (Computer Science) – 2008"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/ayodeji-oluwatope-16a406110/",
+    "personal_website": "http://comnet.oauife.edu.ng",
+    "createdAt": "2025-09-14T13:01:17.793Z",
+    "updatedAt": "2025-09-14T20:23:50.089Z",
+    "courses": [
+      {
+        "id": "b7a789b1-e113-47c4-ab9b-17e4155bccb1",
+        "course_code": "CPE301",
+        "course_title": "Low Level Languages",
+        "createdAt": "2025-09-14T13:01:15.585Z",
+        "updatedAt": "2025-09-14T14:26:08.447Z"
+      },
+      {
+        "id": "16e8285a-c081-454a-9aa2-013621f42b87",
+        "course_code": "CPE401",
+        "course_title": "Computer Architecture and Organization",
+        "createdAt": "2025-09-14T13:01:16.297Z",
+        "updatedAt": "2025-09-14T14:26:08.900Z"
+      }
+    ],
+    "department": {
+      "id": "cse",
+      "name": "Computer Engineering and Information Communication Technology",
+      "description": "The Computer Engineering and ICT department bridges hardware and software, emphasizing the design, development, and maintenance of computing systems and communication networks. Students gain expertise in digital systems, embedded systems, networking, and telecommunications technologies, enabling them to build and manage modern ICT infrastructure.",
+      "createdAt": "2025-09-14T13:01:15.234Z",
+      "updatedAt": "2025-09-14T14:26:08.190Z"
+    },
+    "publications": [
+      {
+        "id": "fb0b2c5a-7038-40a4-b096-04423baecbe9",
+        "title": "Dynamical Analysis of an Internet-Based Video System",
+        "type": "Journal article",
+        "year": 2023,
+        "doi": "10.1016/j.ifacol.2017.12.040",
+        "createdAt": "2025-09-14T14:05:23.373Z",
+        "updatedAt": "2025-09-14T20:23:51.107Z"
+      },
+      {
+        "id": "f5d539d7-3476-4598-bcca-1863758834e5",
+        "title": "Digital Transformation of the Textile and Fashion Design Industry in the Global South: A Scoping Review",
+        "type": "Book chapter",
+        "year": 2024,
+        "doi": "10.1007/978-3-031-34896-9_24",
+        "createdAt": "2025-09-14T14:05:23.351Z",
+        "updatedAt": "2025-09-14T20:23:51.046Z"
+      },
+      {
+        "id": "39edf248-cb98-444a-b925-a75706751b92",
+        "title": "UStream: Ultra-Metric Spanning Overlay Topology for Peer-to-Peer Streaming Systems",
+        "type": "Conference paper",
+        "year": 2023,
+        "doi": "10.1109/ISM.2015.82",
+        "createdAt": "2025-09-14T14:05:23.379Z",
+        "updatedAt": "2025-09-14T20:23:51.121Z"
+      },
+      {
+        "id": "dbe97e30-0120-4eed-97ea-2d59d5b870d1",
+        "title": "Curvilinear red: An improved red algorithm for internet routers",
+        "type": "Conference paper",
+        "year": 2023,
+        "doi": "10.2316/P.2014.813-025",
+        "createdAt": "2025-09-14T14:05:23.386Z",
+        "updatedAt": "2025-09-14T20:23:51.136Z"
+      },
+      {
+        "id": "77f8b910-8a56-4880-944c-1a02b76c26cb",
+        "title": "Packet-level simulation of real-time video in slow-speed environment using ns-3",
+        "type": "Conference paper",
+        "year": 2022,
+        "doi": "10.2316/P.2014.813-024",
+        "createdAt": "2025-09-14T14:05:23.393Z",
+        "updatedAt": "2025-09-14T20:23:51.150Z"
+      },
+      {
+        "id": "d2f415d8-529a-4553-bc47-578953b4d414",
+        "title": "Fuzzy-based simulation model to predict flow rate in water distribution network system",
+        "type": "Book",
+        "year": 2022,
+        "doi": "10.1007/978-3-642-29166-1_28",
+        "createdAt": "2025-09-14T14:05:23.407Z",
+        "updatedAt": "2025-09-14T20:23:51.180Z"
+      },
+      {
+        "id": "95f82306-9fe5-4d41-9a80-9a159ee7c63f",
+        "title": "A distributed intrusion detection scheme for wireless sensor networks",
+        "type": "Conference paper",
+        "year": 2021,
+        "doi": "10.1109/EIT.2011.5978609",
+        "createdAt": "2025-09-14T14:05:23.413Z",
+        "updatedAt": "2025-09-14T20:23:51.195Z"
+      },
+      {
+        "id": "8b5885d5-9ab2-4fcc-bb44-9ebfb79bb6d1",
+        "title": "Computational modeling of collaborative resources sharing in grid system",
+        "type": "Book",
+        "year": 2021,
+        "doi": "10.1007/978-3-642-19423-8_32",
+        "createdAt": "2025-09-14T14:05:23.420Z",
+        "updatedAt": "2025-09-14T20:23:51.210Z"
+      },
+      {
+        "id": "7f73c8ad-30d6-4bbb-a8a8-45c488d62a23",
+        "title": "An e-business grid model architecture for small and medium scale enterprises",
+        "type": "Conference paper",
+        "year": 2021,
+        "doi": "10.1109/EIT.2010.5612186",
+        "createdAt": "2025-09-14T14:05:23.427Z",
+        "updatedAt": "2025-09-14T20:23:51.224Z"
+      },
+      {
+        "id": "d887909c-3be4-4128-9422-249cb4d506a4",
+        "title": "Developing a feedback model for managing congestion in packet switched wide area networks",
+        "type": "Conference paper",
+        "year": 2021,
+        "doi": "10.1007/978-90-481-9151-2-101",
+        "createdAt": "2025-09-14T14:05:23.434Z",
+        "updatedAt": "2025-09-14T20:23:51.239Z"
+      },
+      {
+        "id": "f55b2b5e-b6e6-411c-922b-fea56ed79120",
+        "title": "E-Speed start - A window based additive increase, multiplicative decrease network congestion control technique",
+        "type": "Conference paper",
+        "year": 2021,
+        "doi": "10.1007/978-90-481-9151-2-85",
+        "createdAt": "2025-09-14T14:05:23.441Z",
+        "updatedAt": "2025-09-14T20:23:51.254Z"
+      },
+      {
+        "id": "2bcfcfef-a589-4f25-9b4a-7490b8982e0e",
+        "title": "Architectural model for wireless peer-to-peer (WP2P) file sharing for ubiquitous mobile devices",
+        "type": "Conference paper",
+        "year": 2021,
+        "doi": "10.1109/EIT.2009.5189580",
+        "createdAt": "2025-09-14T14:05:23.447Z",
+        "updatedAt": "2025-09-14T20:23:51.269Z"
+      },
+      {
+        "id": "a43379d6-0e24-4a2b-a2e6-115641aa6ea4",
+        "title": "An efficient host-to-host available bandwidth estimation scheme",
+        "type": "Conference paper",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.454Z",
+        "updatedAt": "2025-09-14T20:23:51.284Z"
+      },
+      {
+        "id": "92b8af08-62f4-4a39-b9f5-bbb190deebc2",
+        "title": "Stochastic reward net end-to-end Quality of Service (QoS) simulation modeling across ATM network: Using the goodput model",
+        "type": "Conference paper",
+        "year": 2021,
+        "doi": "10.1049/ic:20040036",
+        "createdAt": "2025-09-14T14:05:23.461Z",
+        "updatedAt": "2025-09-14T20:23:51.299Z"
+      },
+      {
+        "id": "846c8e66-8fe6-43bb-8af2-6ec21b106e45",
+        "title": "Mathematical Analysis of DDoS Attacks in SDN-based 5G",
+        "type": "Book chapter",
+        "year": 2024,
+        "doi": "10.1007/978-3-031-34896-9_7",
+        "createdAt": "2025-09-14T14:05:23.357Z",
+        "updatedAt": "2025-09-14T20:23:51.062Z"
+      },
+      {
+        "id": "1babdcc4-66ad-4fff-9601-4ffd1b5661a6",
+        "title": "AyoPeer: The adapted ayo-game for minimizing free riding in peer-assisted network",
+        "type": "Journal article",
+        "year": 2024,
+        "doi": "10.1007/s12083-020-00913-6",
+        "createdAt": "2025-09-14T14:05:23.362Z",
+        "updatedAt": "2025-09-14T20:23:51.077Z"
+      },
+      {
+        "id": "232ca48f-1c88-4230-9cbc-c37a3cb7b72e",
+        "title": "Formal verification of a peer-to-peer streaming protocol",
+        "type": "Journal article",
+        "year": 2024,
+        "doi": "10.1016/j.jksuci.2018.08.008",
+        "createdAt": "2025-09-14T14:05:23.367Z",
+        "updatedAt": "2025-09-14T20:23:51.091Z"
+      },
+      {
+        "id": "a8be21f4-4c47-4395-bf6e-658ac19f1858",
+        "title": "Analytical modelling of fluid credit congestion control scheme in MultiProtocol Label Switching (MPLS) networks",
+        "type": "Book",
+        "year": 2022,
+        "doi": "10.1007/978-3-642-29166-1_13",
+        "createdAt": "2025-09-14T14:05:23.400Z",
+        "updatedAt": "2025-09-14T20:23:51.165Z"
+      }
+    ]
+  },
+  {
+    "id": "02853566-12f7-4c8f-baab-a05796c58ac8",
+    "full_name": "Rhoda N. Ikono",
+    "title": "Professor",
+    "departmentId": "is",
+    "email": "rhodaikono@university.local",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877977/prof_rhoda_ikono_ipse1p.jpg",
+    "orcid": "https://orcid.org/0000-0003-4978-1357",
+    "scopus_id": "57213768999",
+    "researchAreas": [
+      "Requirement Engineering",
+      "Usability",
+      "Health Informatics",
+      "Information Systems",
+      "Biomedical Informatics",
+      "Human-Robot Interaction",
+      "Ontology Matching",
+      "Interoperability",
+      "Software Product Usability",
+      "Artificial Intelligence"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Science",
+      "M.Sc. Computer Science",
+      "Ph.D. Computer Science"
+    ],
+    "linkedin_url": "https://linkedin.com/in/rhoda-ikono-92608411",
+    "personal_website": "",
+    "createdAt": "2025-09-14T13:01:17.864Z",
+    "updatedAt": "2025-09-14T20:23:50.177Z",
+    "courses": [
+      {
+        "id": "642cca85-1ca7-4176-a2c4-3a0514b8045b",
+        "course_code": "CSC311",
+        "course_title": "Information Systems",
+        "createdAt": "2025-09-14T13:01:15.611Z",
+        "updatedAt": "2025-09-14T14:26:08.473Z"
+      },
+      {
+        "id": "f0f0cb40-8069-432e-a1ce-5ca613d3104e",
+        "course_code": "CSC317",
+        "course_title": "Automata Theory and Computability",
+        "createdAt": "2025-09-14T13:01:15.653Z",
+        "updatedAt": "2025-09-14T14:26:08.507Z"
+      },
+      {
+        "id": "adc8062f-d3fd-470d-9158-2b4ab336481e",
+        "course_code": "CSC306",
+        "course_title": "Algorithms and Complexity Analysis",
+        "createdAt": "2025-09-14T13:01:16.196Z",
+        "updatedAt": "2025-09-14T14:26:08.828Z"
+      },
+      {
+        "id": "220c67e9-0a4f-4a16-a87e-ce08c4ea16e7",
+        "course_code": "CSC201",
+        "course_title": "Computer Programming I",
+        "createdAt": "2025-09-14T13:01:15.267Z",
+        "updatedAt": "2025-09-14T14:26:08.217Z"
+      },
+      {
+        "id": "16af3221-2cd6-4a02-aa43-63f5c0140c0d",
+        "course_code": "CSC202",
+        "course_title": "Computer Programming II",
+        "createdAt": "2025-09-14T13:01:15.358Z",
+        "updatedAt": "2025-09-14T14:26:08.272Z"
+      },
+      {
+        "id": "4070c677-84ee-45df-8991-96ae333e2c26",
+        "course_code": "CSC507",
+        "course_title": "Computers in Society",
+        "createdAt": "2025-09-14T13:01:16.798Z",
+        "updatedAt": "2025-09-14T14:26:09.248Z"
+      },
+      {
+        "id": "f9a7f2d3-d89a-41b7-97be-b2cbc70d66ef",
+        "course_code": "CSC312",
+        "course_title": "Systems Analysis and Design Methodologies",
+        "createdAt": "2025-09-14T13:01:16.254Z",
+        "updatedAt": "2025-09-14T14:26:08.873Z"
+      }
+    ],
+    "department": {
+      "id": "is",
+      "name": "Information Systems",
+      "description": "The Information Systems department focuses on the design, implementation, and management of information technology solutions that support organizational decision-making. Students learn database management, system analysis, enterprise systems, and IT project management, preparing them for roles in business intelligence, IT consultancy, and systems administration.",
+      "createdAt": "2025-09-14T13:01:15.241Z",
+      "updatedAt": "2025-09-14T14:26:08.198Z"
+    },
+    "publications": [
+      {
+        "id": "f808d451-e0e8-4fdb-b64e-0295bea636b6",
+        "title": "AN Investigative Process Model for Predicting Information Diffusion on Social Media",
+        "type": "Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.803Z",
+        "updatedAt": "2025-09-14T20:23:51.701Z"
+      },
+      {
+        "id": "d0b88b7e-2299-4530-8d9a-3f9be433fa4a",
+        "title": "A Multi-Nodal Implementation of Apriori Algorithm Using MapReduce Framework",
+        "type": "Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.814Z",
+        "updatedAt": "2025-09-14T20:23:51.728Z"
+      },
+      {
+        "id": "fac32ddf-e30a-4e14-9c9d-be27078d90ef",
+        "title": "Implementing Decision Support Tool for Low-Back Pain Diagnosis and Prediction",
+        "type": "Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.726Z",
+        "updatedAt": "2025-09-14T20:23:51.602Z"
+      },
+      {
+        "id": "b8a2fe4e-5777-4cad-88a8-701c6d68abfe",
+        "title": "Integrating Asymmetric Cryptographic Digital Wallet for Online Services in Nigeria",
+        "type": "Article",
+        "year": 2023,
+        "doi": "10.5815/ijieeb.2023.03.03",
+        "createdAt": "2025-09-14T14:05:23.497Z",
+        "updatedAt": "2025-09-14T20:23:51.617Z"
+      },
+      {
+        "id": "83e76699-9c22-4824-aed5-6a6f578b906a",
+        "title": "Analysis and Design Process for Predicting and Controlling Blood Glucose in Type 1 Diabetic Patients",
+        "type": "Article",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.792Z",
+        "updatedAt": "2025-09-14T20:23:51.683Z"
+      },
+      {
+        "id": "4bf521c6-f755-4ea4-840a-c156c9149996",
+        "title": "Enhancing Drug Recommender System for Peptic Ulcer Treatment",
+        "type": "Article",
+        "year": 2024,
+        "doi": "10.5815/ijitcs.2024.06.02",
+        "createdAt": "2025-09-14T14:05:23.469Z",
+        "updatedAt": "2025-09-14T20:23:51.587Z"
+      },
+      {
+        "id": "7b6800e2-9832-4b9b-aa61-8567d29d5f0e",
+        "title": "A Machine Learning Technique for Detection of Diabetes Mellitus",
+        "type": "Conference Paper",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.752Z",
+        "updatedAt": "2025-09-14T20:23:51.632Z"
+      },
+      {
+        "id": "a3864be9-a29a-4395-8647-995e226dc984",
+        "title": "The Need for Robots in Global Health",
+        "type": "Article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.765Z",
+        "updatedAt": "2025-09-14T20:23:51.646Z"
+      },
+      {
+        "id": "10b39c23-c5fe-45e6-8604-bc122a2f1b2b",
+        "title": "Hybridized Ranking Model for Prioritizing Functional Software Requirements: Case Study Approach",
+        "type": "Article",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.598Z",
+        "updatedAt": "2025-09-14T20:23:51.660Z"
+      },
+      {
+        "id": "935fdc05-7e13-434d-8724-5843f3ee6b58",
+        "title": "A Systematic Review of Swarm Robots",
+        "type": "Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.828Z",
+        "updatedAt": "2025-09-14T20:23:52.508Z"
+      },
+      {
+        "id": "13c87d03-d2ff-48d6-9a5c-2cdfce74d3c0",
+        "title": "Comparative Study of Disk-Resident vs Column-Oriented Technique for Healthcare Big Data Management",
+        "type": "Article",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.879Z",
+        "updatedAt": "2025-09-14T20:23:51.859Z"
+      },
+      {
+        "id": "53822069-273a-4a7b-a32e-58253567137d",
+        "title": "State Of The Art: A Study of Human-Robot Interaction in Healthcare",
+        "type": "Article",
+        "year": 2017,
+        "doi": "10.5815/ijieeb.2017.03.06",
+        "createdAt": "2025-09-14T14:05:23.916Z",
+        "updatedAt": "2025-09-14T20:23:51.901Z"
+      },
+      {
+        "id": "8d6fff8f-d507-4f87-ba74-b0dd8af9dd1f",
+        "title": "Engineering of a Student Advisory Management System: Development Perspective",
+        "type": "Article",
+        "year": 2016,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.929Z",
+        "updatedAt": "2025-09-14T20:23:51.913Z"
+      },
+      {
+        "id": "d6e12c73-1ece-445c-8920-54b10123c159",
+        "title": "Factors Influencing the Use of Electronic Health Records Among Nurses",
+        "type": "Article",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.892Z",
+        "updatedAt": "2025-09-14T20:23:51.870Z"
+      },
+      {
+        "id": "dfbf91db-0360-4a24-bbf9-f2a6627177d4",
+        "title": "A Ranking Model for Software Requirements Prioritization",
+        "type": "Article",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.904Z",
+        "updatedAt": "2025-09-14T20:23:51.886Z"
+      },
+      {
+        "id": "c51d2e40-1fc7-4419-87d4-4a90fab12023",
+        "title": "A Mathematical Approach to Healthcare Insurance Data Analytics",
+        "type": "Preprint/Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.840Z",
+        "updatedAt": "2025-09-14T20:23:52.540Z"
+      },
+      {
+        "id": "568c75e6-7b28-4386-8796-7cc957f15188",
+        "title": "Meta-Analysis of Fraud, Waste and Abuse Detection Methods in Healthcare",
+        "type": "Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.852Z",
+        "updatedAt": "2025-09-14T20:23:51.806Z"
+      },
+      {
+        "id": "ca6fc903-5152-4439-a040-eee3b73a042e",
+        "title": "Prospects and Problems of Brain Computer Interface in Healthcare",
+        "type": "Article",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.865Z",
+        "updatedAt": "2025-09-14T20:23:52.571Z"
+      },
+      {
+        "id": "51eb073d-cadc-4227-9e1a-635a0d5d971b",
+        "title": "A Multi-Nodal Implementation of Apriori Algorithm for Big Data Analytics using MapReduce Framework",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.432Z",
+        "updatedAt": "2025-09-14T20:23:52.493Z"
+      },
+      {
+        "id": "cc6e8684-20f9-4459-8af9-bec251038a6e",
+        "title": "An Implementation Of A Repository For Healthcare Insurance Using MongoDB",
+        "type": "Journal Article",
+        "year": 2020,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.453Z",
+        "updatedAt": "2025-09-14T20:23:52.524Z"
+      },
+      {
+        "id": "dbe19e8d-a43e-4ec3-ac10-54bb09897eba",
+        "title": "An Integrated Framework for Prioritizing Software Specifications in Requirements Engineering",
+        "type": "Journal Article",
+        "year": 2018,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.492Z",
+        "updatedAt": "2025-09-14T20:23:52.587Z"
+      },
+      {
+        "id": "3f3ec979-bdcd-4187-8dc9-3fd43a2dbe6a",
+        "title": "Framework for Enhancing Requirements Engineering Processes: A Conceptual view of Health Information System",
+        "type": "Journal Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.504Z",
+        "updatedAt": "2025-09-14T20:23:52.602Z"
+      },
+      {
+        "id": "0bd2ff4b-b304-4bb9-b254-8d61e4010779",
+        "title": "Engendering Quality Information Systems Development through Software Architectural Design",
+        "type": "Journal Article",
+        "year": 2012,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.525Z",
+        "updatedAt": "2025-09-14T20:23:52.634Z"
+      }
+    ]
+  },
+  {
+    "id": "61d3a83e-43a3-4acc-8c15-4f7014a84e94",
+    "full_name": "Safiriyu Ijiyemi Eludiora",
+    "title": "Senior Lecturer",
+    "departmentId": "ai",
+    "email": "safiriyue@yahoo.com",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877974/prof_safiriyu_snetjp.png",
+    "orcid": "",
+    "scopus_id": "",
+    "researchAreas": [
+      "Natural Language Processing",
+      "Machine Translation (English-Yorùbá, Hausa)",
+      "Computational Linguistics",
+      "Applied Linguistics",
+      "Cognitive Computing",
+      "Artificial Intelligence",
+      "Data Communication",
+      "Real-Time Embedded Systems",
+      "Wireless Sensor Networks",
+      "Cloud Computing",
+      "E-Learning and Distance Learning",
+      "Policy and ICT for Development"
+    ],
+    "qualifications": [
+      "Ph.D. Computer Science (Obafemi Awolowo University, 2014)",
+      "Registered Computer Engineer (COREN)",
+      "Member, Nigerian Society of Engineers (NSE)",
+      "Member, Nigeria Computer Society (NCS)",
+      "Member, Computing and Intelligent Systems Research Group (CISRG)"
+    ],
+    "linkedin_url": "",
+    "personal_website": "https://www.researchgate.net/profile/Safiriyu-Eludiora",
+    "createdAt": "2025-09-14T13:01:18.105Z",
+    "updatedAt": "2025-09-14T20:23:50.401Z",
+    "courses": [],
+    "department": {
+      "id": "ai",
+      "name": "Intelligence Systems",
+      "description": "The Intelligence Systems department specializes in artificial intelligence, machine learning, and data-driven technologies. Students explore natural language processing, computer vision, robotics, and intelligent agent systems, preparing them for careers in AI research, development, and the application of intelligent systems across industries.",
+      "createdAt": "2025-09-14T13:01:15.248Z",
+      "updatedAt": "2025-09-14T14:26:08.206Z"
+    },
+    "publications": [
+      {
+        "id": "71b569e6-b04d-46d2-8150-3861f58bec04",
+        "title": "Development of a Prepositional Phrase Machine Translation System",
+        "type": "Journal Article",
+        "year": 2016,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.803Z",
+        "updatedAt": "2025-09-14T20:23:54.417Z"
+      },
+      {
+        "id": "e8eb15e8-b6c1-4743-9125-ecbb0016d026",
+        "title": "Web-Based Yorùbá Numeral Translation System",
+        "type": "Journal Article",
+        "year": 2017,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.795Z",
+        "updatedAt": "2025-09-14T20:23:54.402Z"
+      },
+      {
+        "id": "a3ecc09b-f893-4009-8542-3ba12d955f80",
+        "title": "Development of a Verb Group Machine Translation System",
+        "type": "Journal Article",
+        "year": 2016,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.809Z",
+        "updatedAt": "2025-09-14T20:23:54.432Z"
+      },
+      {
+        "id": "638a48e7-25db-418d-95ad-fd509609cb63",
+        "title": "Development of English to Hausa Machine Translation System",
+        "type": "Journal Article",
+        "year": 2016,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.819Z",
+        "updatedAt": "2025-09-14T20:23:54.451Z"
+      },
+      {
+        "id": "ed92f7a6-0be5-44f0-9cb1-994538e340d4",
+        "title": "Deploying Nigerian Indigenous Languages Based Technology for Education in Sustainable Development",
+        "type": "Conference Paper",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.896Z",
+        "updatedAt": "2025-09-14T20:23:54.343Z"
+      },
+      {
+        "id": "23591c67-a3d3-430e-9870-a980e5db0b51",
+        "title": "Development of an Interactive Hausa Language Learning System",
+        "type": "Journal Article",
+        "year": 2017,
+        "doi": "10.5120/ijca2017915340",
+        "createdAt": "2025-09-14T14:26:12.752Z",
+        "updatedAt": "2025-09-14T20:23:54.329Z"
+      },
+      {
+        "id": "d16ed201-8897-45b5-821e-d0fce30968d0",
+        "title": "Development of an English to Yorùbá Machine Translator",
+        "type": "Article",
+        "year": 2016,
+        "doi": "10.5815/ijmecs.2016.11.02",
+        "createdAt": "2025-09-14T14:26:11.970Z",
+        "updatedAt": "2025-09-14T20:23:54.283Z"
+      },
+      {
+        "id": "fd1485f2-dcf6-4a77-b667-c5f2753aa9d3",
+        "title": "Design and Implementation of English To Yoruba Verb Phrase Machine Translation System",
+        "type": "Conference Paper",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.770Z",
+        "updatedAt": "2025-09-14T20:23:54.357Z"
+      },
+      {
+        "id": "87823321-fef4-4069-b6cd-2f98d48d7bac",
+        "title": "Development of a Machine Translation System for Date Referencing in Yoruba Language",
+        "type": "Journal Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.778Z",
+        "updatedAt": "2025-09-14T20:23:54.373Z"
+      },
+      {
+        "id": "0b0b1062-fec3-4dbb-ae97-1560f9319d43",
+        "title": "Development of a Yorùbá Arithmetic Multimedia Learning System",
+        "type": "Journal Article",
+        "year": 2017,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.787Z",
+        "updatedAt": "2025-09-14T20:23:54.386Z"
+      },
+      {
+        "id": "cea115b9-9ebf-49dc-a526-88298f4bf8d3",
+        "title": "Computational Morphological Analysis of Yorùbá Language Words",
+        "type": "Journal Article",
+        "year": 2018,
+        "doi": "10.11591/ijai.v7.i1.pp11-18",
+        "createdAt": "2025-09-14T14:26:12.736Z",
+        "updatedAt": "2025-09-14T20:23:54.299Z"
+      },
+      {
+        "id": "ff155e92-3e2f-4e9b-bd35-ef59c7253317",
+        "title": "Development of an English to Yorùbá Machine Translation System for Yorùbá Verbs’ Tone Changing",
+        "type": "Journal Article",
+        "year": 2015,
+        "doi": "10.5120/ijca2015907007",
+        "createdAt": "2025-09-14T14:26:12.743Z",
+        "updatedAt": "2025-09-14T20:23:54.314Z"
+      },
+      {
+        "id": "0b0931b8-8cdf-4396-82fd-32173d0189d0",
+        "title": "Word Sense Disambiguation In English To Yorùbá Machine Translation System",
+        "type": "Journal Article",
+        "year": 2015,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.826Z",
+        "updatedAt": "2025-09-14T20:23:54.470Z"
+      },
+      {
+        "id": "8eca2779-016c-4385-9778-1adb2f22badb",
+        "title": "English to Yorùbá Machine Translation System using Rule-Based Approach",
+        "type": "Journal Article",
+        "year": 2015,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.836Z",
+        "updatedAt": "2025-09-14T20:23:54.485Z"
+      },
+      {
+        "id": "838fd690-4d18-4ffe-b757-fce04f571ec8",
+        "title": "A Novel Security Protocol for Incentive Schemes",
+        "type": "Journal Article",
+        "year": 2015,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.842Z",
+        "updatedAt": "2025-09-14T20:23:54.500Z"
+      },
+      {
+        "id": "9abe322d-d716-484c-b1c6-c7b4714458bd",
+        "title": "Towards a Model of E-Learning in Nigerian Higher Institutions: An Evolutionary Software Modeling Approach",
+        "type": "Journal Article",
+        "year": 2012,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.852Z",
+        "updatedAt": "2025-09-14T20:23:54.516Z"
+      },
+      {
+        "id": "82adac00-cded-46a9-b95b-c0b086e1c6fe",
+        "title": "Prediction of Oil and Gas Reservoir Properties using Support Vector Machines",
+        "type": "Conference Paper",
+        "year": 2011,
+        "doi": "10.2523/IPTC-14514-MS",
+        "createdAt": "2025-09-14T14:26:12.858Z",
+        "updatedAt": "2025-09-14T20:23:54.531Z"
+      },
+      {
+        "id": "9c683679-dcc7-43a5-97c9-f19a858b6824",
+        "title": "Performance Analysis of Metro Ethernet Network (MEN) Services over Asynchronous Transfer Mode (ATM)",
+        "type": "Journal Article",
+        "year": 2011,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.868Z",
+        "updatedAt": "2025-09-14T20:23:54.546Z"
+      },
+      {
+        "id": "6fc3e451-43d9-4f25-90de-80d8dd3a93ba",
+        "title": "A User Identity Management Protocol for Cloud Computing Paradigm",
+        "type": "Journal Article",
+        "year": 2011,
+        "doi": "10.4236/IJCNS.2011.43019",
+        "createdAt": "2025-09-14T14:26:12.875Z",
+        "updatedAt": "2025-09-14T20:23:54.563Z"
+      },
+      {
+        "id": "82013dc1-6188-43e5-879e-501525e881b5",
+        "title": "A Load Balancing Policy for Distributed Web Service",
+        "type": "Journal Article",
+        "year": 2010,
+        "doi": "10.4236/IJCNS.2010.38087",
+        "createdAt": "2025-09-14T14:26:12.885Z",
+        "updatedAt": "2025-09-14T20:23:54.577Z"
+      }
+    ]
+  },
+  {
+    "id": "745ec0ce-adf8-430b-bdd0-72902bfcd0a7",
+    "full_name": "Sururah Apinke Bello",
+    "title": "Dr.",
+    "departmentId": "cse",
+    "email": "sururah.bello@university.local",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877978/mrs_bello_jv6yo3.jpg",
+    "orcid": "0000-0002-2689-9953",
+    "scopus_id": "57217468871",
+    "researchAreas": [
+      "Cloud Computing",
+      "AI in Construction & AEC",
+      "Building Information Modeling (BIM)",
+      "Circular Economy & Construction Waste Management",
+      "Computer Vision & IoT for Safety",
+      "Cybersecurity in Construction",
+      "Machine Learning & Deep Learning Applications"
+    ],
+    "qualifications": [
+      "B.Sc. Computer Science",
+      "M.Sc. Computer Science",
+      "Ph.D. Computer Science & Engineering"
+    ],
+    "linkedin_url": "",
+    "personal_website": "",
+    "createdAt": "2025-09-14T13:01:17.976Z",
+    "updatedAt": "2025-09-14T20:23:50.308Z",
+    "courses": [],
+    "department": {
+      "id": "cse",
+      "name": "Computer Engineering and Information Communication Technology",
+      "description": "The Computer Engineering and ICT department bridges hardware and software, emphasizing the design, development, and maintenance of computing systems and communication networks. Students gain expertise in digital systems, embedded systems, networking, and telecommunications technologies, enabling them to build and manage modern ICT infrastructure.",
+      "createdAt": "2025-09-14T13:01:15.234Z",
+      "updatedAt": "2025-09-14T14:26:08.190Z"
+    },
+    "publications": [
+      {
+        "id": "6ff913d5-e27c-48b3-96f7-adce8a9fd3da",
+        "title": "Cloud computing in construction industry: Use cases, benefits and challenges",
+        "type": "Journal Article",
+        "year": 2021,
+        "doi": "10.1016/j.autcon.2020.103441",
+        "createdAt": "2025-09-14T14:26:11.652Z",
+        "updatedAt": "2025-09-14T20:23:52.848Z"
+      },
+      {
+        "id": "7b7f6eb6-99d7-48e8-aab6-e75b2450b0a3",
+        "title": "Salvaging building materials in a circular economy: A BIM-based whole-life performance estimator",
+        "type": "Journal Article",
+        "year": 2018,
+        "doi": "10.1016/j.resconrec.2017.10.028",
+        "createdAt": "2025-09-14T14:26:11.662Z",
+        "updatedAt": "2025-09-14T20:23:52.863Z"
+      },
+      {
+        "id": "543ec780-eb27-4c69-b0f3-8c342b9d52c0",
+        "title": "Waste minimisation through deconstruction: A BIM based Deconstructability Assessment Score (BIM-DAS)",
+        "type": "Journal Article",
+        "year": 2015,
+        "doi": "10.1016/j.resconrec.2015.09.020",
+        "createdAt": "2025-09-14T14:26:11.672Z",
+        "updatedAt": "2025-09-14T20:23:52.877Z"
+      },
+      {
+        "id": "462615e7-f6e6-4542-95b3-5b869c9cdbdd",
+        "title": "Design for Deconstruction (DfD): Critical success factors for diverting end-of-life waste from landfills",
+        "type": "Journal Article",
+        "year": 2017,
+        "doi": "10.1016/j.wasman.2016.12.026",
+        "createdAt": "2025-09-14T14:26:11.681Z",
+        "updatedAt": "2025-09-14T20:23:52.891Z"
+      },
+      {
+        "id": "f0eb929d-a440-4d2e-a73d-8a8c2b05724a",
+        "title": "Big data architecture for construction waste analytics (CWA): A conceptual framework",
+        "type": "Journal Article",
+        "year": 2016,
+        "doi": "10.1016/j.jobe.2016.02.002",
+        "createdAt": "2025-09-14T14:26:11.690Z",
+        "updatedAt": "2025-09-14T20:23:52.906Z"
+      },
+      {
+        "id": "7aaf4401-c1e1-4e0b-ba04-9b7d8351655b",
+        "title": "Conversational artificial intelligence in the AEC industry: A review of present status, challenges and opportunities",
+        "type": "Journal Article",
+        "year": 2023,
+        "doi": "10.1016/j.aei.2023.101869",
+        "createdAt": "2025-09-14T14:26:11.701Z",
+        "updatedAt": "2025-09-14T20:23:52.921Z"
+      },
+      {
+        "id": "cca010ce-cf80-4d48-8767-42bcec217e51",
+        "title": "Performance evaluation of deep learning and boosted trees for cryptocurrency closing price prediction",
+        "type": "Journal Article",
+        "year": 2023,
+        "doi": "10.1016/j.eswa.2022.119233",
+        "createdAt": "2025-09-14T14:26:11.709Z",
+        "updatedAt": "2025-09-14T20:23:52.936Z"
+      },
+      {
+        "id": "f48baca9-a8cb-4559-bbd3-806d25f3436e",
+        "title": "Computer vision and IoT research landscape for health and safety management on construction sites",
+        "type": "Journal Article",
+        "year": 2023,
+        "doi": "10.1016/j.jobe.2023.107049",
+        "createdAt": "2025-09-14T14:26:11.720Z",
+        "updatedAt": "2025-09-14T20:23:52.953Z"
+      },
+      {
+        "id": "7077f163-20eb-4801-a2dc-c683e915bef7",
+        "title": "A deep learning approach to concrete water-cement ratio prediction",
+        "type": "Journal Article",
+        "year": 2022,
+        "doi": "10.1016/j.rinma.2021.100300",
+        "createdAt": "2025-09-14T14:26:11.730Z",
+        "updatedAt": "2025-09-14T20:23:52.969Z"
+      },
+      {
+        "id": "f7d42ca7-b04d-413f-a135-0545efb9a4e1",
+        "title": "A distributed intrusion detection scheme for wireless sensor networks",
+        "type": "Conference Paper",
+        "year": 2011,
+        "doi": "10.1109/EIT.2011.5978593",
+        "createdAt": "2025-09-14T14:26:11.739Z",
+        "updatedAt": "2025-09-14T20:23:52.984Z"
+      },
+      {
+        "id": "4a19f5ad-dc02-47ed-8269-ffd61e56e86e",
+        "title": "Cloud utility price models",
+        "type": "Conference Paper",
+        "year": 2013,
+        "doi": "10.5220/0004432803170320",
+        "createdAt": "2025-09-14T14:26:11.749Z",
+        "updatedAt": "2025-09-14T20:23:53.000Z"
+      },
+      {
+        "id": "a65c3425-d4fc-42f9-8a00-0d910b201c3d",
+        "title": "Cloud resource price system",
+        "type": "Conference Paper",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.788Z",
+        "updatedAt": "2025-09-14T20:23:53.059Z"
+      },
+      {
+        "id": "a690fe69-324a-4c3c-95c0-1b5dad783841",
+        "title": "A low cost course information syndication system",
+        "type": "Journal Article",
+        "year": 2011,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.797Z",
+        "updatedAt": "2025-09-14T20:23:53.073Z"
+      },
+      {
+        "id": "86f5f51b-cb84-41a4-a03d-abe057e7cf6c",
+        "title": "Cloud computing for chatbot in the construction industry: An implementation framework for conversational-BIM voice assistant",
+        "type": "Journal Article",
+        "year": 2025,
+        "doi": "10.1016/j.digeng.2025.100031",
+        "createdAt": "2025-09-14T14:26:11.818Z",
+        "updatedAt": "2025-09-14T20:23:53.103Z"
+      },
+      {
+        "id": "f9b7c39b-d738-4770-af6b-535e4dfe78b7",
+        "title": "Flexible Pricing Models for Cloud Services",
+        "type": "Journal Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.768Z",
+        "updatedAt": "2025-09-14T20:23:53.030Z"
+      },
+      {
+        "id": "c6cbe1e4-37bb-4fe7-a6f4-d46349e51b35",
+        "title": "A proposed criteria for evaluating cloud based systems",
+        "type": "Journal Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.777Z",
+        "updatedAt": "2025-09-14T20:23:53.044Z"
+      },
+      {
+        "id": "ec88afdc-fa4e-4f2c-87d9-b2a3f29199e6",
+        "title": "An improved packet resequencing model for selective repeat request protocol in data communication networks",
+        "type": "Conference Paper",
+        "year": 2007,
+        "doi": "10.1109/ISCC.2007.4381548",
+        "createdAt": "2025-09-14T14:26:11.806Z",
+        "updatedAt": "2025-09-14T20:23:53.087Z"
+      },
+      {
+        "id": "00e58bea-da53-440c-afa9-41c29c4cd384",
+        "title": "Development of computational models for the production of fermented African locust beans using petri net",
+        "type": "Journal Article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:11.757Z",
+        "updatedAt": "2025-09-14T20:23:53.015Z"
+      }
+    ]
+  },
+  {
+    "id": "447059ef-ae75-4332-8da1-3489fd9de81b",
+    "full_name": "Theresa Olubukola Omodunbi",
+    "title": "Lecturer",
+    "departmentId": "is",
+    "email": "tessydunbi@oauife.edu.ng",
+    "phone": "",
+    "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877981/mrs_theresa_qlwlss.jpg",
+    "orcid": "0000-0002-8501-6743",
+    "scopus_id": "",
+    "researchAreas": [
+      "Computational Linguistics",
+      "Semantics",
+      "Biomedical Informatics",
+      "Information Retrieval",
+      "Data Mining",
+      "Data Analytics",
+      "Summarization Systems"
+    ],
+    "qualifications": [
+      "PhD, Computer Science (2012-2016) Obafemi Awolowo University",
+      "MCA, Computer Science (2011) Obafemi Awolowo University",
+      "BSc, Computer Science (2006) Obafemi Awolowo University"
+    ],
+    "linkedin_url": "https://www.linkedin.com/in/theresa-omodunbi",
+    "personal_website": "",
+    "createdAt": "2025-09-14T13:01:17.848Z",
+    "updatedAt": "2025-09-14T20:23:50.153Z",
+    "courses": [
+      {
+        "id": "b7a789b1-e113-47c4-ab9b-17e4155bccb1",
+        "course_code": "CPE301",
+        "course_title": "Low Level Languages",
+        "createdAt": "2025-09-14T13:01:15.585Z",
+        "updatedAt": "2025-09-14T14:26:08.447Z"
+      },
+      {
+        "id": "633bcb19-d179-462f-baf5-91bbeef7e258",
+        "course_code": "CPE203",
+        "course_title": "Digital Computer Systems I",
+        "createdAt": "2025-09-14T13:01:15.435Z",
+        "updatedAt": "2025-09-14T14:26:08.310Z"
+      },
+      {
+        "id": "792f6249-ecef-4b73-8bc8-c00d0c90e34f",
+        "course_code": "CPE204",
+        "course_title": "Digital Computer Systems II",
+        "createdAt": "2025-09-14T13:01:15.449Z",
+        "updatedAt": "2025-09-14T14:26:08.319Z"
+      },
+      {
+        "id": "6398172b-f1ca-4d21-b657-b20fd9d48af0",
+        "course_code": "CPE206",
+        "course_title": "Digital Systems Laboratory",
+        "createdAt": "2025-09-14T13:01:15.465Z",
+        "updatedAt": "2025-09-14T14:26:08.327Z"
+      },
+      {
+        "id": "6622b360-d194-4028-b5bc-0f3026872aef",
+        "course_code": "CPE405",
+        "course_title": "Microprocessor Technology and Microprogramming",
+        "createdAt": "2025-09-14T13:01:16.344Z",
+        "updatedAt": "2025-09-14T14:26:08.933Z"
+      },
+      {
+        "id": "2adbed1b-a514-4220-b317-de459e36d13f",
+        "course_code": "CPE409",
+        "course_title": "Microprocessor Design Laboratory",
+        "createdAt": "2025-09-14T13:01:16.358Z",
+        "updatedAt": "2025-09-14T14:26:08.947Z"
+      },
+      {
+        "id": "e1d04899-36e1-4d44-83b9-c93922ea922c",
+        "course_code": "CPE517",
+        "course_title": "Digital Computer Network",
+        "createdAt": "2025-09-14T13:01:16.686Z",
+        "updatedAt": "2025-09-14T14:26:09.174Z"
+      }
+    ],
+    "department": {
+      "id": "is",
+      "name": "Information Systems",
+      "description": "The Information Systems department focuses on the design, implementation, and management of information technology solutions that support organizational decision-making. Students learn database management, system analysis, enterprise systems, and IT project management, preparing them for roles in business intelligence, IT consultancy, and systems administration.",
+      "createdAt": "2025-09-14T13:01:15.241Z",
+      "updatedAt": "2025-09-14T14:26:08.198Z"
+    },
+    "publications": [
+      {
+        "id": "a9b63d46-1b21-40d0-bbf1-74b7d4de03c7",
+        "title": "Prognostic Model for the Risk of Coronavirus Disease (COVID-19) Using Fuzzy Logic Modeling",
+        "type": "Article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.555Z",
+        "updatedAt": "2025-09-14T20:23:51.421Z"
+      },
+      {
+        "id": "62b5cced-8dfd-407c-ba46-e26395090fb8",
+        "title": "Mining Requirements and Design Documents in Software Repositories Using Natural Language Processing and Machine Learning Approaches",
+        "type": "Book Chapter",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.611Z",
+        "updatedAt": "2025-09-14T20:23:51.469Z"
+      },
+      {
+        "id": "e110bc77-1d7b-41ac-af70-9e22b5c33541",
+        "title": "Bridging the Gap in Modern Computing Infrastructures: Issues and Challenges of Data Warehousing and Cloud Computing",
+        "type": "Article",
+        "year": 2013,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.662Z",
+        "updatedAt": "2025-09-14T20:23:51.527Z"
+      },
+      {
+        "id": "b8a2fe4e-5777-4cad-88a8-701c6d68abfe",
+        "title": "Integrating Asymmetric Cryptographic Digital Wallet for Online Services in Nigeria",
+        "type": "Article",
+        "year": 2023,
+        "doi": "10.5815/ijieeb.2023.03.03",
+        "createdAt": "2025-09-14T14:05:23.497Z",
+        "updatedAt": "2025-09-14T20:23:51.617Z"
+      },
+      {
+        "id": "e79b14fd-058b-4d3f-b73b-d30da5924e9c",
+        "title": "Drug Recommender Systems: A Review of State-of-the-Art Algorithms",
+        "type": "Conference Paper",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.511Z",
+        "updatedAt": "2025-09-14T20:23:51.360Z"
+      },
+      {
+        "id": "ff660142-d0ff-462f-a0c0-21afeb3ef568",
+        "title": "Mining Requirements and Design Documents in Software Repositories Using Natural Language Processing and Machine Learning Approaches",
+        "type": "Article",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.524Z",
+        "updatedAt": "2025-09-14T20:23:51.375Z"
+      },
+      {
+        "id": "44618659-20de-441f-864d-6df6e56e43df",
+        "title": "Design Specification for an M-Health Solution to Improve Antenatal Care: Analytical and Technical Perspective",
+        "type": "Book Chapter",
+        "year": 2022,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.539Z",
+        "updatedAt": "2025-09-14T20:23:51.390Z"
+      },
+      {
+        "id": "f85b1139-a4a4-417e-aa4c-2fad4e19ea90",
+        "title": "Software Design Specification and Analysis of Insulin Dose to Adaptive Carbohydrate Algorithm for Type 1 Diabetic Patients",
+        "type": "Book Chapter",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.624Z",
+        "updatedAt": "2025-09-14T20:23:51.484Z"
+      },
+      {
+        "id": "5f55c155-7266-439b-b7a8-dfb9da961d4a",
+        "title": "A Mathematical Approach to Healthcare Insurance Data Analytics",
+        "type": "Article",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.583Z",
+        "updatedAt": "2025-09-14T20:23:52.667Z"
+      },
+      {
+        "id": "2f57ede3-21b5-4ec0-8f8a-e5296d833193",
+        "title": "The Critical Need for Software Architecture Practices in Software Development Process",
+        "type": "Article",
+        "year": 2012,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.674Z",
+        "updatedAt": "2025-09-14T20:23:51.541Z"
+      },
+      {
+        "id": "3402375d-c548-4e45-a73c-eaefff7d1b30",
+        "title": "Formative Evaluation of Software Usability: A Case Study",
+        "type": "Conference Paper",
+        "year": 2010,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.687Z",
+        "updatedAt": "2025-09-14T20:23:51.556Z"
+      },
+      {
+        "id": "11d348fe-a3c3-43ed-b92e-aa8ead732b26",
+        "title": "E-Management Framework for Teaching Hospital Complexes in Developing Countries",
+        "type": "Article",
+        "year": 2010,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.699Z",
+        "updatedAt": "2025-09-14T20:23:51.571Z"
+      },
+      {
+        "id": "4bf521c6-f755-4ea4-840a-c156c9149996",
+        "title": "Enhancing Drug Recommender System for Peptic Ulcer Treatment",
+        "type": "Article",
+        "year": 2024,
+        "doi": "10.5815/ijitcs.2024.06.02",
+        "createdAt": "2025-09-14T14:05:23.469Z",
+        "updatedAt": "2025-09-14T20:23:51.587Z"
+      },
+      {
+        "id": "4ad36033-aeb9-4a33-be66-a5446dbb0bd7",
+        "title": "Extracting Features from App Store Reviews to Improve Requirements Analysis: Natural Language Processing and Machine Learning Approach",
+        "type": "Article",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.483Z",
+        "updatedAt": "2025-09-14T20:23:51.329Z"
+      },
+      {
+        "id": "10b39c23-c5fe-45e6-8604-bc122a2f1b2b",
+        "title": "Hybridized Ranking Model for Prioritizing Functional Software Requirements: Case Study Approach",
+        "type": "Article",
+        "year": 2021,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.598Z",
+        "updatedAt": "2025-09-14T20:23:51.660Z"
+      },
+      {
+        "id": "cb49f073-334a-461b-bdc1-05d58913e89f",
+        "title": "Design of Mobile Appointment Reminder and Counselling System",
+        "type": "Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.636Z",
+        "updatedAt": "2025-09-14T20:23:51.499Z"
+      },
+      {
+        "id": "af61b0f1-336f-4d86-8d48-c61902c88278",
+        "title": "Trends in Multi-document Summarization System Methods",
+        "type": "Article",
+        "year": 2014,
+        "doi": null,
+        "createdAt": "2025-09-14T14:05:23.648Z",
+        "updatedAt": "2025-09-14T20:23:51.513Z"
+      },
+      {
+        "id": "3404c399-932c-4349-9db9-8b1e6d11cec1",
+        "title": "Palm Vein Recognition System Based on Derived Pattern and Feature Vectors",
+        "type": "Journal Article",
+        "year": 2017,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.904Z",
+        "updatedAt": "2025-09-14T20:23:54.606Z"
+      },
+      {
+        "id": "ec803b7d-39ed-4c4f-88e1-bc3ea9f7e8aa",
+        "title": "Evaluating Robustness of LLMs to Typographical Noise in Yorùbá QA",
+        "type": "Conference Paper",
+        "year": 2024,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.917Z",
+        "updatedAt": "2025-09-14T20:23:54.620Z"
+      },
+      {
+        "id": "1da97c0a-d7ac-4342-bfb2-fdf96e6f227b",
+        "title": "An Overview of Deep Learning Techniques for Short-Term Electricity Load Forecasting",
+        "type": "Article",
+        "year": 2019,
+        "doi": null,
+        "createdAt": "2025-09-14T14:26:12.193Z",
+        "updatedAt": "2025-09-14T20:23:54.592Z"
+      }
+    ]
+  }
+]

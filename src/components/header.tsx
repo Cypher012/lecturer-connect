@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Search, Menu, X, GraduationCap, User, LogOut } from "lucide-react"
@@ -12,14 +12,19 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
-import { useAuth } from "@/lib/auth"
-import type {DepartmentWithRelations as Department} from "@/lib/actions/departments"
+import { useDepartmentsStore } from "~/src/hooks/use-department"
 
 
-export function Header({departments}: {departments: Department[]}) {
+
+export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [searchQuery, setSearchQuery] = useState("")
-  const { user, logout, isAuthenticated } = useAuth()
+  const departments = useDepartmentsStore((state) => state.departments)
+  const fetchDepartments = useDepartmentsStore((state) => state.fetchDepartments)
+  
+  useEffect(() => {
+    fetchDepartments()
+  }, [fetchDepartments])
 
 
   const handleSearch = (e: React.FormEvent) => {
@@ -40,7 +45,7 @@ export function Header({departments}: {departments: Department[]}) {
           </Link>
 
           {/* Desktop Navigation */}
-          <nav className="hidden md:flex items-center space-x-8">
+          <nav className="hidden lg:flex items-center space-x-8">
             <Link href="/" className="hover:text-accent transition-colors">
               Home
             </Link>
@@ -64,7 +69,7 @@ export function Header({departments}: {departments: Department[]}) {
               Chat
             </Link>
 
-            {isAuthenticated ? (
+            {/* {isAuthenticated ? (
               <DropdownMenu>
                 <DropdownMenuTrigger asChild>
                   <Button variant="ghost" size="sm" className="flex items-center space-x-2">
@@ -90,11 +95,11 @@ export function Header({departments}: {departments: Department[]}) {
               <Link href="/login" className="hover:text-accent transition-colors">
                 Login
               </Link>
-            )}
+            )} */}
           </nav>
 
           {/* Search Bar */}
-          <form onSubmit={handleSearch} className="hidden md:flex items-center space-x-2">
+          <form onSubmit={handleSearch} className="hidden lg:flex items-center space-x-2">
             <div className="relative">
               <Input
                 type="text"
@@ -110,14 +115,14 @@ export function Header({departments}: {departments: Department[]}) {
           </form>
 
           {/* Mobile Menu Button */}
-          <Button variant="ghost" size="sm" className="md:hidden" onClick={() => setIsMenuOpen(!isMenuOpen)}>
+          <Button variant="ghost" size="sm" className="lg:hidden" onClick={() => setIsMenuOpen(!isMenuOpen)}>
             {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
           </Button>
         </div>
 
         {/* Mobile Menu */}
         {isMenuOpen && (
-          <div className="md:hidden py-4 border-t border-primary-foreground/20">
+          <div className="lg:hidden py-4 border-t border-primary-foreground/20">
             <nav className="flex flex-col space-y-4">
               <Link href="/" className="hover:text-accent transition-colors">
                 Home
@@ -132,27 +137,7 @@ export function Header({departments}: {departments: Department[]}) {
                 Chat
               </Link>
 
-              {isAuthenticated ? (
-                <div className="pt-2 border-t border-primary-foreground/20">
-                  <div className="mb-2">
-                    <span className="text-sm font-medium">{user?.name}</span>
-                    <div className="text-xs text-primary-foreground/80">{user?.email}</div>
-                  </div>
-                  <Button
-                    variant="ghost"
-                    size="sm"
-                    onClick={logout}
-                    className="justify-start p-0 h-auto text-primary-foreground hover:text-accent"
-                  >
-                    <LogOut className="h-4 w-4 mr-2" />
-                    Sign out
-                  </Button>
-                </div>
-              ) : (
-                <Link href="/login" className="hover:text-accent transition-colors">
-                  Login
-                </Link>
-              )}
+           
 
               {/* Mobile Search */}
               <form onSubmit={handleSearch} className="flex items-center space-x-2 pt-2">

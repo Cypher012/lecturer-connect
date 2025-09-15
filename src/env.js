@@ -9,6 +9,11 @@ export const env = createEnv({
    */
   server: {
     DATABASE_URL: z.string().url(),
+    OPENAI_API_KEY:z.string(),
+    PINECONE_API_KEY:z.string(),  
+    PINECONE_INDEX_NAME: z.string(),
+    OPENAI_EMBEDDING_MODEL: z.string(),
+    OPENAI_MODEL: z.string(),
     NODE_ENV: z
     .enum(["development", "test", "production"])
     .default("development"),
@@ -29,6 +34,11 @@ export const env = createEnv({
    */
   runtimeEnv: {
     DATABASE_URL: process.env.DATABASE_URL,
+    OPENAI_API_KEY:process.env.OPENAI_API_KEY,
+    PINECONE_API_KEY:process.env.PINECONE_API_KEY,
     NODE_ENV: process.env.NODE_ENV,
+    PINECONE_INDEX_NAME: process.env.PINECONE_INDEX_NAME,
+    OPENAI_EMBEDDING_MODEL: process.env.OPENAI_EMBEDDING_MODEL,
+    OPENAI_MODEL: process.env.OPENAI_MODEL
   },
 });

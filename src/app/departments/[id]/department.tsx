@@ -6,11 +6,12 @@ import { Button } from "@/components/ui/button"
 import { LecturerCard } from "@/components/lecturer-card"
 import { ArrowLeft, Users, BookOpen, Mail } from "lucide-react"
 import Link from "next/link"
-import {useDepartments} from "~/src/components/department-provider"
+import { useDepartmentsStore } from "~/src/hooks/use-department"
 import { getLecturersByDepartment } from "~/src/components/Department/DepartmentPage"
 import { DepartmentWithRelations } from "~/src/lib/actions/departments"
 import { Course } from "~/generated/prisma"
-import { LecturerWithRelations } from "~/src/lib/actions/lecturers"
+import type { LecturerWithRelations } from "~/src/lib/actions/lecturers"
+import { useEffect } from "react"
 
 
 function getCoursesByDepartment( departmentId: string, departments: DepartmentWithRelations[]): Course[] {
@@ -28,8 +29,15 @@ interface DepartmentPageProps {
   lecturers: LecturerWithRelations[]
 }
 export default function DepartmentPage({ id, lecturers }: DepartmentPageProps) {
-  const departments = useDepartments()
-  const department = useDepartments().find((dept) => dept.id === id)
+  const departments = useDepartmentsStore((state) => state.departments)
+  const fetchDepartments = useDepartmentsStore((state) => state.fetchDepartments)
+
+
+  useEffect(() => {
+    fetchDepartments()
+  }, [fetchDepartments])
+
+  const department = departments.find((dept) => dept.id === id)
 
   console.log("department", department)
 
@@ -39,12 +47,11 @@ export default function DepartmentPage({ id, lecturers }: DepartmentPageProps) {
     notFound()
   }
 
-  const departmentLecturers = getLecturersByDepartment(department.id, departments)
   const departmentCourses = getCoursesByDepartment(department.id, departments)
   
 
   // Get unique research areas from department lecturers
-  const researchAreas = Array.from(new Set(departmentLecturers.flatMap((lecturer) => lecturer.researchAreas))).sort()
+  const researchAreas = Array.from(new Set(lecturers.flatMap((lecturer) => lecturer.researchAreas))).sort()
 
   // Get unique courses from department lecturers
   const courses = departmentCourses
@@ -92,7 +99,7 @@ export default function DepartmentPage({ id, lecturers }: DepartmentPageProps) {
 
       {/* Department Overview */}
       <section className="py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
             {/* Research Areas */}
             <Card>
@@ -104,7 +111,7 @@ export default function DepartmentPage({ id, lecturers }: DepartmentPageProps) {
               </CardHeader>
               <CardContent>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                  {researchAreas.slice(0, 10).map((area) => (
+                  {researchAreas.slice(0, 14).map((area) => (
                     <div key={area} className="p-3 bg-muted/50 rounded-lg text-sm">
                       {area}
                     </div>
@@ -123,14 +130,14 @@ export default function DepartmentPage({ id, lecturers }: DepartmentPageProps) {
               </CardHeader>
               <CardContent>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                  {courses.slice(0, 8).map((course) => (
+                  {courses.slice(0, 14).map((course) => (
                     <div key={course.course_code} className="p-3 bg-muted/50 rounded-lg text-sm">
-                      {course.course_code}
+                      {course.course_code} : {course.course_title}
                     </div>
                   ))}
-                  {courses.length > 8 && (
+                  {courses.length > 14 && (
                     <div className="p-3 bg-accent/10 rounded-lg text-sm text-accent font-medium">
-                      +{courses.length - 8} more courses
+                      +{courses.length - 14} more courses
                     </div>
                   )}
                 </div>
@@ -142,7 +149,7 @@ export default function DepartmentPage({ id, lecturers }: DepartmentPageProps) {
 
       {/* Faculty Members */}
       <section className="py-12 bg-muted/30">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-foreground mb-4">Meet Our Faculty</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
@@ -151,7 +158,7 @@ export default function DepartmentPage({ id, lecturers }: DepartmentPageProps) {
             </p>
           </div>
 
-          {departmentLecturers.length === 0 ? (
+          {lecturers.length === 0 ? (
             <Card className="text-center py-12">
               <CardContent>
                 <Users className="h-12 w-12 text-muted-foreground mx-auto mb-4" />

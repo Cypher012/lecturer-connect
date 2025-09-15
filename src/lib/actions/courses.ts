@@ -22,6 +22,7 @@ export type CourseWithRelations = {
   lecturers: Lecturer[]
 } & $Course
 
+
 // CREATE
 export async function createCourse(formData: FormData) {
   const course_code = String(formData.get("code") || "").trim();

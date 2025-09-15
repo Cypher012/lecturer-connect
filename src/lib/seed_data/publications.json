@@ -1,0 +1,2005 @@
+[
+  [
+    {
+    "title": "A Real-Time Nature-Inspired Intrusion Detection in Virtual Environments",
+    "type": "Journal article",
+    "year": 2024,
+    "doi": "10.14569/IJACSA.2024.0151266",
+    "lecturers": ["temitope.ajayi@oauife.edu.ng", "rotimi.gbadebo@university.local"]
+  },
+  {
+    "title": "Towards a Bio-inspired Real-Time Intrusion Detection in the Smart Grid",
+    "type": "Conference paper",
+    "year": 2024,
+    "doi": "10.1007/978-981-97-5799-2_26",
+    "lecturers": ["temitope.ajayi@oauife.edu.ng"]
+  },
+  {
+    "title": "An Enhanced Cluster-Based Routing Model for Energy-Efficient Wireless Sensor Networks",
+    "type": "Journal article",
+    "year": 2023,
+    "doi": "10.52549/ijeei.v11i2.4566",
+    "lecturers": ["temitope.ajayi@oauife.edu.ng", "rotimi.gbadebo@university.local"]
+  },
+  {
+    "title": "Refining Blockchain-Powered Industrial Internet-of-Things Architecture for Improved Performance",
+    "type": "Conference paper",
+    "year": 2023,
+    "doi": "10.1109/BCCA58897.2023.10338910",
+    "lecturers": ["temitope.ajayi@oauife.edu.ng"]
+  },
+  {
+    "title": "Realistic Looking Interfaces: Ergonomic Metaphors for Remote and Virtual Laboratory Interfaces",
+    "type": "Conference paper",
+    "year": 2008,
+    "doi": null,
+    "lecturers": ["temitope.ajayi@oauife.edu.ng"]
+  }
+  ], 
+  
+  [
+        {
+      "title": "A Predictive Cyber Threat Model for Mobile Money Services",
+      "type": "Journal article",
+      "year": 2023,
+      "doi": "10.33166/AETiC.2023.01.004",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "CyberSCADA Network Security Analysis Model for Intrusion Detection Systems in the Smart Grid",
+      "type": "Book chapter",
+      "year": 2023,
+      "doi": "10.1007/978-3-031-24475-9_41",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "A Noun-Centric Keyphrase Extraction Model: Graph-Based Approach",
+      "type": "Journal article",
+      "year": 2022,
+      "doi": "10.12720/jait.13.6.578-589",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "A Predictive User Behaviour Analytic Model for Insider Threats in Cyberspace",
+      "type": "Journal article",
+      "year": 2022,
+      "doi": "10.54039/ijcnis.v14i1.5208",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "An Integrated Approach to Research Paper and Expertise Recommendation in Academic Research",
+      "type": "Journal article",
+      "year": 2022,
+      "doi": "10.14569/ijacsa.2022.0130456",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Chaos Detection and Mitigation in Swarm of Drones Using Machine Learning Techniques and Chaotic Attractors",
+      "type": "Journal article",
+      "year": 2022,
+      "doi": "10.14569/IJACSA.2022.0130656",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Performance Evaluation of Machine Learning-based Robocalls Detection Models in Telephony Networks",
+      "type": "Journal article",
+      "year": 2022,
+      "doi": "10.5815/ijcnis.2022.06.04",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Signal Processing-based Model for Primary User Emulation Attacks Detection in Cognitive Radio Networks",
+      "type": "Journal article",
+      "year": 2021,
+      "doi": "10.20532/cit.2021.1005297",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "An Improved Bio-inspired Based Intrusion Detection Model for a Cyberspace",
+      "type": "Journal article",
+      "year": 2021,
+      "doi": "10.1080/23311916.2020.1859667",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "An Improved Energy-Efficient Prediction-based Model for Animal Tracking in Wireless Sensor Networks",
+      "type": "Journal article",
+      "year": 2020,
+      "doi": "10.5120/ijca2020919860",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "A Model for Critical Security Controls in Cyber-Physical Systems",
+      "type": "Journal article",
+      "year": 2020,
+      "doi": "10.14569/IJACSA.2020.0110420",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "A Security Model for Insider Threat Detection in an Enterprise Environment",
+      "type": "Journal article",
+      "year": 2020,
+      "doi": "10.14569/IJACSA.2020.0110303",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Energy-Efficient Multi-tier Model for Animal Tracking in Wireless Sensor Networks",
+      "type": "Journal article",
+      "year": 2020,
+      "doi": "10.14569/IJACSA.2020.0110547",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Intrusion Detection in Wireless Sensor Networks Using Fuzzy Logic",
+      "type": "Conference paper",
+      "year": 2020,
+      "doi": "10.1145/3373017.3373055",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Modeling and Simulation of Fuzzy Logic Intrusion Detection System for Wireless Sensor Networks",
+      "type": "Conference paper",
+      "year": 2019,
+      "doi": "10.1109/ICMLC48188.2019.8955921",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "A Survey of Cyber-Physical System Security",
+      "type": "Journal article",
+      "year": 2019,
+      "doi": "10.14569/IJACSA.2019.0100359",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "A Survey on Keyphrase Extraction Techniques",
+      "type": "Journal article",
+      "year": 2019,
+      "doi": "10.14569/IJACSA.2019.0100401",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Comparative Analysis of Intrusion Detection Systems Using Machine Learning Techniques",
+      "type": "Conference paper",
+      "year": 2018,
+      "doi": "10.1145/3286606.3286813",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Evaluation of Machine Learning Algorithms for Intrusion Detection Systems",
+      "type": "Conference paper",
+      "year": 2018,
+      "doi": "10.1145/3286606.3286802",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "A Hybrid Intrusion Detection System Based on Machine Learning Algorithms",
+      "type": "Conference paper",
+      "year": 2018,
+      "doi": "10.1145/3286606.3286819",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Comparative Analysis of Feature Selection Methods for Intrusion Detection Systems",
+      "type": "Conference paper",
+      "year": 2017,
+      "doi": "10.1109/ICMLC.2017.8108901",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Evaluation of Machine Learning Algorithms for Cyber Intrusion Detection",
+      "type": "Conference paper",
+      "year": 2017,
+      "doi": "10.1109/ICMLC.2017.8108915",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Intrusion Detection System Using Machine Learning Algorithms",
+      "type": "Conference paper",
+      "year": 2017,
+      "doi": "10.1109/ICMLC.2017.8108893",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Comparative Analysis of Intrusion Detection Systems",
+      "type": "Conference paper",
+      "year": 2016,
+      "doi": "10.1109/ICMLC.2016.7872986",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Intrusion Detection System Based on Machine Learning",
+      "type": "Conference paper",
+      "year": 2016,
+      "doi": "10.1109/ICMLC.2016.7873012",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Evaluation of Feature Selection Methods for Intrusion Detection Systems",
+      "type": "Conference paper",
+      "year": 2016,
+      "doi": "10.1109/ICMLC.2016.7872988",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Performance Evaluation of Feature Selection Methods for Intrusion Detection Systems",
+      "type": "Conference paper",
+      "year": 2016,
+      "doi": "10.1109/ICMLC.2016.7872995",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "Evaluation of Machine Learning Algorithms for Intrusion Detection",
+      "type": "Conference paper",
+      "year": 2015,
+      "doi": "10.1109/ICMLC.2015.7405678",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "A Survey of Intrusion Detection Systems Based on Machine Learning",
+      "type": "Journal article",
+      "year": 2015,
+      "doi": "10.1109/ACCESS.2015.2476611",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    },
+    {
+      "title": "A Survey on Intrusion Detection Systems",
+      "type": "Journal article",
+      "year": 2015,
+      "doi": "10.14569/IJACSA.2015.060803",
+      "lecturers": ["bodundeolofin@univeristy.local"]
+    }
+    ], 
+    
+    [
+        {
+            "title": "Performance Evaluation of Machine Learning-based Robocalls Detection Models in Telephony Networks",
+            "type": "Journal Article",
+            "year": 2022,
+            "doi": "10.5815/ijcnis.2022.06.04",
+            "lecturers": ["olagun12@oauife.edu.ng"]
+            },
+        {
+            "title": "Multi-Pipeline Sentiment Analysis for West-African Pigin",
+            "type": "Conference/Workshop Paper",
+            "year": 2023,
+            "doi": null,
+            "lecturers": ["olagun12@oauife.edu.ng"]
+        },
+        {
+            "title": "An Improved Data Clustering Algorithm for Mining Web Documents",
+            "type": "Conference Paper",
+            "year": 2010,
+            "doi": "10.1109/CISE.2010.5676720",
+            "lecturers": ["olagun12@oauife.edu.ng"]
+        },
+        {
+            "title": "Modelling and Simulation of a Smart Dustbin Management System: Case Study of Obafemi Awolowo University, Nigeria",
+            "type": "Journal Article",
+            "year": 2025,
+            "doi": null,
+            "lecturers": ["olagun12@oauife.edu.ng"]
+        }
+    ],
+
+    [
+    {
+    "title": "Digital Transformation of the Textile and Fashion Design Industry in the Global South: A Scoping Review",
+    "type": "Book chapter",
+    "doi": "10.1007/978-3-031-34896-9_24",
+    "year": 2024,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Mathematical Analysis of DDoS Attacks in SDN-based 5G",
+    "type": "Book chapter",
+    "doi": "10.1007/978-3-031-34896-9_7",
+    "year": 2024,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "AyoPeer: The adapted ayo-game for minimizing free riding in peer-assisted network",
+    "type": "Journal article",
+    "doi": "10.1007/s12083-020-00913-6",
+    "year": 2024,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Formal verification of a peer-to-peer streaming protocol",
+    "type": "Journal article",
+    "doi": "10.1016/j.jksuci.2018.08.008",
+    "year": 2024,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Dynamical Analysis of an Internet-Based Video System",
+    "type": "Journal article",
+    "doi": "10.1016/j.ifacol.2017.12.040",
+    "year": 2023,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "UStream: Ultra-Metric Spanning Overlay Topology for Peer-to-Peer Streaming Systems",
+    "type": "Conference paper",
+    "doi": "10.1109/ISM.2015.82",
+    "year": 2023,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Curvilinear red: An improved red algorithm for internet routers",
+    "type": "Conference paper",
+    "doi": "10.2316/P.2014.813-025",
+    "year": 2023,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Packet-level simulation of real-time video in slow-speed environment using ns-3",
+    "type": "Conference paper",
+    "doi": "10.2316/P.2014.813-024",
+    "year": 2022,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Analytical modelling of fluid credit congestion control scheme in MultiProtocol Label Switching (MPLS) networks",
+    "type": "Book",
+    "doi": "10.1007/978-3-642-29166-1_13",
+    "year": 2022,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Fuzzy-based simulation model to predict flow rate in water distribution network system",
+    "type": "Book",
+    "doi": "10.1007/978-3-642-29166-1_28",
+    "year": 2022,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "A distributed intrusion detection scheme for wireless sensor networks",
+    "type": "Conference paper",
+    "doi": "10.1109/EIT.2011.5978609",
+    "year": 2021,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Computational modeling of collaborative resources sharing in grid system",
+    "type": "Book",
+    "doi": "10.1007/978-3-642-19423-8_32",
+    "year": 2021,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "An e-business grid model architecture for small and medium scale enterprises",
+    "type": "Conference paper",
+    "doi": "10.1109/EIT.2010.5612186",
+    "year": 2021,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Developing a feedback model for managing congestion in packet switched wide area networks",
+    "type": "Conference paper",
+    "doi": "10.1007/978-90-481-9151-2-101",
+    "year": 2021,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "E-Speed start - A window based additive increase, multiplicative decrease network congestion control technique",
+    "type": "Conference paper",
+    "doi": "10.1007/978-90-481-9151-2-85",
+    "year": 2021,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Architectural model for wireless peer-to-peer (WP2P) file sharing for ubiquitous mobile devices",
+    "type": "Conference paper",
+    "doi": "10.1109/EIT.2009.5189580",
+    "year": 2021,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "An efficient host-to-host available bandwidth estimation scheme",
+    "type": "Conference paper",
+    "doi": null,
+    "year": 2021,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    },
+    {
+    "title": "Stochastic reward net end-to-end Quality of Service (QoS) simulation modeling across ATM network: Using the goodput model",
+    "type": "Conference paper",
+    "doi": "10.1049/ic:20040036",
+    "year": 2021,
+    "lecturers": ["aoluwato@oauife.edu.ng"]
+    }
+    ],
+
+    [
+        {
+      "title": "Enhancing Drug Recommender System for Peptic Ulcer Treatment",
+      "type": "Article",
+      "year": 2024,
+      "doi": "10.5815/ijitcs.2024.06.02",
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Extracting Features from App Store Reviews to Improve Requirements Analysis: Natural Language Processing and Machine Learning Approach",
+      "type": "Article",
+      "year": 2024,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Integrating Asymmetric Cryptographic Digital Wallet for Online Services in Nigeria",
+      "type": "Article",
+      "year": 2023,
+      "doi": "10.5815/ijieeb.2023.03.03",
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Drug Recommender Systems: A Review of State-of-the-Art Algorithms",
+      "type": "Conference Paper",
+      "year": 2022,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Mining Requirements and Design Documents in Software Repositories Using Natural Language Processing and Machine Learning Approaches",
+      "type": "Article",
+      "year": 2022,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Design Specification for an M-Health Solution to Improve Antenatal Care: Analytical and Technical Perspective",
+      "type": "Book Chapter",
+      "year": 2022,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Prognostic Model for the Risk of Coronavirus Disease (COVID-19) Using Fuzzy Logic Modeling",
+      "type": "Article",
+      "year": 2022,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Prognostic Model for the Risk of Coronavirus Disease (COVID-19) Using Fuzzy Logic Modeling",
+      "type": "Article",
+      "year": 2022,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "A Mathematical Approach to Healthcare Insurance Data Analytics",
+      "type": "Article",
+      "year": 2021,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Hybridized Ranking Model for Prioritizing Functional Software Requirements: Case Study Approach",
+      "type": "Article",
+      "year": 2021,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Mining Requirements and Design Documents in Software Repositories Using Natural Language Processing and Machine Learning Approaches",
+      "type": "Book Chapter",
+      "year": 2021,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Software Design Specification and Analysis of Insulin Dose to Adaptive Carbohydrate Algorithm for Type 1 Diabetic Patients",
+      "type": "Book Chapter",
+      "year": 2021,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Design of Mobile Appointment Reminder and Counselling System",
+      "type": "Article",
+      "year": 2014,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Trends in Multi-document Summarization System Methods",
+      "type": "Article",
+      "year": 2014,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Bridging the Gap in Modern Computing Infrastructures: Issues and Challenges of Data Warehousing and Cloud Computing",
+      "type": "Article",
+      "year": 2013,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "The Critical Need for Software Architecture Practices in Software Development Process",
+      "type": "Article",
+      "year": 2012,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "Formative Evaluation of Software Usability: A Case Study",
+      "type": "Conference Paper",
+      "year": 2010,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    },
+    {
+      "title": "E-Management Framework for Teaching Hospital Complexes in Developing Countries",
+      "type": "Article",
+      "year": 2010,
+      "doi": null,
+      "lecturers": ["tessydunbi@oauife.edu.ng"]
+    }
+        
+    ],
+
+    [
+    {
+      "title": "Enhancing Drug Recommender System for Peptic Ulcer Treatment",
+      "type": "Article",
+      "year": 2024,
+      "doi": "10.5815/ijitcs.2024.06.02",
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "Implementing Decision Support Tool for Low-Back Pain Diagnosis and Prediction",
+      "type": "Article",
+      "year": 2024,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "Integrating Asymmetric Cryptographic Digital Wallet for Online Services in Nigeria",
+      "type": "Article",
+      "year": 2023,
+      "doi": "10.5815/ijieeb.2023.03.03",
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "A Machine Learning Technique for Detection of Diabetes Mellitus",
+      "type": "Conference Paper",
+      "year": 2022,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "The Need for Robots in Global Health",
+      "type": "Article",
+      "year": 2022,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "Hybridized Ranking Model for Prioritizing Functional Software Requirements: Case Study Approach",
+      "type": "Article",
+      "year": 2021,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "Analysis and Design Process for Predicting and Controlling Blood Glucose in Type 1 Diabetic Patients",
+      "type": "Article",
+      "year": 2021,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "AN Investigative Process Model for Predicting Information Diffusion on Social Media",
+      "type": "Article",
+      "year": 2020,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "A Multi-Nodal Implementation of Apriori Algorithm Using MapReduce Framework",
+      "type": "Article",
+      "year": 2020,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "A Systematic Review of Swarm Robots",
+      "type": "Article",
+      "year": 2020,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "A Mathematical Approach to Healthcare Insurance Data Analytics",
+      "type": "Preprint/Article",
+      "year": 2020,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "Meta-Analysis of Fraud, Waste and Abuse Detection Methods in Healthcare",
+      "type": "Article",
+      "year": 2019,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "Prospects and Problems of Brain Computer Interface in Healthcare",
+      "type": "Article",
+      "year": 2018,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "Comparative Study of Disk-Resident vs Column-Oriented Technique for Healthcare Big Data Management",
+      "type": "Article",
+      "year": 2018,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "Factors Influencing the Use of Electronic Health Records Among Nurses",
+      "type": "Article",
+      "year": 2018,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "A Ranking Model for Software Requirements Prioritization",
+      "type": "Article",
+      "year": 2018,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "State Of The Art: A Study of Human-Robot Interaction in Healthcare",
+      "type": "Article",
+      "year": 2017,
+      "doi": "10.5815/ijieeb.2017.03.06",
+      "lecturers": ["rhodaikono@university.local"]
+    },
+    {
+      "title": "Engineering of a Student Advisory Management System: Development Perspective",
+      "type": "Article",
+      "year": 2016,
+      "doi": null,
+      "lecturers": ["rhodaikono@university.local"]
+    }
+    ],
+
+    [
+    {
+    "title": "Development of Two-factor Authentication Login System Using Dynamic Password with SMS Verification",
+    "type": "Journal Article",
+    "year": 2022,
+    "doi": "10.5815/ijeme.2022.03.02",
+    "lecturers": ["abimbolarhoda@university.local"]
+    },
+    {
+    "title": "Design and Implementation of Diagnosis System for Cardiomegaly from Clinical Chest X-ray Reports",
+    "type": "Journal Article",
+    "year": 2022,
+    "doi": "10.5815/ijem.2022.03.03",
+    "lecturers": ["abimbolarhoda@university.local"]
+    },
+    {
+    "title": "Students Conversation Management System",
+    "type": "Journal Article",
+    "year": 2018,
+    "doi": "10.5815/ijeme.2018.04.01",
+    "lecturers": ["abimbolarhoda@university.local"]
+    },
+    {
+    "title": "Predicting Student Academic Performance in Computer Science Courses: A Comparison of Neural Network Models",
+    "type": "Journal Article",
+    "year": 2018,
+    "doi": "10.5815/ijmecs.2018.06.01",
+    "lecturers": ["abimbolarhoda@university.local"]
+    },
+    {
+    "title": "Natural Language Processing in Artificial Intelligence with Practical Examples",
+    "type": "Book",
+    "year": 2024,
+    "doi": null,
+    "lecturers": ["abimbolarhoda@university.local"]
+    },
+    {
+    "title": "An Optimized Convolutional Neural Network Model for Detecting Depressive Symptoms from Image Posts",
+    "type": "Journal Article",
+    "year": 2024,
+    "doi": null,
+    "lecturers": ["abimbolarhoda@university.local"]
+    },
+    {
+    "title": "Design Issues in Sentiment Analysis for Yorùbá Written Text",
+    "type": "Journal Article",
+    "doi": null,
+    "year": 2024,
+    "lecturers": ["abimbolarhoda@university.local"]
+    }
+    ],
+
+    [
+    {
+      "title": "Network Monitoring System for Sniffing Attack Prevention in Wireless Communication Networks Using Secure Socket",
+      "type": "Chapter",
+      "year": 2025,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "A Real-Time Nature-Inspired Intrusion Detection in Virtual Environments: An Artificial Bees Colony Approach Based on Cloud Model",
+      "type": "Article",
+      "year": 2024,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Towards a Bio-inspired Real-Time Intrusion Detection in the Smart Grid",
+      "type": "Chapter",
+      "year": 2024,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "A Regeneration Model for Mitigation Against Attacks on HTTP Servers for Mobile Wireless Networks",
+      "type": "Article",
+      "year": 2024,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "CyberGrid: an IEC61850 protocol-based substation automation virtual cyber range for cybersecurity research in the smart grid",
+      "type": "Article",
+      "year": 2024,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "BotNet-Inspired HTTP-Based DDoS Attack Prevention Using Supervised Machine Learning Algorithms in Internet of Things Devices",
+      "type": "Conference Paper",
+      "year": 2024,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "A Torpor-based Enhanced Security Model for CSMA/CA Protocol in Wireless Networks",
+      "type": "Article",
+      "year": 2024,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Machine Learning Enabled Image Classification Using K-Nearest Neighbour and Learning Vector Quantization",
+      "type": "Chapter",
+      "year": 2024,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Artificial Intelligence-Enabled Deep Learning Model for Diabetes Prediction Using Deep Belief Network with Bayesian Optimization",
+      "type": "Conference Paper",
+      "year": 2023,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Artificial Intelligence-Based Model for Data Security and Mitigation Against SQL Injection Attacks in Web Applications",
+      "type": "Conference Paper",
+      "year": 2023,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Analysis of Syntactic Errors of Novice Python Programmers in a Nigeria University",
+      "type": "Chapter",
+      "year": 2023,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "A Prey-Predator Defence Mechanism For Ad Hoc On-Demand Distance Vector Routing Protocol",
+      "type": "Article",
+      "year": 2023,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Modelling Smart Grid Instability Against Cyber Attacks in SCADA System Networks",
+      "type": "Chapter",
+      "year": 2023,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Performance Evaluation of Machine Learning Models for Cyber Threat Detection and Prevention in Mobile Money Services",
+      "type": "Article",
+      "year": 2023,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "An ensemble deep learning approach for predicting cocoa yield",
+      "type": "Article",
+      "year": 2023,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "CyberSCADA Network Security Analysis Model for Intrusion Detection Systems in the Smart Grid",
+      "type": "Chapter",
+      "year": 2023,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "A Predictive Cyber Threat Model for Mobile Money Services",
+      "type": "Article",
+      "year": 2023,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Collaborative Defense Mechanism Against TCP Layer Three Attacks on Wireless Networks",
+      "type": "Preprint",
+      "year": 2023,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Development of Threat Hunting Model Using Machine Learning Algorithms for Cyber Attacks Mitigation",
+      "type": "Conference Paper",
+      "year": 2022,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "A Mobile Based Pharmacy Store Location-aware System",
+      "type": "Article",
+      "year": 2022,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "LWAs computational platform for e-consultation using mobile devices: Cases from developing nations",
+      "type": "Article",
+      "year": 2014,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Lightweight Agents, Intelligent Mobile Agent and RPC Schemes: A Comparative Analysis",
+      "type": "Article",
+      "year": 2011,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "Wireless DataProcessing Model in Hospital Environment: A Case Study of Obafemi Awolowo University Teaching Hospital",
+      "type": "Article",
+      "year": 2007,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    },
+    {
+      "title": "A Framework for Penetration of Information Communications Technology into Developing Countries for Manpower and Economic Development",
+      "type": "Article",
+      "year": 2006,
+      "doi": null,
+      "lecturers": ["eaolajubu@oauife.edu.ng"]
+    }
+    ],
+
+    [
+    {
+      "title": "Artificial intelligence-driven security framework for internet of things-enhanced digital twin networks",
+      "type": "Journal Article",
+      "year": 2025,
+      "lecturers": ["ipgambo@oauife.edu.ng"],
+      "doi": "10.1016/j.iot.2025.101564"
+    },
+    {
+      "title": "GRAD-AI: An automated grading tool for code assessment and feedback in programming course",
+      "type": "Journal Article",
+      "year": 2024,
+      "lecturers": ["ipgambo@oauife.edu.ng"],
+      "doi": "10.1007/s10639-024-11941-2"
+    },
+    {
+      "title": "Enhancing user trust and interpretability in AI-driven feature request detection for mobile app reviews",
+      "type": "Journal Article",
+      "year": 2024,
+      "lecturers": ["ipgambo@oauife.edu.ng"],
+      "doi": "10.1109/ACCESS.2024.3391287"
+    },
+    {
+      "title": "Reinforcement Learning in Financial Services: Modelling Payment Switching as a Multi-Armed Bandit Problem",
+      "type": "Journal Article",
+      "year": 2024,
+      "lecturers": ["ipgambo@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "Requirements Engineering Process of Recommender System for the Nigerian Stock Market using Machine Learning Approach",
+      "type": "Journal Article",
+      "year": 2024,
+      "lecturers": ["ipgambo@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "Process Control Modelling and Simulation of a Water Plants Storage Compartments",
+      "type": "Journal Article",
+      "year": 2020,
+      "lecturers": ["ipgambo@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "Software and Hardware Design Specifications for Quantifying Carbohydrate Contents in Food",
+      "type": "Journal Article",
+      "year": 2020,
+      "lecturers": ["ipgambo@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "Analysis and Classification of Requirements Specification for Web Application Development: A Case Study Approach",
+      "type": "Journal Article",
+      "year": 2020,
+      "lecturers": ["ipgambo@oauife.edu.ng", "olagun12@oauife.edu.ng", "eaolajubu@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "A Multi-Nodal Implementation of Apriori Algorithm for Big Data Analytics using MapReduce Framework",
+      "type": "Journal Article",
+      "year": 2020,
+      "lecturers": ["ipgambo@oauife.edu.ng", "rhodaikono@university.local", "hsoriyan@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "A Systematic Review of Swarm Robots",
+      "type": "Journal Article",
+      "year": 2020,
+      "lecturers": ["rhodaikono@university.local", "ipgambo@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "An Implementation Of A Repository For Healthcare Insurance Using MongoDB",
+      "type": "Journal Article",
+      "year": 2020,
+      "lecturers": ["ipgambo@oauife.edu.ng", "rhodaikono@university.local", "hsoriyan@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "A Mathematical Approach to Healthcare Insurance Data Analytics",
+      "type": "Preprint",
+      "year": 2020,
+      "lecturers": ["ipgambo@oauife.edu.ng", "rhodaikono@university.local", "hsoriyan@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "Comparative Effects of Clinic- and Virtual Reality-Based McKenzie Extension Therapy in Chronic Non-Specific Low-Back Pain",
+      "type": "Journal Article",
+      "year": 2019,
+      "lecturers": ["ipgambo@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "Prospects and Problems of Brain Computer Interface in Healthcare",
+      "type": "Journal Article",
+      "year": 2018,
+      "lecturers":["ipgambo@oauife.edu.ng", "rhodaikono@university.local"],
+      "doi": null
+    },
+    {
+      "title": "An Integrated Framework for Prioritizing Software Specifications in Requirements Engineering",
+      "type": "Journal Article",
+      "year": 2018,
+      "lecturers": ["ipgambo@oauife.edu.ng", "rhodaikono@university.local", "hsoriyan@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "Framework for Enhancing Requirements Engineering Processes: A Conceptual view of Health Information System",
+      "type": "Journal Article",
+      "year": 2014,
+      "lecturers": ["ipgambo@oauife.edu.ng", "rhodaikono@university.local", "hsoriyan@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "Interoperability in Healthcare: Benefits, Challenges and Resolutions",
+      "type": "Journal Article",
+      "year": 2013,
+      "lecturers":["ipgambo@oauife.edu.ng",  "hsoriyan@oauife.edu.ng"],
+      "doi": null
+    },
+    {
+      "title": "Engendering Quality Information Systems Development through Software Architectural Design",
+      "type": "Journal Article",
+      "year": 2012,
+      "lecturers":["ipgambo@oauife.edu.ng", "rhodaikono@university.local", "hsoriyan@oauife.edu.ng"],
+      "doi": null
+    }
+    ],
+    [
+  {
+    "title": "Formulation of A Computational Model for Predicting Drug Reactions Using Machine Learning",
+    "type": "Journal Article",
+    "year": 2023,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "A Mathematical Approach to Healthcare Insurance Data Analytics",
+    "type": "Journal Article",
+    "year": 2021,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "Design of a Data Analytics Model for National Health Insurance Scheme",
+    "type": "Journal Article",
+    "year": 2017,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "ICT implementation in the Nigerian healthcare system",
+    "type": "Magazine Article",
+    "year": 2017,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "A Schematic View of the Application of Big Data Analytics in Healthcare Crime Investigation",
+    "type": "Journal Article",
+    "year": 2017,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "An intelligent quality of service brokering model for e-commerce",
+    "type": "Journal Article",
+    "year": 2010,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "An adaptive fuzzy information retrieval model to improve response time perceived by e-commerce clients",
+    "type": "Journal Article",
+    "year": 2010,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "Activity analysis as a method for information systems development: General introduction and experiments from Nigeria and Finland",
+    "type": "Journal Article",
+    "year": 2000,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "Information systems development in a developing country: Theoretical analysis of special requirements in Nigeria and Africa",
+    "type": "Conference Paper",
+    "year": 2000,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "Information systems development as an activity",
+    "type": "Journal Article",
+    "year": 2002,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "Identifying software project risks in Nigeria: An international comparative study",
+    "type": "Journal Article",
+    "year": 2003,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  },
+  {
+    "title": "Community participation in health informatics in Africa: An experiment in tripartite partnership in Ile-Ife, Nigeria",
+    "type": "Journal Article",
+    "year": 1998,
+    "doi": null,
+    "lecturers": ["hsoriyan@oauife.edu.ng"]
+  }
+    ],
+
+    [
+  {
+    "title": "Cloud computing in construction industry: Use cases, benefits and challenges",
+    "type": "Journal Article",
+    "year": 2021,
+    "doi": "10.1016/j.autcon.2020.103441",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Salvaging building materials in a circular economy: A BIM-based whole-life performance estimator",
+    "type": "Journal Article",
+    "year": 2018,
+    "doi": "10.1016/j.resconrec.2017.10.028",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Waste minimisation through deconstruction: A BIM based Deconstructability Assessment Score (BIM-DAS)",
+    "type": "Journal Article",
+    "year": 2015,
+    "doi": "10.1016/j.resconrec.2015.09.020",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Design for Deconstruction (DfD): Critical success factors for diverting end-of-life waste from landfills",
+    "type": "Journal Article",
+    "year": 2017,
+    "doi": "10.1016/j.wasman.2016.12.026",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Big data architecture for construction waste analytics (CWA): A conceptual framework",
+    "type": "Journal Article",
+    "year": 2016,
+    "doi": "10.1016/j.jobe.2016.02.002",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Conversational artificial intelligence in the AEC industry: A review of present status, challenges and opportunities",
+    "type": "Journal Article",
+    "year": 2023,
+    "doi": "10.1016/j.aei.2023.101869",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Performance evaluation of deep learning and boosted trees for cryptocurrency closing price prediction",
+    "type": "Journal Article",
+    "year": 2023,
+    "doi": "10.1016/j.eswa.2022.119233",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Computer vision and IoT research landscape for health and safety management on construction sites",
+    "type": "Journal Article",
+    "year": 2023,
+    "doi": "10.1016/j.jobe.2023.107049",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "A deep learning approach to concrete water-cement ratio prediction",
+    "type": "Journal Article",
+    "year": 2022,
+    "doi": "10.1016/j.rinma.2021.100300",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "A distributed intrusion detection scheme for wireless sensor networks",
+    "type": "Conference Paper",
+    "year": 2011,
+    "doi": "10.1109/EIT.2011.5978593",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Cloud utility price models",
+    "type": "Conference Paper",
+    "year": 2013,
+    "doi": "10.5220/0004432803170320",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Development of computational models for the production of fermented African locust beans using petri net",
+    "type": "Journal Article",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Flexible Pricing Models for Cloud Services",
+    "type": "Journal Article",
+    "year": 2014,
+    "doi": null,
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "A proposed criteria for evaluating cloud based systems",
+    "type": "Journal Article",
+    "year": 2014,
+    "doi": null,
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Cloud resource price system",
+    "type": "Conference Paper",
+    "year": 2014,
+    "doi": null,
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "A low cost course information syndication system",
+    "type": "Journal Article",
+    "year": 2011,
+    "doi": null,
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "An improved packet resequencing model for selective repeat request protocol in data communication networks",
+    "type": "Conference Paper",
+    "year": 2007,
+    "doi": "10.1109/ISCC.2007.4381548",
+    "lecturers": ["sururah.bello@university.local"]
+  },
+  {
+    "title": "Cloud computing for chatbot in the construction industry: An implementation framework for conversational-BIM voice assistant",
+    "type": "Journal Article",
+    "year": 2025,
+    "doi": "10.1016/j.digeng.2025.100031",
+    "lecturers": ["sururah.bello@university.local"]
+  }
+    ],
+
+    
+    [
+    {
+      "title": "Performance Evaluation of Machine Learning-based Robocalls Detection Models in Telephony Networks",
+      "type": "Journal Article",
+      "year": 2022,
+      "doi": "10.5815/ijcnis.2022.06.04",
+      "lecturers": ["msanni@oauife.edu.ng"]
+    },
+    {
+      "title": "A Computational Modelling and Design of the ADIRE Making Process using Modular Petri Net",
+      "type": "Conference Paper",
+      "year": 2010,
+      "doi": null,
+      "lecturers": ["msanni@oauife.edu.ng"]
+    }
+    ],
+
+    [
+  {
+    "title": "Result of Users' Evaluation of the Developed System",
+    "type": "Article",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["odetunji.odejobi@university.local"]
+  },
+  {
+    "title": "An Evaluation of a Language Processor for an African Native Language-based Programming Language",
+    "type": "Article",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["odetunji.odejobi@university.local"]
+  },
+  {
+    "title": "Deploying Nigerian Indigenous Languages Based Technology for Education in Sustainable Development",
+    "type": "Conference Paper",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["odetunji.odejobi@university.local"]
+  },
+  {
+    "title": "Design and implementation of an African native language-based programming language",
+    "type": "Article",
+    "year": 2021,
+    "doi": null,
+    "lecturers": ["odetunji.odejobi@university.local"]
+  },
+  {
+    "title": "Computational modelling of selected E-waste recycling process",
+    "type": "Article",
+    "year": 2020,
+    "doi": null,
+    "lecturers": ["odetunji.odejobi@university.local"]
+  },
+  {
+    "title": "The character and evolution of E-waste in Nigeria",
+    "type": "Article",
+    "year": 2020,
+    "doi": null,
+    "lecturers": ["odetunji.odejobi@university.local"]
+  },
+  {
+    "title": "A Needs Assessment For Indigenous African Language-Based Programming Languages",
+    "type": "Article",
+    "year": 2019,
+    "doi": null,
+    "lecturers": ["odetunji.odejobi@university.local"]
+  },
+  {
+    "title": "Towards Development of an Indigenous African Language-based Programming Language",
+    "type": "Article",
+    "year": 2018,
+    "doi": null,
+    "lecturers": ["odetunji.odejobi@university.local"]
+  },
+  {
+    "title": "Development of an English to Yorùbá Machine Translator",
+    "type": "Article",
+    "year": 2016,
+    "doi": "10.5815/ijmecs.2016.11.02",
+    "lecturers": ["odetunji.odejobi@university.local"]
+  },
+  {
+    "title": "Computational Modelling Techniques for Short-Term Electric Load Forecasting",
+    "type": "Article",
+    "year": 2015,
+    "doi": null,
+    "lecturers": ["odetunji.odejobi@university.local"]
+  },
+  {
+    "title": "Development of Grapheme-to-Phoneme Conversion System for Yorùbá Text-to-Speech Synthesis",
+    "type": "Article",
+    "year": 2014,
+    "doi": null,
+    "lecturers": ["odetunji.odejobi@university.local"]
+  }
+    ],
+
+    [
+  {
+    "title": "Big Data Oriented Soft-Technologies and ICT Management",
+    "type": "Article",
+    "year": 2024,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "Transition from Observation to Knowledge to Intelligence: The Web Analytics Framework: An Integrated User-centric Evaluative Tool",
+    "type": "Conference Paper",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "A Hybrid Software Test Automation for Educational Portals",
+    "type": "Preprint",
+    "year": 2021,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "Towards an Architecture-based Ensemble Methods for Online Social Network Sensitive Data Privacy Protection",
+    "type": "Article",
+    "year": 2021,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "Semantic Medical Image Analysis: An Alternative to Cross-Domain Transfer Learning",
+    "type": "Book Chapter",
+    "year": 2021,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "Effectiveness of a Mobile-Health Intervention on Uptake of Recommended Postnatal Care Services in Nigeria",
+    "type": "Article",
+    "year": 2020,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "Conflict Resolution: Analysis of Existing Theories and Resolution Strategies in Relation to Face Recognition",
+    "type": "Article",
+    "year": 2019,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "Towards a Job Recommender Model: An Architectural-Based Approach",
+    "type": "Article",
+    "year": 2019,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "An Explorative Survey of Image Enhancement Techniques Used in Mammography",
+    "type": "Article",
+    "year": 2019,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "Optimisation of Point-Set Matching Model for Robust Fingerprint Verification in Changing Weather Conditions",
+    "type": "Article",
+    "year": 2019,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "Towards a Domain-Specific Deep Learning Models for Medical Image Analysis",
+    "type": "Preprint",
+    "year": 2020,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  },
+  {
+    "title": "Design and Implementation of a University-Based Information Service Centre with SMS Notification (OAU Case Study)",
+    "type": "Article",
+    "year": 2010,
+    "doi": null,
+    "lecturers": ["babajide.afolabi@oauife.edu.ng"]
+  }
+    ],
+
+    [
+  {
+    "title": "A Comparative Analysis and Review of Techniques for African Facial Image Processing",
+    "type": "Article",
+    "year": 2024,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Performance Evaluation of Bandwidth Optimization in IPv6 Header Compression",
+    "type": "Article",
+    "year": 2022,
+    "doi": "10.29121/ijoest.v6.i6.2022.399",
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "DDoS Attacks Detection in the IoT Using Deep Gaussian-Bernoulli RBM",
+    "type": "Article",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "An Architectural Framework for Facebook Messenger Chatbot-Enabled Home Appliance Control System",
+    "type": "Chapter",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Toward a More Robust Home Automated System: Introducing a Voice Activation Technique via Pubnub",
+    "type": "Chapter",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Unsupervised Deep Architecture for Forecast of a Tropical Electricity Load",
+    "type": "Article",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Gesture Recognition System for Nigerian Tribal Greeting Postures Using SVM",
+    "type": "Article",
+    "year": 2020,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "A Deep Learning Model for Electricity Demand Forecasting Based on a Tropical Data",
+    "type": "Article",
+    "year": 2020,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Web-Based Automatic Soil Chemical Contents Monitoring System",
+    "type": "Chapter",
+    "year": 2020,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "An Overview of Deep Learning Techniques for Short-Term Electricity Load Forecasting",
+    "type": "Article",
+    "year": 2019,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Cloud-Based Intelligent Toll Collection System for Smart Cities",
+    "type": "Chapter",
+    "year": 2018,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Two-State Markov Chain Based Predictive Model for Cognitive Radio Spectrum Availability",
+    "type": "Conference Paper",
+    "year": 2016,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Wireless Network Security: The Mobile Agent Approach",
+    "type": "Article",
+    "year": 2013,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Proxy Server Experiment and Network Security with Changing Nature of the Web",
+    "type": "Article",
+    "year": 2014,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Development of a Non-Intrusive Network Traffic Monitoring and Analysis System",
+    "type": "Article",
+    "year": 2006,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Architectural Model for Wireless Peer-to-Peer (WP2P) File Sharing for Ubiquitous Mobile Devices",
+    "type": "Article",
+    "year": 2008,
+    "doi": null,
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  },
+  {
+    "title": "Design and Implementation of a University-Based Information Service Centre with SMS Notification",
+    "type": "Conference Paper",
+    "year": 2013,
+    "doi": "10.4314/jcsia.v17i2.67566",
+    "lecturers": ["adenirani.oluwaranti@university.local"]
+  }
+    ],
+
+    [
+  {
+    "title": "Development of a Web Based Environmental Health Tracking System for Nigeria",
+    "type": "Journal Article",
+    "year": 2012,
+    "doi": "10.5815/ijitcs.2012.07.08",
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "Analysis and Classification of Requirements Specification for Web Application Development: A Case Study Approach",
+    "type": "Article",
+    "year": 2020,
+    "doi": null,
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "A Survey of Approaches to Diacritic Restoration",
+    "type": "Preprint",
+    "year": 2018,
+    "doi": null,
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "Restoring Tone-Marks in Standard Yorùbá Electronic Text: Improved Model",
+    "type": "Article",
+    "year": 2017,
+    "doi": null,
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "Assessment of Measures for Information Retrieval System Evaluation: A User-centered Approach",
+    "type": "Journal Article",
+    "year": 2011,
+    "doi": "10.5120/3046-4138",
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "SMS User Interface Result Checking System",
+    "type": "Conference Paper",
+    "year": 2009,
+    "doi": null,
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "Development of Collaborative E-Learning System",
+    "type": "Conference Paper",
+    "year": 2011,
+    "doi": null,
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "WiMAX Guard Channel Performance Improvement via Dynamic Allocation",
+    "type": "Conference Paper",
+    "year": 2016,
+    "doi": null,
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "Distributed Intrusion Detection Scheme for Wireless Sensor Networks",
+    "type": "Conference Paper",
+    "year": 2011,
+    "doi": null,
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "Improved Data Clustering Algorithm for Mining Web Documents",
+    "type": "Conference Paper",
+    "year": 2010,
+    "doi": null,
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "E-business Grid Model Architecture for SMEs",
+    "type": "Conference Paper",
+    "year": 2010,
+    "doi": null,
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  },
+  {
+    "title": "Assessment of E-governance Resource Use in South-Western Nigeria",
+    "type": "Conference Paper",
+    "year": 2008,
+    "doi": null,
+    "lecturers": ["eadagun@oauife.edu.ng"]
+  }
+    ],
+
+    [
+  {
+    "title": "Improving the response time of online buyers in Nigeria: The way forward",
+    "type": "Journal Article",
+    "year": 2008,
+    "doi": null,
+    "lecturers": ["gaderoun@oauife.edu.ng"]
+  },
+  {
+    "title": "Problems of engineering education and training in developing countries: Nigeria as a case study",
+    "type": "Journal Article",
+    "year": 2002,
+    "doi": "10.1080/03043790210166677",
+    "lecturers": ["gaderoun@oauife.edu.ng"]
+  },
+  {
+    "title": "An adaptive fuzzy information retrieval model to improve response time perceived by e-commerce clients",
+    "type": "Journal Article",
+    "year": 2010,
+    "doi": "10.1016/j.eswa.2009.05.016",
+    "lecturers": ["gaderoun@oauife.edu.ng"]
+  },
+  {
+    "title": "Performance comparison of remote procedure calling and mobile agent approach to control and data transfer in distributed computing environment",
+    "type": "Journal Article",
+    "year": 2004,
+    "doi": "10.1016/S1084-8045(03)00038-4",
+    "lecturers": ["gaderoun@oauife.edu.ng"]
+  },
+  {
+    "title": "A predictive cyber threat model for mobile money services",
+    "type": "Journal Article",
+    "year": 2023,
+    "doi": "10.33166/AETiC.2023.01.004",
+    "lecturers": ["gaderoun@oauife.edu.ng"]
+  },
+  {
+    "title": "An improved bio-inspired based intrusion detection model for a cyberspace",
+    "type": "Journal Article",
+    "year": 2021,
+    "doi": "10.1080/23311916.2020.1859667",
+    "lecturers": ["gaderoun@oauife.edu.ng"]
+  },
+  {
+    "title": "Trust: A requirement for cloud technology adoption",
+    "type": "Journal Article",
+    "year": 2015,
+    "doi": "10.14569/IJACSA.2015.060802",
+    "lecturers": ["gaderoun@oauife.edu.ng"]
+  },
+  {
+    "title": "Chaos Detection and Mitigation in Swarm of Drones Using Machine Learning Techniques and Chaotic Attractors",
+    "type": "Journal Article",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["gaderoun@oauife.edu.ng"]
+  },
+  {
+    "title": "Performance Evaluation of Machine Learning-based Robocalls Detection Models in Telephony Networks",
+    "type": "Journal Article",
+    "year": 2022,
+    "doi": "10.5815/ijcnis.2022.06.04",
+    "lecturers": ["gaderoun@oauife.edu.ng"]
+  },
+  {
+    "title": "An Improved Machine Learning-Based Short Message Service Spam Detection System",
+    "type": "Journal Article",
+    "year": 2019,
+    "doi": "10.5815/ijcnis.2019.12.05",
+    "lecturers": ["gaderoun@oauife.edu.ng"]
+  }
+    ],
+
+    [
+  {
+    "title": "Performance Evaluation of Fake News Detection Models",
+    "type": "Journal Article",
+    "year": 2024,
+    "doi": "10.5815/ijitcs.2024.06.07",
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "Prediction Models for Diabetes Mellitus Incidence",
+    "type": "Journal Article",
+    "year": 2020,
+    "doi": "10.5815/ijitcs.2020.04.04",
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "Development of a Dataset for Multimodal Fashion Recommender Models",
+    "type": "Journal Article",
+    "year": 2023,
+    "doi": "10.5120/ijca2023922971",
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "Fuzzy K-Nearest Neighbour Model for Choice of Career Path for Upper Basic School Students",
+    "type": "Journal Article",
+    "year": 2020,
+    "doi": "10.5815/ijeme.2020.04.03",
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "Bridging the gap in modern computing infrastructures: Issues and challenges of data warehousing and cloud computing",
+    "type": "Journal Article",
+    "year": 2014,
+    "doi": null,
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "A Mobile Portal Architecture for Higher Educational Institutions",
+    "type": "Journal Article",
+    "year": 2012,
+    "doi": null,
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "Performance Evaluation of a Classification Model for Oral Tumor Diagnosis",
+    "type": "Journal Article",
+    "year": 2019,
+    "doi": null,
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "Modeling & Simulation of a Predictive Customer Churn Model for Telecommunication Industry",
+    "type": "Journal Article",
+    "year": 2015,
+    "doi": null,
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "An Integrated Approach to Research Paper and Expertise Recommendation in Academic Research",
+    "type": "Journal Article",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "Digital transformation of the textile and fashion design industry in the global south: a scoping review",
+    "type": "Conference Paper",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "A predictive fuzzy expert system for diagnosis of cassava plant diseases",
+    "type": "Journal Article",
+    "year": 2015,
+    "doi": null,
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "Fraud detection in telecommunications industry: bridging the gap with random rough subspace based neural network ensemble method",
+    "type": "Journal Article",
+    "year": 2015,
+    "doi": null,
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  },
+  {
+    "title": "Development of a Primary Health Centre Data Warehouse System for Disease Management in Developing Countries",
+    "type": "Conference Paper",
+    "year": 2007,
+    "doi": null,
+    "lecturers": ["iawoyelu@oauife.edu.ng"]
+  }
+    ],
+  
+    [
+    {
+    "title": "Development of an English to Yorùbá Machine Translator",
+    "type": "Journal Article",
+    "year": 2016,
+    "doi": "10.5815/ijmecs.2016.11.02",
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Computational Morphological Analysis of Yorùbá Language Words",
+    "type": "Journal Article",
+    "year": 2018,
+    "doi": "10.11591/ijai.v7.i1.pp11-18",
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Development of an English to Yorùbá Machine Translation System for Yorùbá Verbs’ Tone Changing",
+    "type": "Journal Article",
+    "year": 2015,
+    "doi": "10.5120/ijca2015907007",
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Development of an Interactive Hausa Language Learning System",
+    "type": "Journal Article",
+    "year": 2017,
+    "doi": "10.5120/ijca2017915340",
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Deploying Nigerian Indigenous Languages Based Technology for Education in Sustainable Development",
+    "type": "Conference Paper",
+    "year": 2022,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Design and Implementation of English To Yoruba Verb Phrase Machine Translation System",
+    "type": "Conference Paper",
+    "year": 2021,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Development of a Machine Translation System for Date Referencing in Yoruba Language",
+    "type": "Journal Article",
+    "year": 2019,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Development of a Yorùbá Arithmetic Multimedia Learning System",
+    "type": "Journal Article",
+    "year": 2017,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Web-Based Yorùbá Numeral Translation System",
+    "type": "Journal Article",
+    "year": 2017,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Development of a Prepositional Phrase Machine Translation System",
+    "type": "Journal Article",
+    "year": 2016,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Development of a Verb Group Machine Translation System",
+    "type": "Journal Article",
+    "year": 2016,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Development of English to Hausa Machine Translation System",
+    "type": "Journal Article",
+    "year": 2016,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Word Sense Disambiguation In English To Yorùbá Machine Translation System",
+    "type": "Journal Article",
+    "year": 2015,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "English to Yorùbá Machine Translation System using Rule-Based Approach",
+    "type": "Journal Article",
+    "year": 2015,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "A Novel Security Protocol for Incentive Schemes",
+    "type": "Journal Article",
+    "year": 2015,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Towards a Model of E-Learning in Nigerian Higher Institutions: An Evolutionary Software Modeling Approach",
+    "type": "Journal Article",
+    "year": 2012,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Prediction of Oil and Gas Reservoir Properties using Support Vector Machines",
+    "type": "Conference Paper",
+    "year": 2011,
+    "doi": "10.2523/IPTC-14514-MS",
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "Performance Analysis of Metro Ethernet Network (MEN) Services over Asynchronous Transfer Mode (ATM)",
+    "type": "Journal Article",
+    "year": 2011,
+    "doi": null,
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "A User Identity Management Protocol for Cloud Computing Paradigm",
+    "type": "Journal Article",
+    "year": 2011,
+    "doi": "10.4236/IJCNS.2011.43019",
+    "lecturers": ["safiriyue@yahoo.com"]
+    },
+    {
+    "title": "A Load Balancing Policy for Distributed Web Service",
+    "type": "Journal Article",
+    "year": 2010,
+    "doi": "10.4236/IJCNS.2010.38087",
+    "lecturers": ["safiriyue@yahoo.com"]
+    }
+    ],
+
+    [
+    {
+    "title": "An Overview of Deep Learning Techniques for Short-Term Electricity Load Forecasting",
+    "type": "Journal Article",
+    "year": 2019,
+    "doi": null,
+    "lecturers": ["alawal@oauife.edu.ng"]
+    },
+    {
+    "title": "Palm Vein Recognition System Based on Derived Pattern and Feature Vectors",
+    "type": "Journal Article",
+    "year": 2017,
+    "doi": null,
+    "lecturers": ["alawal@oauife.edu.ng"]
+    },
+    {
+    "title": "Evaluating Robustness of LLMs to Typographical Noise in Yorùbá QA",
+    "type": "Conference Paper",
+    "year": 2024,
+    "doi": null,
+    "lecturers": ["alawal@oauife.edu.ng"]
+    }
+    ],
+
+    [
+    {
+    "title": "Investigation of Feature Characteristics for Yoruba Named Entity Recognition System",
+    "type": "Conference Paper",
+    "year": 2019,
+    "doi": null,
+    "lecturers": ["taiwoonifade17@gmail.com"]
+    },
+    {
+    "title": "Spelling Error Pattern in Typed Yoruba Text Documents",
+    "type": "Journal Article",
+    "year": 2020,
+    "doi": "10.5815/ijieeb.2020.06.03",
+    "lecturers": ["taiwoonifade17@gmail.com"]
+    },
+    {
+    "title": "Diacritic-aware Yorùbá Spell Checker",
+    "type": "Journal Article",
+    "year": 2023,
+    "doi": "10.7494/csci.2023.24.1.4494",
+    "lecturers": ["taiwoonifade17@gmail.com"]
+    },
+    {
+    "title": "Vdetekt: Synchronous Vulnerability Detection Plugin for Android Studio",
+    "type": "Journal Article",
+    "year": 2023,
+    "doi": null,
+    "lecturers": ["taiwoonifade17@gmail.com"]
+    },
+    {
+    "title": "A Systematic Review of Spelling Corrector for African Languages",
+    "type": "Review Article",
+    "year": 2023,
+    "doi": null,
+    "lecturers": ["taiwoonifade17@gmail.com"]
+    }
+    ]
+    
+]
