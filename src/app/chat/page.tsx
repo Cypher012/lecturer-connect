@@ -16,14 +16,15 @@ export default function ChatPage() {
     sendMessage,
     handleKeyPress,
     messageEndRef,
+    clearMessages
   } = useChat()
 
   const suggestionMockData = [
-    "Who is Dr. Afolabi?",
-    "What topics does Dr. Afolabi research?",
+    "What is Engr Gbadebo research focus",
+    "What topics does Prof Ayodeji research?",
     "How can I contact Dr. Lawal?",
     "What courses does Engr. Ajayi teach?",
-    "Tell me about Dr. Gambo work.",
+    "Tell me about Dr. Gambo.",
   ]
 
   const handleSuggestionClick = (suggestion: string) => {
@@ -33,7 +34,7 @@ export default function ChatPage() {
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1 w-full flex flex-col">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex-1 w-full flex flex-col">
         {/* Header */}
         <div className="text-center mb-6">
           <div className="flex items-center justify-center space-x-3 mb-3">
@@ -65,7 +66,7 @@ export default function ChatPage() {
                 }`}
               >
                 <div
-                  className={`flex items-end space-x-3 max-w-[80%] ${
+                  className={`flex items-end space-x-3 sm:max-w-[80%] ${
                     message.type === "user"
                       ? "flex-row-reverse space-x-reverse"
                       : ""
@@ -73,23 +74,23 @@ export default function ChatPage() {
                 >
                   {/* Avatar */}
                   <div
-                    className={`flex-shrink-0 w-9 h-9 rounded-full flex items-center justify-center shadow-sm ${
+                    className={`flex-shrink-0 h-6 w-6 sm:w-9 sm:h-9 rounded-full flex items-center justify-center shadow-sm ${
                       message.type === "user"
                         ? "bg-primary text-primary-foreground"
                         : "bg-muted"
                     }`}
                   >
                     {message.type === "user" ? (
-                      <User className="h-4 w-4" />
+                      <User className="h-3 w-3 sm:h-4 sm:w-4" />
                     ) : (
-                      <Bot className="h-4 w-4 text-primary" />
+                      <Bot className="h-3 w-3 sm:h-4 sm:w-4 text-primary" />
                     )}
                   </div>
 
                   {/* Bubble */}
                   <div className="flex-1">
                     <div
-                      className={`rounded-2xl px-4 py-3 shadow-sm text-sm leading-relaxed ${
+                      className={`rounded-2xl px-2 py-2 sm:px-4 sm:py-3 shadow-sm text-sm leading-relaxed ${
                         message.type === "user"
                           ? "bg-primary text-primary-foreground"
                           : "bg-muted text-foreground"
@@ -151,6 +152,7 @@ export default function ChatPage() {
               >
                 <Send className="h-4 w-4" />
               </Button>
+             
             </div>
 
             {/* Suggestions */}
@@ -167,6 +169,16 @@ export default function ChatPage() {
                   {suggestion}
                 </Button>
               ))}
+            </div>
+            <div className="flex justify-end">
+            <Button
+                onClick={clearMessages}
+                disabled={messages.length < 1}
+                className="rounded-xl"
+                variant={"destructive"}
+              >
+                Clear Chat
+              </Button>
             </div>
           </div>
         </Card>

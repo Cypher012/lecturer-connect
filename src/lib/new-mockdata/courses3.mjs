@@ -50,7 +50,7 @@ export const data = [
   },
 
   {
-    course_code: "CSC302",
+    course_code: "CSC315",
     course_title: "Data Structure and Analysis of Algorithms",
     departments: [dept.se, dept.cse, dept.csc],
   },

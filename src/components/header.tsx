@@ -124,16 +124,16 @@ export function Header() {
         {isMenuOpen && (
           <div className="lg:hidden py-4 border-t border-primary-foreground/20">
             <nav className="flex flex-col space-y-4">
-              <Link href="/" className="hover:text-accent transition-colors">
+              <Link  href="/" onClick={() => setIsMenuOpen(false)} className="hover:text-accent transition-colors">
                 Home
               </Link>
-              <Link href="/lecturers" className="hover:text-accent transition-colors">
+              <Link  href="/lecturers" onClick={() => setIsMenuOpen(false)} className="hover:text-accent transition-colors">
                 Lecturers
               </Link>
-              <Link href="/departments" className="hover:text-accent transition-colors">
+              <Link  href="/departments" onClick={() => setIsMenuOpen(false)} className="hover:text-accent transition-colors">
                 Departments
               </Link>
-              <Link href="/chat" className="hover:text-accent transition-colors">
+              <Link  href="/chat" onClick={() => setIsMenuOpen(false)} className="hover:text-accent transition-colors">
                 Chat
               </Link>
 

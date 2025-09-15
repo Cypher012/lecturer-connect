@@ -102,6 +102,14 @@ export function useChat() {
     }
   };
 
+  const clearMessages = () => {
+    // clear React state
+    setMessages([])
+    // clear sessionStorage
+    sessionStorage.removeItem("chat_history")
+  }
+  
+
   const handleKeyPress = (e: React.KeyboardEvent) => {
     if (e.key === "Enter" && !e.shiftKey) {
       e.preventDefault();
@@ -117,5 +125,6 @@ export function useChat() {
     sendMessage,
     handleKeyPress,
     messageEndRef,
+    clearMessages
   };
 }
