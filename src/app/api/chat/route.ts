@@ -74,7 +74,7 @@ export async function GET(req: NextRequest) {
           // 2. Search Pinecone
           const searchResponse = await pineconeIndex.query({
             vector: embedding.data[0].embedding,
-            topK: 4,
+            topK: 5,
             includeMetadata: true,
           });
 
@@ -92,8 +92,8 @@ export async function GET(req: NextRequest) {
             model: OPENAI_MODEL,
             stream: true,
             messages: [
-              {role: "assistant", content: SystemPrompt(contextText)},
-              { role: "user", content: LecturerAIPrompt(latest.data) },
+              {role: "assistant", content: SystemPrompt()},
+              { role: "user", content: LecturerAIPrompt(latest.data, contextText)},
             ],
           });
 
