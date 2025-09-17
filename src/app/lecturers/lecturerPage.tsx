@@ -48,7 +48,6 @@ export default function LecturersPage({initialLecturers}: {initialLecturers: Lec
     // Apply search filter
     if (searchQuery.trim()) {
       filtered = searchLecturers(searchQuery, lecturers)
-      console.log({filtered})
     }
 
     // Apply department filter

@@ -7,7 +7,7 @@ import seedPublications from "./seed/publication"
 
 async function main() {
   // await SeedDepartments()
-  // await SeedCourses()
+  await SeedCourses()
   await SeedLecturers()
   await seedPublications()
   

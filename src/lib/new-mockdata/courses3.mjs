@@ -12,6 +12,11 @@ export const data = [
     course_title: "Low Level Languages",
     departments: [dept.se, dept.cse, dept.csc],
   },
+  {
+    course_code: "CSC302",
+    course_title: "Object-Oriented Programming",
+    departments: [dept.cse, dept.csc],
+  },
 
   {
     course_code: "CSC305",

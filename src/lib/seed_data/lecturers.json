@@ -26,13 +26,13 @@
     ],
     "linkedin_url": "https://www.linkedin.com/in/t%C3%A8m%C3%ADt%C3%B3p%C3%A9-%C3%A0j%C3%A0y%C3%AD-a8b22654",
     "personal_website": null,
-    "courses_taught": ["CPE203", "CPE204"]
+    "courses_taught": ["CPE203", "CPE204", "CPE301", "CPE405"]
   },
   {
-    "full_name": "Engr. Rotimi (Alagbe) Gbadebo",
+    "full_name": "Engr. Rotimi A. Gbadebo",
     "title": "Lecturer",
     "departmentId": "cse",
-    "email": "rotimi.gbadebo@university.local",
+    "email": "oluwarotimi@oauife.edu.ng",
     "phone": null,
     "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877985/engr_gbadebo_aoxfib.jpg",
     "orcid": null,
@@ -54,7 +54,7 @@
     ],
     "linkedin_url": "https://www.linkedin.com/in/rotimi-gbadebo",
     "personal_website": null,
-    "courses_taught": ["CSC101","CSC102" ,"CPE203", "CPE204"]
+    "courses_taught": ["CSC101","CSC102" ,"CPE203", "CPE204", "CPE301", "CPE405", "CPE502"]
   },
   {
     "full_name": "Mrs. Olujoke (Mubo) Oni",
@@ -110,8 +110,8 @@
     "courses_taught": ["CPE301", "CPE401"]
   },
   {
-  "full_name": "Bodunde Olofin Akinyemi",
-  "title": "Senior Lecturer",
+  "full_name": "Prof. Bodunde Olofin Akinyemi",
+  "title": "professor",
   "departmentId": "csc",
   "email": "bodundeolofin@univeristy.local",
   "phone": "",
@@ -140,7 +140,7 @@
   "personal_website": ""
 },
 {
-    "full_name": "Oluwatoyin H. Odukoya",
+    "full_name": "Mrs. Oluwatoyin H. Odukoya",
   "title": "Lecturer I",
   "departmentId": "se",
   "email": "olagun12@oauife.edu.ng",
@@ -162,7 +162,7 @@
   "personal_website": ""
 },
 {
-    "full_name": "Theresa Olubukola Omodunbi",
+    "full_name": "Mrs. Theresa Olubukola Omodunbi",
     "title": "Lecturer",
     "departmentId": "is",
     "email": "tessydunbi@oauife.edu.ng",
@@ -189,8 +189,8 @@
     "personal_website": ""
 },
 {
-  "full_name": "Rhoda N. Ikono",
-  "title": "Professor",
+  "full_name": "Prof. Rhoda N. Ikono",
+  "title": "HOD of Informations systems",
   "departmentId": "is",
   "email": "rhodaikono@university.local",
   "phone": "",
@@ -219,8 +219,8 @@
   ]
 },
 {
-  "full_name": "Abimbola Rhoda Iyanda",
-  "title": "Senior Lecturer",
+  "full_name": "Dr. Abimbola Rhoda Iyanda",
+  "title": "Reader",
   "departmentId": "is",
   "email": "abimbolarhoda@university.local",
   "phone": "",
@@ -253,8 +253,8 @@
   "personal_website": "https://scholar.google.com/citations?user=d7o3MH8AAAAJ&hl=en"
 },
 {
-  "full_name": "Emmanuel Ajayi Olajubu",
-  "title": "Professor",
+  "full_name": "Prof. Emmanuel Ajayi Olajubu",
+  "title": "Active dean - Department of computer science and cybersecurity",
   "departmentId": "csc",
   "email": "eaolajubu@oauife.edu.ng",
   "phone": "",
@@ -283,8 +283,8 @@
   ]
 },
 {
-  "full_name": "Ishaya P. Gambo",
-  "title": "Senior Lecturer",
+  "full_name": "Dr. Ishaya P. Gambo",
+  "title": "HOD of Software Engineering",
   "departmentId": "se",
   "email": "ipgambo@oauife.edu.ng",
   "phone": "",
@@ -317,7 +317,7 @@
   ]
 },
 {
-  "full_name": "Abimbola Hettie Soriyan",
+  "full_name": "Prof. Abimbola Hettie Soriyan",
   "title": "Professor",
   "departmentId": "is",
   "email": "hsoriyan@oauife.edu.ng",
@@ -347,8 +347,8 @@
   ]
 },
 {
-  "full_name": "Sururah Apinke Bello",
-  "title": "Dr.",
+  "full_name": "Dr. Sururah Apinke Bello",
+  "title": "Hod of Computer Engineering and ICT",
   "departmentId": "cse",
   "email": "sururah.bello@university.local",
   "phone": "",
@@ -374,7 +374,7 @@
   "courses_taught": []
 },
 {
-  "full_name": "Mistura L. Sanni",
+  "full_name": "Dr. Mistura L. Sanni",
   "title": "Dr.",
   "departmentId": "cse",
   "email": "msanni@oauife.edu.ng",
@@ -400,8 +400,8 @@
   "courses_taught": []
 },
 {
-  "full_name": "Odetunji A. Odejobi",
-  "title": "Dr.",
+  "full_name": "Prof. Odetunji A. Odejobi",
+  "title": "HOD of Intelligence Systems Engineering",
   "departmentId": "is",
   "email": "odetunji.odejobi@university.local",
   "phone": "",
@@ -429,7 +429,7 @@
   "courses_taught": []
 },
 {
-  "full_name": "Babajide Samuel Afolabi",
+  "full_name": "Prof.Babajide Samuel Afolabi",
   "title": "Professor",
   "departmentId": "se",
   "email": "babajide.afolabi@oauife.edu.ng",
@@ -463,9 +463,9 @@
   "personal_website": "http://www.oauife.edu.ng"
 },
 {
-  "full_name": "Adeniran I. Oluwaranti",
-  "title": "Professor",
-  "departmentId": "csc",
+  "full_name": "Prof. Adeniran I. Oluwaranti",
+  "title": "Computer Engineering and Cybersecurity",
+  "departmentId": "cse",
   "email": "adenirani.oluwaranti@university.local",
   "phone": "",
   "profile_picture": "https://res.cloudinary.com/deisu8sjo/image/upload/v1757877975/prof_adeniran_moj3wk.jpg",
@@ -493,7 +493,7 @@
   "personal_website": ""
 },
 {
- "full_name": "Emmanuel R. Adagunodo",
+ "full_name": "Prof. Emmanuel R. Adagunodo",
   "title": "Professor",
   "departmentId": "se",
   "email": "eadagun@oauife.edu.ng",
@@ -513,8 +513,8 @@
   "personal_website": ""
 },
 {
-  "full_name": "Ganiyu Adesola Aderounmu",
-  "title": "Professor",
+  "full_name": "Prof. Ganiyu Adesola Aderounmu",
+  "title": "Deputy vice chancellor of acadamics",
   "departmentId": "cse",
   "email": "gaderoun@oauife.edu.ng",
   "phone": "",
@@ -550,8 +550,8 @@
   
 },
 {
-"full_name": "Iyabo Olukemi Awoyelu",
-  "title": "Professor",
+"full_name": "Prof. Iyabo Olukemi Awoyelu",
+  "title": "HOD of Computer Science and Cybersecurity",
   "departmentId": "csc",
   "email": "iawoyelu@oauife.edu.ng",
   "phone": "",
@@ -582,7 +582,7 @@
   "personal_website": ""
 },
 {
-  "full_name": "Safiriyu Ijiyemi Eludiora",
+  "full_name": "Prof. Safiriyu Ijiyemi Eludiora",
   "title": "Senior Lecturer",
   "departmentId": "ai",
   "email": "safiriyue@yahoo.com",
@@ -617,7 +617,7 @@
   "personal_website": "https://www.researchgate.net/profile/Safiriyu-Eludiora"
 },
 {
-  "full_name": "Lawal Aderonke Rasheedat",
+  "full_name": "Dr. Lawal Aderonke Rasheedat",
   "title": "Senior Lecturer",
   "departmentId": "cse",
   "email": "alawal@oauife.edu.ng",
@@ -652,7 +652,7 @@
   "personal_website": ""
 },
 {
-  "full_name": "Onifade Mary Taiwo",
+  "full_name": "Mrs. Onifade Mary Taiwo",
   "title": "Assistant Lecturer",
   "departmentId": "ai",
   "email": "taiwoonifade17@gmail.com",

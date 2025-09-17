@@ -12,7 +12,21 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
+import { usePathname } from "next/navigation"
 import { useDepartmentsStore } from "~/src/hooks/use-department"
+import { cn } from "../lib/utils"
+
+
+const navLinks = [
+  { label: "Home", href: "/" },
+  {
+    label: "Departments",
+    type: "dropdown",
+    items: "departments", 
+  },
+  { label: "Lecturers", href: "/lecturers" },
+  { label: "Chat", href: "/chat" },
+]
 
 
 
@@ -21,7 +35,11 @@ export function Header() {
   const [searchQuery, setSearchQuery] = useState("")
   const departments = useDepartmentsStore((state) => state.departments)
   const fetchDepartments = useDepartmentsStore((state) => state.fetchDepartments)
+  const pathname = usePathname()
+
   
+  const isActive = (href: string) => pathname === href
+
   useEffect(() => {
     fetchDepartments()
   }, [fetchDepartments])
@@ -46,56 +64,32 @@ export function Header() {
 
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center space-x-8">
-            <Link href="/" className="hover:text-accent transition-colors">
-              Home
-            </Link>
-
-            <DropdownMenu>
-              <DropdownMenuTrigger className="hover:text-accent transition-colors">Departments</DropdownMenuTrigger>
-              <DropdownMenuContent>
-                {departments.map((dept) => (
-                  <DropdownMenuItem key={dept.id} asChild>
-                    <Link href={`/departments/${dept.id}`}>{dept.name}</Link>
-                  </DropdownMenuItem>
-                ))}
-              </DropdownMenuContent>
-            </DropdownMenu>
-
-            <Link href="/lecturers" className="hover:text-accent transition-colors">
-              Lecturers
-            </Link>
-
-            <Link href="/chat" className="hover:text-accent transition-colors">
-              Chat
-            </Link>
-
-            {/* {isAuthenticated ? (
-              <DropdownMenu>
-                <DropdownMenuTrigger asChild>
-                  <Button variant="ghost" size="sm" className="flex items-center space-x-2">
-                    <User className="h-4 w-4" />
-                    <span>{user?.name || "Student"}</span>
-                  </Button>
+            {navLinks.map((link) =>
+            link.type === "dropdown" ? (
+              <DropdownMenu key={link.label}>
+                <DropdownMenuTrigger className={`transition-colors ${
+                  pathname.startsWith("/departments") ? "text-accent font-semibold" : "hover:text-accent"
+                }`}>
+                  {link.label}
                 </DropdownMenuTrigger>
-                <DropdownMenuContent align="end">
-                  <DropdownMenuItem disabled>
-                    <div className="flex flex-col">
-                      <span className="font-medium">{user?.name}</span>
-                      <span className="text-xs text-muted-foreground">{user?.email}</span>
-                    </div>
-                  </DropdownMenuItem>
-                  <DropdownMenuSeparator />
-                  <DropdownMenuItem onClick={logout}>
-                    <LogOut className="h-4 w-4 mr-2" />
-                    Sign out
-                  </DropdownMenuItem>
+                <DropdownMenuContent>
+                  {departments.map((dept) => (
+                    <DropdownMenuItem key={dept.id} asChild>
+                      <Link href={`/departments/${dept.id}`}>{dept.name}</Link>
+                    </DropdownMenuItem>
+                  ))}
                 </DropdownMenuContent>
               </DropdownMenu>
             ) : (
-              <Link href="/login" className="hover:text-accent transition-colors">
-                Login
+              <Link
+                key={link.label}
+                href={link.href!}
+                className={cn('hover:text-accent transition-colors', isActive(link.href!) ? "text-accent font-semibold" : "hover:text-accent")}
+              >
+                {link.label}
               </Link>
-            )} */}
+            )
+          )}
           </nav>
 
           {/* Search Bar */}

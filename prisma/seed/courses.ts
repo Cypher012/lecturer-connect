@@ -2,7 +2,7 @@ import {db} from "../../src/server/db"
 import courses from "../../src/lib/seed_data/courses.json"
 
 
-const BATCH_SIZE = 10; // adjust based on your DB limits
+const BATCH_SIZE = 20; // adjust based on your DB limits
 
 async function SeedCourses() {
   for (let i = 0; i < courses.length; i += BATCH_SIZE) {

@@ -74,7 +74,6 @@ export default function DepartmentsPage({lecturers}: {lecturers: LecturerWithRel
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12 px-5">
           {departments.sort((a,b) => a.name.localeCompare(b.name)).map((department) => {
             const departmentLecturers = getLecturersByDepartment(department.id, departments)
-            console.log({departmentLecturers})
             const lecturerCount = department.lecturers.length ?? 0
 
             return (

@@ -197,6 +197,14 @@
     ]
   },
   {
+    "course_code": "CSC302",
+    "course_title": "Object-Oriented Programming",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
     "course_code": "CSC305",
     "course_title": "Introduction Database Systems",
     "departments": [

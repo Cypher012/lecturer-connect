@@ -39,10 +39,6 @@ export default function DepartmentPage({ id, lecturers }: DepartmentPageProps) {
 
   const department = departments.find((dept) => dept.id === id)
 
-  console.log("department", department)
-
-
-
   if (!department) {
     notFound()
   }

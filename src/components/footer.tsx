@@ -19,7 +19,7 @@ export function Footer() {
             <div className="space-y-2 text-sm text-primary-foreground/80">
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span>Faculty of Computing, University Campus</span>
+                <span>Faculty of Computing, Obafemi Awolowo University</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />

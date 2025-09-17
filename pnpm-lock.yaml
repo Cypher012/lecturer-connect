@@ -173,9 +173,6 @@ importers:
       sonner:
         specifier: ^1.7.4
         version: 1.7.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      svelte:
-        specifier: latest
-        version: 5.38.6
       tailwind-merge:
         specifier: ^2.5.5
         version: 2.6.0
@@ -188,12 +185,6 @@ importers:
       vaul:
         specifier: ^0.9.9
         version: 0.9.9(@types/react-dom@19.1.9(@types/react@19.1.12))(@types/react@19.1.12)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      vue:
-        specifier: latest
-        version: 3.5.20(typescript@5.9.2)
-      vue-router:
-        specifier: latest
-        version: 4.5.1(vue@3.5.20(typescript@5.9.2))
       zod:
         specifier: 3.25.67
         version: 3.25.67
@@ -2665,13 +2656,16 @@ snapshots:
 
   '@alloc/quick-lru@5.2.0': {}
 
-  '@babel/helper-string-parser@7.27.1': {}
+  '@babel/helper-string-parser@7.27.1':
+    optional: true
 
-  '@babel/helper-validator-identifier@7.27.1': {}
+  '@babel/helper-validator-identifier@7.27.1':
+    optional: true
 
   '@babel/parser@7.28.3':
     dependencies:
       '@babel/types': 7.28.2
+    optional: true
 
   '@babel/runtime@7.28.3': {}
 
@@ -2679,6 +2673,7 @@ snapshots:
     dependencies:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.27.1
+    optional: true
 
   '@cspotcode/source-map-support@0.8.1':
     dependencies:
@@ -3941,11 +3936,13 @@ snapshots:
       entities: 4.5.0
       estree-walker: 2.0.2
       source-map-js: 1.2.1
+    optional: true
 
   '@vue/compiler-dom@3.5.20':
     dependencies:
       '@vue/compiler-core': 3.5.20
       '@vue/shared': 3.5.20
+    optional: true
 
   '@vue/compiler-sfc@3.5.20':
     dependencies:
@@ -3955,25 +3952,30 @@ snapshots:
       '@vue/compiler-ssr': 3.5.20
       '@vue/shared': 3.5.20
       estree-walker: 2.0.2
-      magic-string: 0.30.18
+      magic-string: 0.30.19
       postcss: 8.5.6
       source-map-js: 1.2.1
+    optional: true
 
   '@vue/compiler-ssr@3.5.20':
     dependencies:
       '@vue/compiler-dom': 3.5.20
       '@vue/shared': 3.5.20
+    optional: true
 
-  '@vue/devtools-api@6.6.4': {}
+  '@vue/devtools-api@6.6.4':
+    optional: true
 
   '@vue/reactivity@3.5.20':
     dependencies:
       '@vue/shared': 3.5.20
+    optional: true
 
   '@vue/runtime-core@3.5.20':
     dependencies:
       '@vue/reactivity': 3.5.20
       '@vue/shared': 3.5.20
+    optional: true
 
   '@vue/runtime-dom@3.5.20':
     dependencies:
@@ -3981,14 +3983,17 @@ snapshots:
       '@vue/runtime-core': 3.5.20
       '@vue/shared': 3.5.20
       csstype: 3.1.3
+    optional: true
 
   '@vue/server-renderer@3.5.20(vue@3.5.20(typescript@5.9.2))':
     dependencies:
       '@vue/compiler-ssr': 3.5.20
       '@vue/shared': 3.5.20
       vue: 3.5.20(typescript@5.9.2)
+    optional: true
 
-  '@vue/shared@3.5.20': {}
+  '@vue/shared@3.5.20':
+    optional: true
 
   '@web3-storage/multipart-parser@1.0.0': {}
 
@@ -4207,7 +4212,8 @@ snapshots:
       graceful-fs: 4.2.11
       tapable: 2.2.3
 
-  entities@4.5.0: {}
+  entities@4.5.0:
+    optional: true
 
   esbuild@0.25.9:
     optionalDependencies:
@@ -4246,7 +4252,8 @@ snapshots:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  estree-walker@2.0.2: {}
+  estree-walker@2.0.2:
+    optional: true
 
   eventemitter3@4.0.7: {}
 
@@ -4839,6 +4846,7 @@ snapshots:
     dependencies:
       '@vue/devtools-api': 6.6.4
       vue: 3.5.20(typescript@5.9.2)
+    optional: true
 
   vue@3.5.20(typescript@5.9.2):
     dependencies:
@@ -4849,6 +4857,7 @@ snapshots:
       '@vue/shared': 3.5.20
     optionalDependencies:
       typescript: 5.9.2
+    optional: true
 
   yallist@5.0.0: {}
 

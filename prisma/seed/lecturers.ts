@@ -1,7 +1,7 @@
 import { db } from "../../src/server/db";
 import lecturers from "../../src/lib/seed_data/lecturers.json";
 
-const BATCH_SIZE = 5; // Adjust based on your DB limits
+const BATCH_SIZE = 10; // Adjust based on your DB limits
 const MAX_RETRIES = 3;
 
 async function upsertLecturerWithRetry(lecturer: typeof lecturers[0], attempt = 1) {
