@@ -75,14 +75,47 @@ export async function GET(req: NextRequest) {
           // 2. Search Pinecone
           const searchResponse = await pineconeIndex.query({
             vector: embedding.data[0].embedding,
-            topK: 8,
+            topK: 10,
             includeMetadata: true,
           });
+        const retrievedContext = searchResponse.matches
+          .map((match) => {
+            const md = match.metadata || {};
+            // console.log(md)
 
-          const retrievedContext = searchResponse.matches
-            .map((match) => match.metadata?.text)
-            .filter((t): t is string => Boolean(t))
-            .join("\n\n");
+            // Check if it's a lecturer
+            if (md.full_name) {
+              return `
+                Lecturer
+                --------
+                Name: ${md.full_name}
+                Title: ${md.title}
+                Email: ${md.email}
+                Department: ${md.department}
+                Role: ${md.role}
+                Research Areas: ${Array.isArray(md.researchAreas) ? md.researchAreas.join(", ") : md.researchAreas || "N/A"}
+                Courses: ${md.courses || "N/A"}
+                Publications: ${md.publications || "N/A"}
+              `;
+            }
+
+            // Otherwise assume it's a course
+            if (md.course_code) {
+              return `
+                Course
+                ------
+                Code: ${md.course_code}
+                Title: ${md.course_title}
+                Departments: ${Array.isArray(md.departments) ? md.departments.join(", ") : md.departments || "N/A"}
+                Lecturers: ${Array.isArray(md.lecturers) ? md.lecturers.join(", ") : md.lecturers || "N/A"}
+              `;
+            }
+
+            // Fallback
+            return md.text || "Unknown record";
+          })
+          .join("\n\n");
+
 
           // Notify client: preparing response
           sendEvent("Generating response…", "response_loading");

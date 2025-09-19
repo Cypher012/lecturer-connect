@@ -1,5 +1,5 @@
 "use server"
-import { db } from "@/server/db";
+import { db } from "../../server/db";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 
@@ -21,6 +21,14 @@ export type CourseWithRelations = {
   department: Department | null
   lecturers: Lecturer[]
 } & $Course
+
+
+export async function getCourses(){
+  return db.course.findMany({
+    orderBy: {course_code: "asc"},
+    include: {departments: true, lecturers: true}
+  })
+}
 
 
 // CREATE

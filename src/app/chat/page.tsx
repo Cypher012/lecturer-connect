@@ -26,7 +26,7 @@ export default function ChatPage() {
     "Who can I meet for mentorship in hardware fields?",
     "How can I contact Dr. Lawal Aderonke?",
     "What teaches CPE203",
-    "Who is the HOD of Software Engineering",
+    // "Who is the HOD of Software Engineering",
   ]
 
   const handleSuggestionClick = (suggestion: string) => {
@@ -185,7 +185,7 @@ export default function ChatPage() {
 function AIResponse({ message }: { message: EventMessage }) {
   return (
     <div className="prose text-gray-200 max-w-none prose-a:text-blue-600 hover:prose-a:text-blue-800">
-      <div className={`rounded-2xl px-2 py-1 sm:px-4 sm:py-2 shadow-sm text-sm leading-relaxed ${
+      <div className={`rounded-2xl px-2 py-1 sm:px-4 sm:py-2 shadow-sm text-base leading-relaxed ${
         message.type === "user"
           ? "bg-primary text-primary-foreground"
           : "bg-muted text-foreground"

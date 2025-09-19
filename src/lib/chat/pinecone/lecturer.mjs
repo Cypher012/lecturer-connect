@@ -15,8 +15,9 @@ const {
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 
 const BATCH_SIZE = 6
+const MAX_RETRIES = 3;
 
-async function upsertLecturerToPinecone(lecturer, index) {
+async function upsertLecturerToPinecone(lecturer, index, attempt = 1) {
     try {
       const embeddingResponse = await openai.embeddings.create({
         model: OPENAI_EMBEDDING_MODEL,
@@ -29,14 +30,28 @@ async function upsertLecturerToPinecone(lecturer, index) {
         {
           id: lecturer.id,
           values: vector,
-          metadata: { ...lecturer },
+           metadata: {
+            text: lecturer.text,    // keep the full descriptive string
+            ...lecturer.metadata,   // also store structured fields
+          },
         },
       ]);
 
       console.log(`Inserted: ${lecturer.id}`);
       return lecturer.id
     } catch (error) {
-      console.error(`Error upserting lecturer ${lecturer.id}:`, error);
+      if (attempt < MAX_RETRIES) {
+        console.warn(`
+          ⚠️ Retry ${attempt} for lecturer: ${lecturer.full_name} due to error: ${
+          error.message || error}
+          `)
+          await upsertLecturerToPinecone(lecturer, index, attempt + 1)
+      } else {
+        console.error(
+        `❌ Failed to seed lecturer after ${MAX_RETRIES} attempts: ${lecturer.full_name}`
+      );
+      console.error("Error details:", error.message || error);
+      }
     }
   }
 
@@ -74,6 +89,12 @@ export async function initLecturerPinecone() {
           console.error(`❌ Failed for ${lecturer.id}:`, result.reason);
         }
     });
+
+    console.log(
+          `🌟 Seeded lecturer batch ${i / BATCH_SIZE + 1} / ${Math.ceil(
+            lecturers.length / BATCH_SIZE
+          )}`
+        );
     
   }
 

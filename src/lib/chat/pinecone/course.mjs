@@ -1,6 +1,7 @@
 import { Pinecone } from "@pinecone-database/pinecone";
 import OpenAI from "openai";
 import { loadCourseData } from "../loader/courses.js";
+import dotenv from "dotenv";
 dotenv.config();
 
 const {
@@ -12,8 +13,10 @@ const {
 
 
 const BATCH_SIZE = 20
+const MAX_RETRIES = 3;
 
-async function upsertCourseToPinecone(course, index) {
+
+async function upsertCourseToPinecone(course, index, attempt = 1) {
     try {
       const embeddingResponse = await openai.embeddings.create({
         model: OPENAI_EMBEDDING_MODEL,
@@ -22,18 +25,30 @@ async function upsertCourseToPinecone(course, index) {
 
       const vector = embeddingResponse.data[0].embedding;
 
-      await index.upsert([
-        {
-          id: course.id,
-          values: vector,
-          metadata: { ...course },
-        },
-      ]);
+     await index.upsert([
+      {
+        id: course.id,
+        values: vector,
+        metadata: course.metadata, // ✅ already flattened
+      },
+    ]);
 
       console.log(`Inserted: ${course.id}`);
       return course.id
     } catch (error) {
-      console.error(`Error upserting course ${course.id}:`, error);
+        if (attempt < MAX_RETRIES) {
+        console.warn(
+          `⚠️ Retry ${attempt} for lecturer: ${course.id} due to error: ${
+            error.message || error
+          }`
+        );
+        await upsertCourseToPinecone(course, index ,attempt + 1);
+      } else {
+        console.error(
+          `❌ Failed to seed lecturer after ${MAX_RETRIES} attempts: ${course.id}`
+        );
+        console.error("Error details:", error.message || error);
+      }
     }
 }
 
@@ -77,6 +92,12 @@ export async function initCoursePinecone() {
         console.error(`❌ Failed for ${course.id}:`, result.reason);
       }
   });
+
+  console.log(
+        `🌟 Seeded course batch ${i / BATCH_SIZE + 1} / ${Math.ceil(
+          courses.length / BATCH_SIZE
+        )}`
+      );
     
   }
 
