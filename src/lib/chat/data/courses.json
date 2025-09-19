@@ -1,0 +1,1252 @@
+[
+  {
+    "course_code": "CSC201",
+    "course_title": "Computer Programming I",
+    "departments": [
+      "Computer Science and Cybersecurity",
+      "Computer Engineering and Information Communication Technology",
+      "Software Engineering",
+      "Information Systems",
+      "Intelligence Systems"
+    ]
+  },
+  {
+    "course_code": "CYB201",
+    "course_title": "Fundamentals of Cyber Security",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB203",
+    "course_title": "Internet Architecture",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB205",
+    "course_title": "Software Defined Networks",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB207",
+    "course_title": "Information Security & Policy Development",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC202",
+    "course_title": "Computer Programming II",
+    "departments": [
+      "Computer Science and Cybersecurity",
+      "Software Engineering",
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CSC204",
+    "course_title": "Introduction to Operating System",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB202",
+    "course_title": "System & Network Administration",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB204",
+    "course_title": "Digital Forensics",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB206",
+    "course_title": "Security Strategies for Web Applications and Social Networks",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE203",
+    "course_title": "Digital Computer Systems I",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Software Engineering",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE204",
+    "course_title": "Digital Computer Systems II",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Software Engineering",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE206",
+    "course_title": "Digital Systems Laboratory",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Software Engineering",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CIS201",
+    "course_title": "Introduction to Problem Solving",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS203",
+    "course_title": "Information Assurance and Security",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS205",
+    "course_title": "Web Technologies",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS202",
+    "course_title": "Computer Programming for IS",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS204",
+    "course_title": "Human Computer Interaction",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS206",
+    "course_title": "Analysis of Business Requirements",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CSC204",
+    "course_title": "Introduction to Operating Systems",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CSE201",
+    "course_title": "Elements of Software Construction I",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE202",
+    "course_title": "Elements of Software Construction II",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC101",
+    "course_title": "Introduction to Computing I",
+    "departments": [
+      "Computer Science and Cybersecurity",
+      "Computer Engineering and Information Communication Technology",
+      "Software Engineering",
+      "Information Systems",
+      "Intelligence Systems"
+    ]
+  },
+  {
+    "course_code": "CSC102",
+    "course_title": "Introduction to Computing II",
+    "departments": [
+      "Computer Science and Cybersecurity",
+      "Computer Engineering and Information Communication Technology",
+      "Software Engineering",
+      "Information Systems",
+      "Intelligence Systems"
+    ]
+  },
+  {
+    "course_code": "CPE301",
+    "course_title": "Low Level Languages",
+    "departments": [
+      "Software Engineering",
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC302",
+    "course_title": "Object-Oriented Programming",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC305",
+    "course_title": "Introduction Database Systems",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC311",
+    "course_title": "Information Systems",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSE321",
+    "course_title": "Fundamentals of Requirements Engineering",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE315",
+    "course_title": "Object Oriented Programming",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC317",
+    "course_title": "Automata Theory and Computability",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC307",
+    "course_title": "Numerical Computation I",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity",
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CSC315",
+    "course_title": "Data Structure and Analysis of Algorithms",
+    "departments": [
+      "Software Engineering",
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC308",
+    "course_title": "Numerical Computation II",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity",
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CSE302",
+    "course_title": "Object Oriented Programming",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE312",
+    "course_title": "Systems Analysis and Design",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE322",
+    "course_title": "Software Design",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE324",
+    "course_title": "Software Testing",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CPE316",
+    "course_title": "Artificial Intelligence",
+    "departments": [
+      "Software Engineering",
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CIS301",
+    "course_title": "Data Analysis",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CIS303",
+    "course_title": "E-Business Systems Development Management",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CIS305",
+    "course_title": "Systems Thinking, Modeling and Computer Simulation",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CIS307",
+    "course_title": "Database Management Practice",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CIS309",
+    "course_title": "Enterprise Architecture",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC301",
+    "course_title": "Fundamentals of Data Structures",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CIS302",
+    "course_title": "Data Science I",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CIS304",
+    "course_title": "Systems Analysis and Design",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CIS306",
+    "course_title": "Knowledge Management and Information retrieval",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CIT316",
+    "course_title": "Artificial Intelligence",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CIS352",
+    "course_title": "IS Innovation and New Technologies",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CIS351",
+    "course_title": "Business Process Management",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "ICT304",
+    "course_title": "Communication Principles",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE314",
+    "course_title": "Computer Engineering Laboratory II",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT302",
+    "course_title": "Computer Organization and Architecture",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT306",
+    "course_title": "Software Development Techniques",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT303",
+    "course_title": "Operating System",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE303",
+    "course_title": "Digital System Design I with HDL",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT311",
+    "course_title": "ICT Laboratory I",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT301",
+    "course_title": "Databse Design and Management",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CSE301",
+    "course_title": "Object Oriented Modelling and Design",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB301",
+    "course_title": "Biometric Securuty",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB303",
+    "course_title": "Cryptographic Techniques",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB305",
+    "course_title": "Systems Security",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB307",
+    "course_title": "Information Security Engineering",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB302",
+    "course_title": "Information security Risk Analysis and Management",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB304",
+    "course_title": "Edge and Perimeter Security",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB306",
+    "course_title": "Cloud Computing Security",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC306",
+    "course_title": "Algorithms and Complexity Analysis",
+    "departments": [
+      "Computer Science and Cybersecurity",
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE309",
+    "course_title": "Computer Engineering Lab I",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE310",
+    "course_title": "Introduction to Agent based Systems",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC304",
+    "course_title": "Business and Commercial Programming",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC312",
+    "course_title": "Systems Analysis and Design Methodologies",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE316",
+    "course_title": "Introduction to Artificial Intelligence",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSE421",
+    "course_title": "Software Systems Architecture",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CPE401",
+    "course_title": "Computer Architecture and Organization",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity",
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CSC403",
+    "course_title": "Compiling Techniques",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity",
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CSC407",
+    "course_title": "Techniques in Software Development",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE405",
+    "course_title": "Microprocessor Technology and Microprogramming",
+    "departments": [
+      "Software Engineering",
+      "Computer Science and Cybersecurity",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE409",
+    "course_title": "Microprocessor Design Laboratory",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE413",
+    "course_title": "Data Communication and Networking",
+    "departments": [
+      "Information Systems",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC415",
+    "course_title": "Operating Systems Principles",
+    "departments": [
+      "Computer Science and Cybersecurity",
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT507",
+    "course_title": "Introduction to enterprise resource planning system",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT515",
+    "course_title": "Multimedia technology and programming",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT517",
+    "course_title": "Data structure and algorithm",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT502",
+    "course_title": "Reliability and maintainability of hardware systems",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT504",
+    "course_title": "Individual project II",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT506",
+    "course_title": "Industrial application studies",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT520",
+    "course_title": "Design and installation of electrical ICT",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT508",
+    "course_title": "Antenna and propagation",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT510",
+    "course_title": "Software engineering",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT516",
+    "course_title": "Communication system engineering",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "ICT518",
+    "course_title": "Random process and queuing theory",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE513",
+    "course_title": "Embedded system design",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE521",
+    "course_title": "Reinforcement learning and control",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE525",
+    "course_title": "Data image processing",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE522",
+    "course_title": "Cryptography principles and applications",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE503",
+    "course_title": "Individual Project I",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CSC505",
+    "course_title": "Object Oriented Modelling",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE509",
+    "course_title": "Hardware Design Laboratory",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE511",
+    "course_title": "Computer-Based Real-Time System Design",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE521",
+    "course_title": "Modelling and Simulation",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE517",
+    "course_title": "Digital Computer Network",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE502",
+    "course_title": "Hardware System Studies",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE504",
+    "course_title": "Individual Project II",
+    "departments": [
+      "Computer Engineering and Information Communication Technology"
+    ]
+  },
+  {
+    "course_code": "CPE506",
+    "course_title": "Industrial Applications Studies",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE508",
+    "course_title": "Computer System Project Management",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CPE510",
+    "course_title": "Natural Language Processing & Application",
+    "departments": [
+      "Computer Engineering and Information Communication Technology",
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC503",
+    "course_title": "Individual Project I",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC523",
+    "course_title": "Mathematical Programming",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC507",
+    "course_title": "Computers in Society",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC521",
+    "course_title": "Modelling and Simulation",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC513",
+    "course_title": "Principle and Application of Data Mining",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC515",
+    "course_title": "Database Design and Management",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC504",
+    "course_title": "Individual Project II",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC514",
+    "course_title": "Computer Graphics",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC520",
+    "course_title": "Expert Systems",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC522",
+    "course_title": "Information Storage and Retrieval",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC524",
+    "course_title": "Techniques in Data Analysis",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC505",
+    "course_title": "Object Oriented Modelling",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC501",
+    "course_title": "Introduction to Operations Research",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB501",
+    "course_title": "Fault Tolerant Computing",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB503",
+    "course_title": "Individual Project I",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB507",
+    "course_title": "Cryptography Algorithms and Applications",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB509",
+    "course_title": "System Administration",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CSC513",
+    "course_title": "ModellingandSimulation",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB511",
+    "course_title": "Cyber Security Governance & Cyber Law",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB513",
+    "course_title": "Enterprise Security and Information Assurance",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB519",
+    "course_title": "VoIP and Multimedia Security",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB515",
+    "course_title": "Forensic Analysis",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB517",
+    "course_title": "Threats, Exploits and Counter Measures",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB502",
+    "course_title": "Identity Management",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB504",
+    "course_title": "Individual Project II",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CYB508",
+    "course_title": "Special Topics on Information Security",
+    "departments": [
+      "Computer Science and Cybersecurity"
+    ]
+  },
+  {
+    "course_code": "CIS 501",
+    "course_title": "Business Models and Innovations",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 503",
+    "course_title": "Final Team Research Project I",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 505",
+    "course_title": "Ethical, Legal and Professional Issues in IS",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 507",
+    "course_title": "Research Methodology in IS",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 509",
+    "course_title": "Web Application Development",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 511",
+    "course_title": "Application Design and Development",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 551",
+    "course_title": "Network Administration",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 555",
+    "course_title": "Database Analysis and Design",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 553",
+    "course_title": "Information Storage and Management Technology",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 557",
+    "course_title": "Agile Web Development with OpenSource Framework",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 502",
+    "course_title": "Special Topics in Information System",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 504",
+    "course_title": "Final Team Research Project II",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 506",
+    "course_title": "Information System Audit and Controls",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 508",
+    "course_title": "Strategy Management and acquisition in IS Database",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 522",
+    "course_title": "Data Administration",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 527",
+    "course_title": "Database Programming",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CIS 506",
+    "course_title": "Network, Servers and Infrastructure",
+    "departments": [
+      "Information Systems"
+    ]
+  },
+  {
+    "course_code": "CSC 505",
+    "course_title": "Operation Research",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC 501",
+    "course_title": "Ethics and Rights Issues in Computing",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE 503",
+    "course_title": "Individual Project I",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE 521",
+    "course_title": "Aspect Oriented Development",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE 523",
+    "course_title": "Principles of Human Computer Interaction",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE 519",
+    "course_title": "Formal Methods and Program Verification",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE 525",
+    "course_title": "Software Maintenance",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC 507",
+    "course_title": "Intelligent System Design",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC 523",
+    "course_title": "Techniques in Data Analysis",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC 515",
+    "course_title": "Data Warehousing",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC 527",
+    "course_title": "Software Economics",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE 504",
+    "course_title": "Individual Project II",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CPE 506",
+    "course_title": "Industrial Application Studies and Innovations",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CPE 502",
+    "course_title": "Hardware System Studies",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE 506",
+    "course_title": "Software Engineering Process and Configuration Management",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC 508",
+    "course_title": "Computer System Project Management",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSE 514",
+    "course_title": "Software Quality Management",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CPE 520",
+    "course_title": "Mobile Computing",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC 524",
+    "course_title": "Cloud Computing",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC 510",
+    "course_title": "Human Language Processing",
+    "departments": [
+      "Software Engineering"
+    ]
+  },
+  {
+    "course_code": "CSC 528",
+    "course_title": "Application Agile Software Development",
+    "departments": [
+      "Software Engineering"
+    ]
+  }
+]

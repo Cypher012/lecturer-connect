@@ -5,7 +5,9 @@ import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Send, Bot, User, MessageCircle } from "lucide-react"
-import { useChat } from "~/src/hooks/use-chat"
+import { EventMessage, useChat } from "~/src/hooks/use-chat"
+import ReactMarkdown from "react-markdown";
+import { ReactNode } from "react"
 
 export default function ChatPage() {
   const {
@@ -21,10 +23,10 @@ export default function ChatPage() {
 
   const suggestionMockData = [
     "What is Engr Gbadebo research focus",
-    "What topics does Prof Ayodeji research?",
-    "How can I contact Dr. Lawal?",
-    "What courses does Engr. Ajayi teach?",
-    "Tell me about Dr. Gambo.",
+    "Who can I meet for mentorship in hardware fields?",
+    "How can I contact Dr. Lawal Aderonke?",
+    "What teaches CPE203",
+    "Who is the HOD of Software Engineering",
   ]
 
   const handleSuggestionClick = (suggestion: string) => {
@@ -89,15 +91,7 @@ export default function ChatPage() {
 
                   {/* Bubble */}
                   <div className="flex-1">
-                    <div
-                      className={`rounded-2xl px-2 py-2 sm:px-4 sm:py-3 shadow-sm text-sm leading-relaxed ${
-                        message.type === "user"
-                          ? "bg-primary text-primary-foreground"
-                          : "bg-muted text-foreground"
-                      }`}
-                    >
-                      {message.data}
-                    </div>
+                      <AIResponse message={message}/>
                     <div className="text-xs text-muted-foreground mt-1 ml-1">
                       {new Date().toLocaleTimeString([], {
                         hour: "2-digit",
@@ -185,4 +179,20 @@ export default function ChatPage() {
       </div>
     </div>
   )
+}
+
+
+function AIResponse({ message }: { message: EventMessage }) {
+  return (
+    <div className="prose text-gray-200 max-w-none prose-a:text-blue-600 hover:prose-a:text-blue-800">
+      <div className={`rounded-2xl px-2 py-1 sm:px-4 sm:py-2 shadow-sm text-sm leading-relaxed ${
+        message.type === "user"
+          ? "bg-primary text-primary-foreground"
+          : "bg-muted text-foreground"
+      }`}
+      >
+        <ReactMarkdown>{message.data}</ReactMarkdown>
+      </div>
+    </div>
+  );
 }

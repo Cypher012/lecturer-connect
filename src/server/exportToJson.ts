@@ -7,7 +7,7 @@ async function exportLecturersToJson() {
     const lecturers = await getLecturers();
 
     // Define output file path
-    const filePath = path.join(`${process.cwd()}/src/lib/chat`, "lecturers.json");
+    const filePath = path.join(`${process.cwd()}/src/lib/chat/data`, "lecturers.json");
 
     // Write data to JSON file (pretty-printed with 2 spaces)
     fs.writeFileSync(filePath, JSON.stringify(lecturers, null, 2), "utf-8");

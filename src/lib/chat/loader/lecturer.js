@@ -1,4 +1,4 @@
-import lecturers from "./lecturers.json" with { type: "json" };
+import lecturers from "../data/lecturers.json" with { type: "json" };
 
 export function loadLecturerData() {
   const documents = lecturers.map((lecturer) => {
@@ -6,7 +6,7 @@ export function loadLecturerData() {
     const courses =
       lecturer.courses && lecturer.courses.length > 0
         ? lecturer.courses.map((c) =>
-            typeof c === "string" ? c : c.course_code || JSON.stringify(c)
+            typeof c === "string" ? c : c.code || JSON.stringify(c)
           ).join(", ")
         : "N/A";
 
